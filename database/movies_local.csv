@@ -1,0 +1,4771 @@
+movie,year,indications,win
+All about Eve,1951.0,14,6
+Titanic,1998.0,14,11
+La La Land,2017.0,14,6
+Gone with the Wind,1940.0,13,8
+The Curious Case of Benjamin Button,2009.0,13,3
+Shakespeare in Love,1999.0,13,7
+Forrest Gump,1995.0,13,6
+Who's Afraid of Virginia Woolf?,1967.0,13,5
+From Here to Eternity,1954.0,13,8
+Mary Poppins,1965.0,13,5
+Chicago,2003.0,13,6
+The Lord of the Rings: The Fellowship of the Ring,2002.0,13,4
+The English Patient,1997.0,12,9
+The King's Speech,2011.0,12,4
+Ben-Hur,1960.0,12,11
+Gladiator,2001.0,12,5
+Lincoln,2013.0,12,2
+The Revenant,2016.0,12,3
+Dances With Wolves,1991.0,12,7
+My Fair Lady,1965.0,12,8
+Schindler's List,1994.0,12,7
+On the Waterfront,1955.0,12,8
+Becket,1965.0,12,1
+The Song of Bernadette,1944.0,12,4
+Reds,1982.0,12,3
+Mrs. Miniver,1943.0,12,6
+A Streetcar Named Desire,1952.0,12,4
+Johnny Belinda,1949.0,12,1
+Chinatown,1975.0,11,1
+Out of Africa,1986.0,11,7
+The Aviator,2005.0,11,5
+Rebecca,1941.0,11,2
+Saving Private Ryan,1999.0,11,5
+Life of Pi,2013.0,11,4
+Mr. Smith Goes to Washington,1940.0,11,1
+Julia,1978.0,11,3
+Amadeus,1985.0,11,8
+A Passage to India,1985.0,11,2
+The Turning Point,1978.0,11,0
+The Pride of the Yankees,1943.0,11,1
+Judgment at Nuremberg,1962.0,11,2
+The Godfather,1973.0,11,3
+The Color Purple,1986.0,11,0
+Sergeant York,1942.0,11,2
+West Side Story,1962.0,11,10
+Oliver!,1969.0,11,5
+Terms of Endearment,1984.0,11,5
+Sunset Blvd.,1951.0,11,3
+The Lord of the Rings: The Return of the King,2004.0,11,11
+The Godfather Part II,1975.0,11,6
+Hugo,2012.0,11,5
+Gandhi,1983.0,11,8
+The Sound of Music,1966.0,10,5
+True Grit,2011.0,10,0
+On Golden Pond,1982.0,10,3
+Gravity,2014.0,10,7
+Tom Jones,1964.0,10,4
+Doctor Zhivago,1966.0,10,5
+Gangs of New York,2003.0,10,0
+Airport,1971.0,10,1
+Bugsy,1992.0,10,2
+Star Wars,1978.0,10,6
+The Sting,1974.0,10,7
+Rocky,1977.0,10,3
+Roman Holiday,1954.0,10,3
+How Green Was My Valley,1942.0,10,5
+Cabaret,1973.0,10,8
+Patton,1971.0,10,7
+Anne of the Thousand Days,1970.0,10,1
+"Crouching Tiger, Hidden Dragon",2001.0,10,4
+Going My Way,1945.0,10,7
+Bonnie and Clyde,1968.0,10,2
+American Hustle,2014.0,10,0
+The Exorcist,1974.0,10,2
+Braveheart,1996.0,10,5
+The Apartment,1961.0,10,5
+The Artist,2012.0,10,5
+Wilson,1945.0,10,5
+Guess Who's Coming to Dinner,1968.0,10,2
+Giant,1957.0,10,1
+Lawrence of Arabia,1963.0,10,7
+Slumdog Millionaire,2009.0,10,8
+Network,1977.0,10,4
+Mad Max: Fury Road,2016.0,10,6
+Sayonara,1958.0,10,4
+Master and Commander: The Far Side of the World,2004.0,10,2
+The Life of Emile Zola,1938.0,10,3
+Tootsie,1983.0,10,1
+Kramer vs. Kramer,1980.0,9,5
+The Hurt Locker,2010.0,9,6
+The Hours,2003.0,9,1
+The Defiant Ones,1959.0,9,2
+The Deer Hunter,1979.0,9,5
+Raiders of the Lost Ark,1982.0,9,5
+Apollo 13,1996.0,9,2
+For Whom the Bell Tolls,1944.0,9,1
+L.A. Confidential,1998.0,9,2
+A Place in the Sun,1952.0,9,6
+12 Years a Slave,2014.0,9,3
+Doctor Dolittle,1968.0,9,2
+Birdman or (The Unexpected Virtue of Ignorance),2015.0,9,4
+Since You Went Away,1945.0,9,1
+Heaven Can Wait,1979.0,9,1
+The Grand Budapest Hotel,2015.0,9,4
+Gigi,1959.0,9,9
+"They Shoot Horses, Don't They?",1970.0,9,1
+The Last Emperor,1988.0,9,9
+Peyton Place,1958.0,9,0
+Citizen Kane,1942.0,9,1
+Unforgiven,1993.0,9,4
+E.T. The Extra-Terrestrial,1983.0,9,4
+Cleopatra,1964.0,9,4
+Howards End,1993.0,9,3
+The Poseidon Adventure,1973.0,9,2
+Close Encounters of the Third Kind,1978.0,9,2
+Driving Miss Daisy,1990.0,9,4
+The Hustler,1962.0,9,2
+All That Jazz,1980.0,9,4
+The Little Foxes,1942.0,9,0
+The King and I,1957.0,9,5
+One Flew over the Cuckoo's Nest,1976.0,9,5
+Good Will Hunting,1998.0,9,2
+Avatar,2010.0,9,3
+The Remains of the Day,1994.0,8,0
+The Imitation Game,2015.0,8,1
+Apocalypse Now,1980.0,8,2
+Milk,2009.0,8,2
+Born on the Fourth of July,1990.0,8,2
+American Beauty,2000.0,8,5
+Mutiny on the Bounty,1936.0,8,1
+The Sand Pebbles,1967.0,8,0
+Inception,2011.0,8,4
+No Country for Old Men,2008.0,8,4
+An American in Paris,1952.0,8,6
+Arrival,2017.0,8,1
+The Last Picture Show,1972.0,8,2
+Rain Man,1989.0,8,4
+How the West Was Won,1964.0,8,3
+The Rose Tattoo,1956.0,8,3
+Dreamgirls,2007.0,8,2
+Inglourious Basterds,2010.0,8,1
+The Bridge on the River Kwai,1958.0,8,7
+Moonlight,2017.0,8,3
+All the President's Men,1977.0,8,4
+Fiddler on the Roof,1972.0,8,3
+The Social Network,2011.0,8,3
+Prizzi's Honor,1986.0,8,1
+Moulin Rouge,2002.0,8,2
+Quo Vadis,1952.0,8,0
+The Bells of St. Mary's,1946.0,8,1
+Platoon,1987.0,8,4
+Raging Bull,1981.0,8,2
+The Right Stuff,1984.0,8,4
+Ragtime,1982.0,8,0
+The Best Years of Our Lives,1947.0,8,7
+Around the World in 80 Days,1957.0,8,5
+Silver Linings Playbook,2013.0,8,1
+There Will Be Blood,2008.0,8,2
+Les Misérables,2013.0,8,3
+Funny Girl,1969.0,8,1
+The French Connection,1972.0,8,5
+The Piano,1994.0,8,3
+A Room with a View,1987.0,8,3
+Gentleman's Agreement,1948.0,8,3
+The Dark Knight,2009.0,8,2
+Witness,1986.0,8,2
+To Kill a Mockingbird,1963.0,8,3
+Yankee Doodle Dandy,1943.0,8,3
+Coming Home,1979.0,8,3
+The Elephant Man,1981.0,8,0
+Wuthering Heights,1940.0,8,1
+The Heiress,1950.0,8,4
+A Man for All Seasons,1967.0,8,6
+The Diary of Anne Frank,1960.0,8,3
+Casablanca,1944.0,8,3
+The Nun's Story,1960.0,8,0
+The Towering Inferno,1975.0,8,3
+Marty,1956.0,8,4
+Love Is a Many-Splendored Thing,1956.0,8,3
+Ship of Fools,1966.0,8,2
+JFK,1992.0,8,2
+A Beautiful Mind,2002.0,8,4
+Brokeback Mountain,2006.0,8,3
+Seabiscuit,2004.0,7,0
+All the King's Men,1950.0,7,3
+Here Comes Mr. Jordan,1942.0,7,2
+Cold Mountain,2004.0,7,1
+Cimarron,1932.0,7,3
+Elizabeth,1999.0,7,1
+The Yearling,1947.0,7,2
+In the Heat of the Night,1968.0,7,5
+Dangerous Liaisons,1989.0,7,3
+"Hush...Hush, Sweet Charlotte",1965.0,7,0
+Zorba the Greek,1965.0,7,3
+The Shawshank Redemption,1995.0,7,0
+In the Name of the Father,1994.0,7,0
+The Letter,1941.0,7,0
+High Noon,1953.0,7,4
+The Lost Weekend,1946.0,7,4
+Come to the Stable,1950.0,7,0
+"Hello, Dolly!",1970.0,7,3
+Lost Horizon,1938.0,7,2
+Anatomy of a Murder,1960.0,7,0
+Victor/Victoria,1983.0,7,1
+Coal Miner's Daughter,1981.0,7,1
+Barry Lyndon,1976.0,7,4
+Life Is Beautiful,1999.0,7,3
+Babe,1996.0,7,1
+The Grapes of Wrath,1941.0,7,2
+Hud,1964.0,7,3
+The Fighter,2011.0,7,2
+The Silence of the Lambs,1992.0,7,5
+You Can't Take It with You,1939.0,7,2
+Babel,2007.0,7,1
+The Lion in Winter,1969.0,7,3
+Pepe,1961.0,7,0
+Separate Tables,1959.0,7,2
+Chariots of Fire,1982.0,7,4
+Places in the Heart,1985.0,7,2
+The Alamo,1961.0,7,1
+Thoroughly Modern Millie,1968.0,7,1
+The Graduate,1968.0,7,1
+Gaslight,1945.0,7,2
+The Fugitive,1994.0,7,1
+Fargo,1997.0,7,2
+The Great Ziegfeld,1937.0,7,3
+The Killing Fields,1985.0,7,3
+Mutiny on the Bounty,1963.0,7,0
+Joan of Arc,1949.0,7,2
+"The Godfather, Part III",1991.0,7,0
+Sons and Lovers,1961.0,7,1
+The Talk of the Town,1943.0,7,0
+Michael Clayton,2008.0,7,1
+Bullets over Broadway,1995.0,7,1
+The Lives of a Bengal Lancer,1936.0,7,1
+Midnight Cowboy,1970.0,7,3
+Mississippi Burning,1989.0,7,1
+The Insider,2000.0,7,0
+Argo,2013.0,7,3
+The Cider House Rules,2000.0,7,2
+The Thin Red Line,1999.0,7,0
+As Good as It Gets,1998.0,7,2
+The Country Girl,1955.0,7,2
+The Ten Commandments,1957.0,7,1
+Million Dollar Baby,2005.0,7,4
+A Star Is Born,1938.0,7,1
+Hannah and Her Sisters,1987.0,7,3
+Stagecoach,1940.0,7,2
+Random Harvest,1943.0,7,0
+Dick Tracy,1991.0,7,3
+Broadcast News,1988.0,7,0
+The Caine Mutiny,1955.0,7,0
+Dodsworth,1937.0,7,1
+The Prince of Tides,1992.0,7,0
+The Mission,1987.0,7,1
+Anthony Adverse,1937.0,7,4
+Sense and Sensibility,1996.0,7,1
+Aliens,1987.0,7,2
+Finding Neverland,2005.0,7,1
+Love Story,1971.0,7,1
+The Martian,2016.0,7,0
+The Guns of Navarone,1962.0,7,1
+The Pianist,2003.0,7,3
+Madame Curie,1944.0,7,0
+"Goodbye, Mr. Chips",1940.0,7,1
+The Quiet Man,1953.0,7,2
+Double Indemnity,1945.0,7,0
+Pulp Fiction,1995.0,7,1
+Shine,1997.0,7,1
+Hamlet,1949.0,7,4
+Hawaii,1967.0,7,0
+Star!,1969.0,7,0
+Atonement,2008.0,7,1
+Butch Cassidy and the Sundance Kid,1970.0,7,4
+Moulin Rouge,1953.0,7,2
+Gosford Park,2002.0,7,1
+The Long Voyage Home,1941.0,6,0
+Our Town,1941.0,6,0
+Crash,2006.0,6,3
+WALL-E,2009.0,6,1
+War Horse,2012.0,6,0
+Ordinary People,1981.0,6,4
+Terminator 2: Judgment Day,1992.0,6,4
+The Wizard of Oz,1940.0,6,2
+The Way We Were,1974.0,6,2
+Tess,1981.0,6,3
+One Night of Love,1935.0,6,2
+Auntie Mame,1959.0,6,0
+Meredith Willson's The Music Man,1963.0,6,1
+My Man Godfrey,1937.0,6,0
+Empire of the Sun,1988.0,6,0
+Manchester by the Sea,2017.0,6,2
+Love Affair,1940.0,6,0
+Captain Phillips,2014.0,6,0
+Love Me or Leave Me,1956.0,6,1
+Murder on the Orient Express,1975.0,6,1
+The Jolson Story,1947.0,6,2
+The High and the Mighty,1955.0,6,1
+Dog Day Afternoon,1976.0,6,1
+Moonstruck,1988.0,6,3
+Moneyball,2012.0,6,0
+Battleground,1950.0,6,2
+The Cardinal,1964.0,6,0
+The Crying Game,1993.0,6,1
+The Informer,1936.0,6,4
+Mildred Pierce,1946.0,6,1
+Bound for Glory,1977.0,6,2
+Boyhood,2015.0,6,1
+Bridge of Spies,2016.0,6,1
+"It's a Mad, Mad, Mad, Mad World",1964.0,6,1
+Carol,2016.0,6,0
+Das Boot,1983.0,6,0
+Cat on a Hot Tin Roof,1959.0,6,0
+In Old Chicago,1938.0,6,2
+Thelma & Louise,1992.0,6,1
+Beauty and the Beast,1992.0,6,2
+Lenny,1975.0,6,0
+Up in the Air,2010.0,6,0
+The Awful Truth,1938.0,6,1
+Nicholas and Alexandra,1972.0,6,2
+The Bad and the Beautiful,1953.0,6,5
+The Unsinkable Molly Brown,1965.0,6,0
+The Sixth Sense,2000.0,6,0
+Nebraska,2014.0,6,0
+The Snake Pit,1949.0,6,1
+Lili,1954.0,6,1
+Dallas Buyers Club,2014.0,6,3
+Champion,1950.0,6,1
+Mystic River,2004.0,6,2
+Memoirs of a Geisha,2006.0,6,3
+Lion,2017.0,6,0
+Midnight Express,1979.0,6,2
+I Want to Live!,1959.0,6,1
+Spotlight,2016.0,6,2
+Hold Back the Dawn,1942.0,6,0
+Foreign Correspondent,1941.0,6,0
+Hans Christian Andersen,1953.0,6,0
+Fame,1981.0,6,2
+Fanny & Alexander,1984.0,6,4
+Road to Perdition,2003.0,6,1
+Witness for the Prosecution,1958.0,6,0
+The Rains Came,1940.0,6,1
+Room at the Top,1960.0,6,2
+Some Like It Hot,1960.0,6,1
+Alexander's Ragtime Band,1939.0,6,1
+An Officer and a Gentleman,1983.0,6,2
+"Good Night, and Good Luck.",2006.0,6,0
+Good Fellas,1991.0,6,1
+Working Girl,1989.0,6,1
+Sabrina,1955.0,6,1
+The North Star,1944.0,6,0
+Picnic,1956.0,6,2
+Precious: Based on the Novel 'Push' by Sapphire,2010.0,6,2
+Fatal Attraction,1988.0,6,0
+Frida,2003.0,6,2
+Friendly Persuasion,1957.0,6,0
+San Francisco,1937.0,6,1
+American Sniper,2015.0,6,1
+Ray,2005.0,6,2
+Who Framed Roger Rabbit,1989.0,6,3
+A Song to Remember,1946.0,6,0
+The Philadelphia Story,1941.0,6,2
+Spartacus,1961.0,6,4
+Hacksaw Ridge,2017.0,6,2
+Spellbound,1946.0,6,1
+The More the Merrier,1944.0,6,1
+A Star Is Born,1955.0,6,0
+The Queen,2007.0,6,1
+The Lord of the Rings: The Two Towers,2003.0,6,2
+Shane,1954.0,6,1
+127 Hours,2011.0,6,0
+Pan's Labyrinth,2007.0,6,3
+The Human Comedy,1944.0,5,1
+Captain Blood,1936.0,5,0
+The Bishop's Wife,1948.0,5,1
+It's a Wonderful Life,1947.0,5,0
+The Red Shoes,1949.0,5,2
+Doubt,2009.0,5,0
+Foxcatcher,2015.0,5,0
+Munich,2006.0,5,0
+Love with the Proper Stranger,1964.0,5,0
+Some Came Running,1959.0,5,0
+"Mary, Queen of Scots",1972.0,5,0
+David and Bathsheba,1952.0,5,0
+The Dresser,1984.0,5,0
+Breaking Away,1980.0,5,1
+Whiplash,2015.0,5,3
+The Postman (Il Postino),1996.0,5,1
+Julius Caesar,1954.0,5,1
+Nashville,1976.0,5,1
+Lilies of the Field,1964.0,5,1
+Yentl,1984.0,5,1
+Pirates of the Caribbean: The Curse of the Black Pearl,2004.0,5,0
+The Talented Mr. Ripley,2000.0,5,0
+Earthquake,1975.0,5,2
+The Greatest Show on Earth,1953.0,5,2
+National Velvet,1946.0,5,2
+Federico Fellini's 8-1/2,1964.0,5,2
+The Big Short,2016.0,5,1
+The Greatest Story Ever Told,1966.0,5,0
+In the Bedroom,2002.0,5,0
+My Left Foot,1990.0,5,2
+Cat Ballou,1966.0,5,1
+Tora! Tora! Tora!,1971.0,5,1
+Darling,1966.0,5,3
+Black Swan,2011.0,5,1
+Capote,2006.0,5,1
+Alfie,1967.0,5,0
+Mr. Deeds Goes to Town,1937.0,5,1
+Four Daughters,1939.0,5,0
+The Sundowners,1961.0,5,0
+The Miracle Worker,1963.0,5,2
+Merrily We Live,1939.0,5,0
+With a Song in My Heart,1953.0,5,1
+The Children's Hour,1962.0,5,0
+Sophie's Choice,1983.0,5,1
+It Happened One Night,1935.0,5,5
+The Longest Day,1963.0,5,2
+Flower Drum Song,1962.0,5,0
+Born Yesterday,1951.0,5,1
+Jezebel,1939.0,5,2
+The Private Lives of Elizabeth and Essex,1940.0,5,0
+The Theory of Everything,2015.0,5,1
+Ratatouille,2008.0,5,1
+Traffic,2001.0,5,4
+Great Expectations,1948.0,5,2
+Boys Town,1939.0,5,2
+Death of a Salesman,1952.0,5,0
+The Hindenburg,1976.0,5,2
+Jerry Maguire,1997.0,5,1
+Gorillas in the Mist,1989.0,5,0
+Interiors,1979.0,5,0
+Aladdin,1993.0,5,2
+Star Wars: The Force Awakens,2016.0,5,0
+M*A*S*H,1971.0,5,1
+Breakfast at Tiffany's,1962.0,5,2
+The Reader,2009.0,5,1
+Interstellar,2015.0,5,1
+A Touch of Class,1974.0,5,1
+Blood Diamond,2007.0,5,0
+Camelot,1968.0,5,3
+The Descendants,2012.0,5,1
+Never on Sunday,1961.0,5,1
+Days of Wine and Roses,1963.0,5,1
+The Departed,2007.0,5,4
+Django Unchained,2013.0,5,2
+Toy Story 3,2011.0,5,2
+A Patch of Blue,1966.0,5,1
+American Graffiti,1974.0,5,0
+Samson and Delilah,1951.0,5,2
+7th Heaven,1929.0,5,3
+The Wolf of Wall Street,2014.0,5,0
+Fanny,1962.0,5,0
+Cleopatra,1935.0,5,1
+Fantastic Voyage,1967.0,5,2
+The French Lieutenant's Woman,1982.0,5,0
+Silkwood,1984.0,5,0
+Cries and Whispers,1974.0,5,1
+Laura,1945.0,5,1
+Ghost,1991.0,5,2
+The Verdict,1983.0,5,0
+What Ever Happened to Baby Jane?,1963.0,5,1
+Of Mice and Men,1940.0,5,0
+Anchors Aweigh,1946.0,5,1
+Viva Zapata!,1953.0,5,1
+The Fisher King,1992.0,5,1
+The Robe,1954.0,5,2
+Elmer Gantry,1961.0,5,3
+Crossfire,1948.0,5,0
+Secrets & Lies,1997.0,5,0
+Philadelphia,1994.0,5,2
+The Age of Innocence,1994.0,5,1
+Chocolat,2001.0,5,0
+Seven Brides for Seven Brothers,1955.0,5,1
+Lady Sings the Blues,1973.0,5,0
+The Agony and the Ecstasy,1966.0,5,0
+Anna and the King of Siam,1947.0,5,2
+The Girl with the Dragon Tattoo,2012.0,5,1
+Evita,1997.0,5,1
+Kitty Foyle,1941.0,5,1
+Hook,1992.0,5,0
+The Good Earth,1938.0,5,2
+Hope and Glory,1988.0,5,0
+The Patriot,1930.0,5,1
+The Gay Divorcee,1935.0,5,1
+Atlantic City,1982.0,5,0
+Z,1970.0,5,2
+Cover Girl,1945.0,5,1
+Tender Mercies,1984.0,5,2
+The Goodbye Girl,1978.0,5,1
+Annie Hall,1978.0,5,4
+Walk the Line,2006.0,5,1
+One Hundred Men and a Girl,1938.0,5,1
+Erin Brockovich,2001.0,5,1
+2010,1985.0,5,0
+Zero Dark Thirty,2013.0,5,1
+The Love Parade,1931.0,5,0
+Sideways,2005.0,5,1
+The Great Dictator,1941.0,5,0
+Return of the Jedi,1984.0,5,1
+Amour,2013.0,5,1
+The River,1985.0,5,1
+Up,2010.0,5,2
+Skyfall,2013.0,5,2
+Amélie,2002.0,5,0
+Glory,1990.0,5,3
+Funny Lady,1976.0,5,0
+The Great Race,1966.0,5,1
+North West Mounted Police,1941.0,5,1
+Bedknobs and Broomsticks,1972.0,5,1
+Cyrano de Bergerac,1991.0,5,1
+Children of a Lesser God,1987.0,5,1
+Frost/Nixon,2009.0,5,0
+I Remember Mama,1949.0,5,0
+The Facts of Life,1961.0,5,1
+Her,2014.0,5,1
+Pillow Talk,1960.0,5,1
+Cavalcade,1934.0,4,3
+2001: A Space Odyssey,1969.0,4,1
+Juno,2008.0,4,1
+Green Dolphin Street,1948.0,4,1
+Sands of Iwo Jima,1950.0,4,0
+The Full Monty,1998.0,4,1
+Little Miss Sunshine,2007.0,4,2
+The Wiz,1979.0,4,0
+The Fabulous Baker Boys,1990.0,4,0
+A Thousand Clowns,1966.0,4,1
+The Emigrants,1973.0,4,0
+Scent of a Woman,1993.0,4,1
+Marie Antoinette,1939.0,4,0
+"Same Time, Next Year",1979.0,4,0
+Sounder,1973.0,4,0
+The Thief of Bagdad,1941.0,4,3
+The Wings of the Dove,1998.0,4,0
+Scrooge,1971.0,4,0
+The Green Mile,2000.0,4,0
+Top Gun,1987.0,4,1
+Cool Hand Luke,1968.0,4,1
+Kotch,1972.0,4,0
+This above All,1943.0,4,1
+Topsy-Turvy,2000.0,4,2
+A Double Life,1948.0,4,2
+A Star Is Born,1977.0,4,1
+Life with Father,1948.0,4,0
+Kundun,1998.0,4,0
+A Few Good Men,1993.0,4,0
+Shampoo,1976.0,4,1
+The Empire Strikes Back,1981.0,4,2
+La Dolce Vita,1962.0,4,1
+Kiss of the Spider Woman,1986.0,4,1
+Winter's Bone,2011.0,4,0
+Sleuth,1973.0,4,0
+Kismet,1945.0,4,0
+A Clockwork Orange,1972.0,4,0
+Seven Beauties,1977.0,4,0
+Top Hat,1936.0,4,0
+Jaws,1976.0,4,3
+Lady for a Day,1934.0,4,0
+The Eddy Duchin Story,1957.0,4,0
+The Danish Girl,2016.0,4,1
+So Proudly We Hail!,1944.0,4,0
+Les Miserables,1936.0,4,0
+G. I. Joe,1946.0,4,0
+The Five Pennies,1960.0,4,0
+Days of Heaven,1979.0,4,1
+Lust for Life,1957.0,4,1
+A Man and a Woman,1967.0,4,2
+Cross Creek,1984.0,4,0
+The Dirty Dozen,1968.0,4,1
+Lost in Translation,2004.0,4,1
+Leave Her to Heaven,1946.0,4,1
+Leaving Las Vegas,1996.0,4,1
+The Treasure of the Sierra Madre,1949.0,4,3
+The Divorcee,1931.0,4,1
+Wonder Man,1946.0,4,1
+The Night of the Iguana,1965.0,4,1
+Room,2016.0,4,1
+Love Letters,1946.0,4,0
+Lemony Snicket's A Series of Unfortunate Events,2005.0,4,1
+The Diving Bell and the Butterfly,2008.0,4,0
+Ryan's Daughter,1971.0,4,2
+The Umbrellas of Cherbourg,1966.0,4,0
+Mad about Music,1939.0,4,0
+Skippy,1932.0,4,1
+Women in Love,1971.0,4,1
+The Thin Man,1935.0,4,0
+Captains Courageous,1938.0,4,1
+Jungle Book,1943.0,4,0
+The Grifters,1991.0,4,0
+The Wonderful World of the Brothers Grimm,1963.0,4,1
+Georgy Girl,1967.0,4,0
+The Natural,1985.0,4,0
+The Help,2012.0,4,1
+King Kong,2006.0,4,3
+City of God,2004.0,4,0
+Funny Face,1958.0,4,0
+Dead Poets Society,1990.0,4,1
+The Fortune Cookie,1967.0,4,1
+Romeo and Juliet,1937.0,4,0
+Romeo and Juliet,1969.0,4,2
+Dead Man Walking,1996.0,4,1
+Dead End,1938.0,4,0
+The Untouchables,1988.0,4,1
+Letters from Iwo Jima,2007.0,4,1
+A Midsummer Night's Dream,1936.0,4,2
+A Farewell to Arms,1934.0,4,2
+Executive Suite,1955.0,4,0
+The Constant Gardener,2006.0,4,1
+Twelve O'Clock High,1950.0,4,2
+East of Eden,1956.0,4,1
+Pirates of the Caribbean: Dead Man's Chest,2007.0,4,1
+If I Were King,1939.0,4,0
+The Bad Seed,1957.0,4,0
+Sunday Bloody Sunday,1972.0,4,0
+Amistad,1998.0,4,0
+The Asphalt Jungle,1951.0,4,0
+Nine,2010.0,4,0
+Ninotchka,1940.0,4,0
+Nixon,1996.0,4,0
+The Magnificent Ambersons,1943.0,4,0
+An Affair to Remember,1958.0,4,0
+Beasts of the Southern Wild,2013.0,4,0
+Sunrise at Campobello,1961.0,4,0
+The Last Samurai,2004.0,4,0
+None but the Lonely Heart,1945.0,4,1
+Norma Rae,1980.0,4,2
+America America,1964.0,4,1
+In Cold Blood,1968.0,4,0
+Summer of '42,1972.0,4,1
+My Cousin Rachel,1953.0,4,0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1965.0,4,0
+Birdman of Alcatraz,1963.0,4,0
+The Killers,1947.0,4,0
+Finding Nemo,2004.0,4,1
+Pride & Prejudice,2006.0,4,0
+The Big House,1931.0,4,2
+Hell or High Water,2017.0,4,0
+All Quiet on the Western Front,1931.0,4,2
+Fences,2017.0,4,1
+The Man Who Would Be King,1976.0,4,0
+Sudden Fear,1953.0,4,0
+Porgy and Bess,1960.0,4,1
+Almost Famous,2001.0,4,1
+Henry V,1947.0,4,0
+Meet Me in St. Louis,1945.0,4,0
+In Old Arizona,1930.0,4,1
+I'll Cry Tomorrow,1956.0,4,1
+Sunrise,1929.0,4,3
+Philomena,2014.0,4,0
+Taxi Driver,1977.0,4,0
+The Rose,1980.0,4,0
+Avalon,1991.0,4,0
+Annie Get Your Gun,1951.0,4,1
+The Russians Are Coming The Russians Are Coming,1967.0,4,0
+Paper Moon,1974.0,4,1
+The Search,1949.0,4,1
+Watch on the Rhine,1944.0,4,1
+Pal Joey,1958.0,4,0
+Anna Karenina,2013.0,4,1
+Othello,1966.0,4,0
+The Sea Hawk,1941.0,4,0
+Arthur,1982.0,4,2
+Arabian Nights,1943.0,4,0
+"Arise, My Love",1941.0,4,1
+Arrowsmith,1933.0,4,0
+Armageddon,1999.0,4,0
+Wake Island,1943.0,4,0
+That Hamilton Woman,1942.0,4,1
+Notes on a Scandal,2007.0,4,0
+The Lion King,1995.0,4,2
+The African Queen,1952.0,4,1
+Phantom of the Opera,1944.0,4,2
+The Affairs of Cellini,1935.0,4,0
+The Adventures of Robin Hood,1939.0,4,3
+Viva Villa!,1935.0,4,1
+Ball of Fire,1942.0,4,0
+The Adventures of Baron Munchausen,1990.0,4,0
+The Accidental Tourist,1989.0,4,1
+Pearl Harbor,2002.0,4,1
+Back to the Future,1986.0,4,1
+The Abyss,1990.0,4,1
+Superman,1979.0,4,1
+Oklahoma!,1956.0,4,2
+Far from Heaven,2003.0,4,0
+Baby Doll,1957.0,4,0
+The Madness of King George,1995.0,4,1
+The Kids Are All Right,2011.0,4,0
+Summer and Smoke,1962.0,4,0
+Five Easy Pieces,1971.0,4,0
+Quiz Show,1995.0,4,0
+Morocco,1932.0,4,0
+The Story of Louis Pasteur,1937.0,4,3
+Travels with My Aunt,1973.0,4,1
+Detective Story,1952.0,4,0
+The Citadel,1939.0,4,0
+Rear Window,1955.0,4,0
+Star Trek,2010.0,4,1
+The Razor's Edge,1947.0,4,1
+Blossoms in the Dust,1942.0,4,1
+Spring Parade,1941.0,4,0
+Midnight in Paris,2012.0,4,1
+"Monsters, Inc.",2002.0,4,1
+Stage Door,1938.0,4,0
+Star Trek IV: The Voyage Home,1987.0,4,0
+Pygmalion,1939.0,4,1
+Hamlet,1997.0,4,0
+Bob & Carol & Ted & Alice,1970.0,4,0
+"Rachel, Rachel",1969.0,4,0
+The Champ,1933.0,4,2
+Ran,1986.0,4,1
+Die Hard,1989.0,4,0
+The China Syndrome,1980.0,4,0
+District 9,2010.0,4,0
+Raintree County,1958.0,4,0
+Adaptation,2003.0,4,1
+The Incredibles,2005.0,4,2
+Missing,1983.0,4,1
+Flashdance,1984.0,4,1
+Air Force,1944.0,4,1
+Miracle on 34th Street,1948.0,4,3
+Mr. Turner,2015.0,4,0
+The Matrix,2000.0,4,4
+The Color of Money,1987.0,4,1
+Bram Stoker's Dracula,1993.0,4,3
+Psycho,1961.0,4,0
+Guys and Dolls,1956.0,4,0
+Algiers,1939.0,4,0
+Inherit the Wind,1961.0,4,0
+Blackboard Jungle,1956.0,4,0
+The Sunshine Boys,1976.0,4,1
+The Keys of the Kingdom,1946.0,4,0
+Black Hawk Down,2002.0,4,2
+Hollywood Canteen,1945.0,3,0
+Crimes and Misdemeanors,1990.0,3,0
+"Gaily, Gaily",1970.0,3,0
+The Hobbit: The Desolation of Smaug,2014.0,3,0
+Crimson Tide,1996.0,3,0
+The Moon Is Blue,1954.0,3,0
+The Patriot,2001.0,3,0
+The Hunt for Red October,1991.0,3,1
+Gambit,1967.0,3,0
+The Hurricane,1938.0,3,1
+King Kong,1977.0,3,1
+Enchanted April,1993.0,3,0
+Jackie,2017.0,3,0
+Ivanhoe,1953.0,3,0
+Enchanted,2008.0,3,0
+Deliverance,1973.0,3,0
+Crimes of the Heart,1987.0,3,0
+The Phantom of the Opera,2005.0,3,0
+The Picture of Dorian Gray,1946.0,3,1
+Crazy Heart,2010.0,3,2
+Hotel Rwanda,2005.0,3,0
+Faces,1969.0,3,0
+Holiday Inn,1943.0,3,1
+Kings Row,1943.0,3,0
+The Gospel According to St. Matthew,1967.0,3,0
+"Cousin, Cousine",1977.0,3,0
+The Passion of the Christ,2005.0,3,0
+The Little Mermaid,1990.0,3,2
+The Pied Piper,1943.0,3,0
+House of Sand and Fog,2004.0,3,0
+"Greystoke: The Legend of Tarzan, Lord of the Apes",1985.0,3,0
+The Stunt Man,1981.0,3,0
+Flying Tigers,1943.0,3,0
+Gypsy,1963.0,3,0
+Equus,1978.0,3,0
+The War of the Worlds,1954.0,3,1
+The Professionals,1967.0,3,0
+King Solomon's Mines,1951.0,3,2
+Exodus,1961.0,3,1
+"Enemies, A Love Story",1990.0,3,0
+High Society,1957.0,3,0
+Dr. Jekyll and Mr. Hyde,1933.0,3,1
+Cry Freedom,1988.0,3,0
+Hidden Figures,2017.0,3,0
+Gods and Monsters,1999.0,3,1
+In America,2004.0,3,0
+The Polar Express,2005.0,3,0
+Jurassic Park,1994.0,3,3
+Interrupted Melody,1956.0,3,1
+The Maltese Falcon,1942.0,3,0
+Henry V,1990.0,3,1
+The Hateful Eight,2016.0,3,1
+Journey to the Center of the Earth,1960.0,3,0
+Field of Dreams,1990.0,3,0
+In the Line of Fire,1994.0,3,0
+The Old Man and the Sea,1959.0,3,1
+Inside Daisy Clover,1966.0,3,0
+The Truman Show,1999.0,3,0
+Day for Night,1975.0,3,0
+Dark Victory,1940.0,3,0
+Darling Lili,1971.0,3,0
+Down Argentine Way,1941.0,3,0
+The Man with the Golden Arm,1956.0,3,0
+The Spy Who Loved Me,1978.0,3,0
+The Southerner,1946.0,3,0
+The Tree of Life,2012.0,3,0
+Indiana Jones and the Last Crusade,1990.0,3,1
+Heaven Can Wait,1944.0,3,0
+David Copperfield,1936.0,3,0
+Dr. Seuss' How the Grinch Stole Christmas,2001.0,3,1
+First Love,1940.0,3,0
+The Master,2013.0,3,0
+Father of the Bride,1951.0,3,0
+Five Graves to Cairo,1944.0,3,0
+The Great Caruso,1952.0,3,1
+Imitation of Life,1935.0,3,0
+Disraeli,1931.0,3,1
+Grand Prix,1967.0,3,3
+The Naked City,1949.0,3,2
+I Am a Fugitive from a Chain Gang,1934.0,3,0
+The Third Man,1951.0,3,1
+Girl with a Pearl Earring,2004.0,3,0
+The Hobbit: An Unexpected Journey,2013.0,3,0
+The Paper Chase,1974.0,3,1
+Dr. Jekyll and Mr. Hyde,1942.0,3,0
+I Never Sang for My Father,1971.0,3,0
+The Westerner,1941.0,3,1
+El Cid,1962.0,3,0
+The Princess and the Frog,2010.0,3,0
+The Great Victor Herbert,1940.0,3,0
+The Great Waltz,1939.0,3,1
+The Invaders,1943.0,3,1
+Irma La Douce,1964.0,3,1
+Iris,2002.0,3,1
+Divorce--Italian Style,1963.0,3,1
+The Player,1993.0,3,0
+Into the Woods,2015.0,3,0
+Daddy Long Legs,1956.0,3,0
+Harry Potter and the Sorcerer's Stone,2002.0,3,0
+Educating Rita,1984.0,3,0
+Father Goose,1965.0,3,1
+The Last Detail,1974.0,3,0
+Jolson Sings Again,1950.0,3,0
+Harry Potter and the Deathly Hallows Part 2,2012.0,3,0
+Butterflies Are Free,1973.0,3,1
+Speed,1995.0,3,2
+Alice Doesn't Live Here Anymore,1975.0,3,1
+Transformers,2008.0,3,0
+Red,1995.0,3,0
+The Charge of the Light Brigade,1937.0,3,1
+Body and Soul,1948.0,3,1
+Rebel without a Cause,1956.0,3,0
+Mister Roberts,1956.0,3,1
+Reap the Wild Wind,1943.0,3,1
+Absence of Malice,1982.0,3,0
+Blue Jasmine,2014.0,3,1
+The Buddy Holly Story,1979.0,3,1
+Stalag 17,1954.0,3,1
+The Broadway Melody,1930.0,3,1
+Wild Is the Wind,1958.0,3,0
+Mother Wore Tights,1948.0,3,1
+Blazing Saddles,1975.0,3,0
+Star Trek - The Motion Picture,1980.0,3,0
+The Brave One,1957.0,3,1
+Quills,2001.0,3,0
+Tucker The Man and His Dream,1989.0,3,0
+The Boys from Brazil,1979.0,3,0
+The Bourne Ultimatum,2008.0,3,3
+Agnes of God,1986.0,3,0
+Star Wars Episode I: The Phantom Menace,2000.0,3,0
+Boogie Nights,1998.0,3,0
+Spider-Man 2,2005.0,3,1
+Transformers: Dark of the Moon,2012.0,3,0
+Brigadoon,1955.0,3,0
+Song of the Open Road,1945.0,3,0
+A River Runs through It,1993.0,3,1
+The Cowboy and the Lady,1939.0,3,1
+Souls at Sea,1938.0,3,0
+Marooned,1970.0,3,1
+Brooklyn,2016.0,3,0
+South Pacific,1959.0,3,1
+Broken Arrow,1951.0,3,0
+A Soldier's Story,1985.0,3,0
+The Conversation,1975.0,3,0
+Brief Encounter,1947.0,3,0
+The Chocolate Soldier,1942.0,3,0
+Revolutionary Road,2009.0,3,0
+Reversal of Fortune,1991.0,3,1
+Melvin and Howard,1981.0,3,2
+Total Recall,1991.0,3,1
+Men in Black,1998.0,3,1
+The Collector,1966.0,3,0
+Brazil,1945.0,3,0
+Toy Story,1996.0,3,0
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2006.0,3,1
+"Take a Letter, Darling",1943.0,3,0
+Albert Nobbs,2012.0,3,0
+The Black Swan,1943.0,3,1
+The Dark Angel,1936.0,3,1
+Alice in Wonderland,2011.0,3,2
+Bambi,1943.0,3,0
+The Adventures of Mark Twain,1945.0,3,0
+Suspicion,1942.0,3,1
+"Objective, Burma!",1946.0,3,0
+Bad Girl,1933.0,3,2
+Bad Day at Black Rock,1956.0,3,0
+Backdraft,1992.0,3,0
+The Absent Minded Professor,1962.0,3,0
+Voyage of the Damned,1977.0,3,0
+That Touch of Mink,1963.0,3,0
+Angels with Dirty Faces,1939.0,3,0
+Pennies from Heaven,1982.0,3,0
+Awakenings,1991.0,3,0
+Test Pilot,1939.0,3,0
+Peggy Sue Got Married,1987.0,3,0
+Sweeney Todd The Demon Barber of Fleet Street,2008.0,3,1
+Sweet Bird of Youth,1963.0,3,1
+Sweet Charity,1970.0,3,0
+Only When I Laugh,1982.0,3,0
+War and Peace,1957.0,3,0
+War of the Worlds,2006.0,3,0
+WarGames,1984.0,3,0
+Army Girl,1939.0,3,0
+"Now, Voyager",1943.0,3,1
+An Unmarried Woman,1979.0,3,0
+An Education,2010.0,3,0
+Suez,1939.0,3,0
+The Black Stallion,1980.0,3,1
+Billy Elliot,2001.0,3,0
+The Big Fisherman,1960.0,3,0
+Private Benjamin,1981.0,3,0
+The Big Chill,1984.0,3,0
+My Favorite Wife,1941.0,3,0
+Strike Up the Band,1941.0,3,1
+Unbroken,2015.0,3,0
+"All This, and Heaven Too",1941.0,3,0
+"Suddenly, Last Summer",1960.0,3,0
+Poltergeist,1983.0,3,0
+Barton Fink,1992.0,3,0
+Pocketful of Miracles,1962.0,3,0
+Pleasantville,1999.0,3,0
+The Band Wagon,1954.0,3,0
+Being John Malkovich,2000.0,3,0
+Sun Valley Serenade,1942.0,3,0
+Pinky,1950.0,3,0
+Sundown,1942.0,3,0
+Vera Drake,2005.0,3,0
+North by Northwest,1960.0,3,0
+Batman Forever,1996.0,3,0
+Tom Sawyer,1974.0,3,0
+Apocalypto,2007.0,3,0
+The Front Page,1932.0,3,0
+Cinderella,1951.0,3,0
+Three Coins in the Fountain,1955.0,3,2
+Little Children,2007.0,3,0
+Little Women,1934.0,3,1
+Save the Tiger,1974.0,3,1
+Little Women,1995.0,3,0
+Lady in the Dark,1945.0,3,0
+Sicario,2016.0,3,0
+Three Smart Girls,1937.0,3,0
+Casanova Brown,1945.0,3,0
+A Fish Called Wanda,1989.0,3,1
+Logan's Run,1977.0,3,1
+Cliffhanger,1994.0,3,0
+"20,000 Leagues under the Sea",1955.0,3,2
+A Free Soul,1932.0,3,1
+La Vie en Rose,2008.0,3,2
+1941,1980.0,3,0
+Written on the Wind,1957.0,3,1
+Young Winston,1973.0,3,0
+Sleepy Hollow,2000.0,3,1
+Career,1960.0,3,0
+Cinderella Man,2006.0,3,0
+There's No Business Like Show Business,1955.0,3,0
+Children of Men,2007.0,3,0
+Les Girls,1958.0,3,1
+The Young in Heart,1939.0,3,0
+A Certain Smile,1959.0,3,0
+You Were Never Lovelier,1943.0,3,0
+This Is the Army,1944.0,3,1
+The Young Victoria,2010.0,3,1
+A Chorus Line,1986.0,3,0
+The Young Philadelphians,1960.0,3,0
+Lifeboat,1945.0,3,0
+Man of Conquest,1940.0,3,0
+The Young Lions,1959.0,3,0
+Chaplin,1993.0,3,0
+Cinderella Liberty,1974.0,3,0
+Thousands Cheer,1944.0,3,0
+Changeling,2009.0,3,0
+Carefree,1939.0,3,0
+Legends of the Fall,1995.0,3,1
+Somebody Up There Likes Me,1957.0,3,2
+California Suite,1979.0,3,1
+Shanghai Express,1933.0,3,1
+Magnolia,2000.0,3,0
+A Letter to Three Wives,1950.0,3,2
+Runaway Train,1986.0,3,0
+Sahara,1944.0,3,0
+To Catch a Thief,1956.0,3,1
+Tinker Tailor Soldier Spy,2012.0,3,0
+The General Died at Dawn,1937.0,3,0
+La Cage aux Folles,1980.0,3,0
+"Come Back, Little Sheba",1953.0,3,1
+12 Angry Men,1958.0,3,0
+Lovers and Other Strangers,1971.0,3,1
+Woodstock,1971.0,3,1
+The Divine Lady,1930.0,3,1
+Calamity Jane,1954.0,3,1
+Saludos Amigos,1944.0,3,0
+The Glenn Miller Story,1955.0,3,1
+Wonder Boys,2001.0,3,1
+"Captain Newman, M.D.",1964.0,3,0
+RoboCop,1988.0,3,1
+Caged,1951.0,3,0
+Swing Time,1937.0,2,1
+Pinocchio,1941.0,2,2
+Pirates of the Caribbean: At World's End,2008.0,2,0
+Passion Fish,1993.0,2,0
+Passengers,2017.0,2,0
+Shaft,1972.0,2,1
+The Magnificent Seven,1957.0,2,0
+Parenthood,1990.0,2,0
+Show Boat,1952.0,2,0
+The Magnificent Yankee,1951.0,2,0
+Sundays and Cybele,1964.0,2,0
+Shirley Valentine,1990.0,2,0
+Planet of the Apes,1969.0,2,0
+Syriana,2006.0,2,1
+Here Comes the Groom,1952.0,2,1
+Silver Queen,1943.0,2,0
+Holiday,1932.0,2,0
+"Summer Wishes, Winter Dreams",1974.0,2,0
+Pocahontas,1996.0,2,2
+Summertime,1956.0,2,0
+Sweethearts,1939.0,2,0
+Selma,2015.0,2,1
+The People vs. Larry Flynt,1997.0,2,0
+Pelle the Conqueror,1989.0,2,1
+Shrek 2,2005.0,2,0
+Svengali,1932.0,2,0
+Shadowlands,1994.0,2,0
+Shadow of the Vampire,2001.0,2,0
+Shrek,2002.0,2,1
+Hilary and Jackie,1999.0,2,0
+Pollock,2001.0,2,1
+Ghostbusters,1985.0,2,0
+Hit Parade of 1941,1941.0,2,0
+Susan Slept Here,1955.0,2,0
+The Magic Machines,1970.0,2,1
+Pete 'n' Tillie,1973.0,2,0
+Ghosts of Mississippi,1997.0,2,0
+Hit Parade of 1943,1944.0,2,0
+Seven Days in May,1965.0,2,0
+Pete's Dragon,1978.0,2,0
+Serpico,1974.0,2,0
+Sentinels of Silence,1972.0,2,2
+Sweet and Lowdown,2000.0,2,0
+Higher and Higher,1945.0,2,0
+Hoffa,1993.0,2,0
+Robin and the 7 Hoods,1965.0,2,0
+Sleepless in Seattle,1994.0,2,0
+Silverado,1986.0,2,0
+Guardians of the Galaxy,2015.0,2,0
+Hamlet,1991.0,2,0
+San Antonio,1946.0,2,0
+Salvador,1987.0,2,0
+The Official Story,1986.0,2,1
+Splendor in the Grass,1962.0,2,1
+Red River,1949.0,2,0
+Spider-Man,2003.0,2,0
+Gold Diggers of 1935,1936.0,2,1
+The Odd Couple,1969.0,2,0
+Snow White and the Huntsman,2013.0,2,0
+Gunfight at the O.K. Corral,1958.0,2,0
+Gulliver's Travels,1940.0,2,0
+Restoration,1996.0,2,2
+Resurrection,1981.0,2,0
+Sabrina,1996.0,2,0
+Rambling Rose,1992.0,2,0
+Running on Empty,1989.0,2,0
+"Reuben, Reuben",1984.0,2,0
+Rosemary's Baby,1969.0,2,1
+The Motorcycle Diaries,2005.0,2,1
+Rhapsody in Blue,1946.0,2,0
+Richard III,1996.0,2,0
+The Muppet Movie,1980.0,2,0
+Romance on the High Seas,1949.0,2,0
+"Goodbye, Mr. Chips",1970.0,2,0
+Something to Shout About,1944.0,2,0
+Road to Morocco,1943.0,2,0
+Rogue One: A Star Wars Story,2017.0,2,0
+Song of the South,1948.0,2,1
+Sometimes a Great Notion,1972.0,2,0
+Stage Door Canteen,1944.0,2,0
+Hangmen Also Die,1944.0,2,0
+The Parent Trap,1962.0,2,0
+State Fair,1934.0,2,0
+Singin' in the Rain,1953.0,2,0
+"Hello, Frisco, Hello",1944.0,2,1
+Portrait of Jennie,1949.0,2,1
+Postcards from the Edge,1991.0,2,0
+Primary Colors,1999.0,2,0
+Prince of Foxes,1950.0,2,0
+Second Chorus,1941.0,2,0
+The Manchurian Candidate,1963.0,2,0
+Steve Jobs,2016.0,2,0
+The Mask of Zorro,1999.0,2,0
+Scent of a Woman,1976.0,2,0
+"Heaven Knows, Mr. Allison",1958.0,2,0
+Stella Dallas,1938.0,2,0
+State Fair,1946.0,2,1
+Starting Over,1980.0,2,0
+Smash-Up--The Story of a Woman,1948.0,2,0
+Queen Bee,1956.0,2,0
+Harvey,1951.0,2,1
+Star Trek VI The Undiscovered Country,1992.0,2,0
+The Merry Widow,1953.0,2,0
+Harry and Tonto,1975.0,2,1
+Sling Blade,1997.0,2,1
+The Oscar,1967.0,2,0
+The Omen,1977.0,2,1
+Star Spangled Rhythm,1944.0,2,0
+Harry Potter and the Prisoner of Azkaban,2005.0,2,0
+The Messenger,2010.0,2,0
+Harry Potter and the Deathly Hallows Part 1,2011.0,2,0
+Radio Days,1988.0,2,0
+The Mirror Has Two Faces,1997.0,2,0
+The Gold Rush,1943.0,2,0
+Nobody's Fool,1995.0,2,0
+Tales of Hoffmann,1952.0,2,0
+Louisiana Purchase,1942.0,2,0
+The Crucible,1997.0,2,0
+Manhattan,1980.0,2,0
+The Dark Command,1941.0,2,0
+The Dark Wave,1957.0,2,0
+Malèna,2001.0,2,0
+Malcolm X,1993.0,2,0
+The Day of the Dolphin,1974.0,2,0
+The Day of the Locust,1976.0,2,0
+The Dead,1988.0,2,0
+Madame X,1930.0,2,0
+The Heartbreak Kid,1973.0,2,0
+The Heart Is a Lonely Hunter,1969.0,2,0
+The Devil Wears Prada,2007.0,2,0
+Jonathan Livingston Seagull,1974.0,2,0
+The Devil and Miss Jones,1942.0,2,0
+The Harvey Girls,1947.0,2,1
+Journey into Spring,1959.0,2,0
+The Happy Ending,1970.0,2,0
+The Discreet Charm of the Bourgeoisie,1973.0,2,1
+Jet Carrier,1955.0,2,0
+The Crowd,1929.0,2,0
+The Hospital,1972.0,2,1
+Michael Collins,1997.0,2,0
+Ironweed,1988.0,2,0
+Minstrel Man,1945.0,2,0
+Is Paris Burning?,1967.0,2,0
+The Incredible Sarah,1977.0,2,0
+The Chorus (Les Choristes),2005.0,2,0
+It Happened Tomorrow,1945.0,2,0
+Mighty Aphrodite,1996.0,2,1
+The Imaginarium of Doctor Parnassus,2010.0,2,0
+It's Always Fair Weather,1956.0,2,0
+The Cotton Club,1985.0,2,0
+Memento,2002.0,2,0
+The Competition,1981.0,2,0
+Maytime,1938.0,2,0
+The Contender,2001.0,2,0
+The Hunchback of Notre Dame,1940.0,2,0
+The Corn Is Green,1946.0,2,0
+Martin Luther,1954.0,2,0
+The Howards of Virginia,1941.0,2,0
+Juarez,1940.0,2,0
+The Guardsman,1933.0,2,0
+Mister Buddwing,1967.0,2,0
+Lorenzo's Oil,1993.0,2,0
+Last Tango in Paris,1974.0,2,0
+The Flight of the Phoenix,1966.0,2,0
+The Grandmaster,2014.0,2,0
+Ladyhawke,1986.0,2,0
+"Lady, Let's Dance",1945.0,2,0
+The Frogmen,1952.0,2,0
+King Rat,1966.0,2,0
+Ladies in Retirement,1942.0,2,0
+The Gorgeous Hussy,1937.0,2,0
+La Traviata,1983.0,2,0
+La Strada,1957.0,2,1
+La Ronde,1952.0,2,0
+The Garden of Allah,1937.0,2,0
+The Garden of the Finzi Continis,1972.0,2,1
+Kiss of Death,1948.0,2,0
+Kubo and the Two Strings,2017.0,2,0
+The Goldwyn Follies,1939.0,2,0
+The Golden Compass,2008.0,2,1
+Klute,1972.0,2,1
+The Flame and the Arrow,1951.0,2,0
+The Firm,1994.0,2,0
+The Great Gatsby,1975.0,2,2
+Little Shop of Horrors,1987.0,2,0
+Looking for Mr. Goodbar,1978.0,2,0
+Juliet of the Spirits,1967.0,2,0
+Julie,1957.0,2,0
+Lone Survivor,2014.0,2,0
+The Duchess,2009.0,2,1
+Lloyds of London,1937.0,2,0
+Little Women,1950.0,2,1
+The Green Years,1947.0,2,0
+Little Dorrit,1989.0,2,0
+The Great Gatsby,2014.0,2,2
+The Emperor Waltz,1949.0,2,0
+The End of the Affair,2000.0,2,0
+Kagemusha (The Shadow Warrior),1981.0,2,0
+The Great White Hope,1971.0,2,0
+The Face of Lincoln,1956.0,2,1
+The Fallen Idol,1950.0,2,0
+The Farmer's Daughter,1948.0,2,1
+The Great Santini,1981.0,2,0
+Iron Man,2009.0,2,0
+Moana,2017.0,2,0
+Talk to Her,2003.0,2,1
+Naughty Marietta,1936.0,2,1
+Husbands and Wives,1993.0,2,0
+Hustle & Flow,2006.0,2,1
+Notorious,1947.0,2,0
+The Lavender Hill Mob,1953.0,2,1
+The Last Station,2010.0,2,0
+North Country,2006.0,2,0
+The Americanization of Emily,1965.0,2,0
+Knights of the Round Table,1954.0,2,0
+The Andromeda Strain,1972.0,2,0
+The Assassination of Jesse James by the Coward Robert Ford,2008.0,2,0
+Night Must Fall,1938.0,2,0
+Ice Station Zebra,1969.0,2,0
+The Last Command,1929.0,2,1
+Ida,2015.0,2,1
+The Last Angry Man,1960.0,2,0
+The Barbarian Invasions,2004.0,2,1
+The Barefoot Contessa,1955.0,2,1
+Neighbours,1953.0,2,1
+Imitation of Life,1960.0,2,0
+"O Brother, Where Art Thou?",2001.0,2,0
+The Adventures of Don Juan,1950.0,2,1
+That Obscure Object of Desire,1978.0,2,0
+Teacher's Pet,1959.0,2,0
+Out of Sight,1999.0,2,0
+The Lone Ranger,2014.0,2,0
+Home Alone,1991.0,2,0
+Hondo,1954.0,2,0
+Our Dancing Daughters,1930.0,2,0
+Hoosiers,1987.0,2,0
+Orlando,1994.0,2,0
+Tchaikovsky,1972.0,2,0
+Only Angels Have Wings,1940.0,2,0
+On the Beach,1960.0,2,0
+Houseboat,1959.0,2,0
+Teenage Rebel,1957.0,2,0
+The Little Prince,1975.0,2,0
+One of Our Aircraft Is Missing,1943.0,2,0
+One Million B.C.,1941.0,2,0
+That Certain Age,1939.0,2,0
+How to Train Your Dragon,2011.0,2,0
+On the Riviera,1952.0,2,0
+Navajo,1953.0,2,0
+The Barretts of Wimpole Street,1935.0,2,0
+Mogambo,1954.0,2,0
+The Battle of Algiers,1969.0,2,0
+Mrs. Brown,1998.0,2,0
+Mr. Skeffington,1945.0,2,0
+The Bostonians,1985.0,2,0
+Indochine,1993.0,2,1
+Inherent Vice,2015.0,2,0
+The Boys from Syracuse,1941.0,2,0
+Inside Llewyn Davis,2014.0,2,0
+Inside Out,2016.0,2,1
+Mourning Becomes Electra,1948.0,2,0
+Intermezzo,1940.0,2,0
+The Bridges at Toko-Ri,1956.0,2,1
+Interview with the Vampire,1995.0,2,0
+Morituri,1966.0,2,0
+Morgan!,1967.0,2,0
+Into the Wild,2008.0,2,0
+Monster's Ball,2002.0,2,1
+Invictus,2010.0,2,0
+The Iron Lady,2012.0,2,2
+The Candidate,1973.0,2,1
+Indiana Jones and the Temple of Doom,1985.0,2,1
+Mrs. Henderson Presents,2006.0,2,0
+Independence Day,1997.0,2,1
+The Big Country,1959.0,2,1
+The Battle of Gettysburg,1956.0,2,0
+My Week with Marilyn,2012.0,2,0
+In Old Oklahoma,1944.0,2,0
+The Best of Everything,1960.0,2,0
+In Which We Serve,1944.0,2,0
+My Life as a Dog,1988.0,2,0
+My Gal Sal,1943.0,2,1
+My Foolish Heart,1950.0,2,0
+The Big Sky,1953.0,2,0
+Mrs. Parkington,1945.0,2,0
+Music of the Heart,2000.0,2,0
+The Black Hole,1980.0,2,0
+Murphy's Romance,1986.0,2,0
+The Blind Side,2010.0,2,1
+The Blue Bird,1941.0,2,0
+The Blue Veil,1952.0,2,0
+The Bodyguard,1993.0,2,0
+The Bold and the Brave,1957.0,2,0
+The Perfect Storm,2001.0,2,0
+Sherlock Holmes,2010.0,2,0
+What Dreams May Come,1999.0,2,1
+Eternal Sunshine of the Spotless Mind,2005.0,2,1
+Desiree,1955.0,2,0
+The Sweet Hereafter,1998.0,2,0
+What's Love Got to Do with It,1994.0,2,0
+Captains of the Clouds,1943.0,2,0
+Clear and Present Danger,1995.0,2,0
+Two for the Seesaw,1963.0,2,0
+The Taming of the Shrew,1968.0,2,0
+A Special Day,1978.0,2,0
+Winterset,1937.0,2,0
+What a Way to Go!,1965.0,2,0
+Fantastic Beasts and Where to Find Them,2017.0,2,1
+Cape Fear,1992.0,2,0
+Fantastic Mr. Fox,2010.0,2,0
+A Simple Plan,1999.0,2,0
+The Witches of Eastwick,1988.0,2,0
+Face to Face,1977.0,2,0
+A Tale of Two Cities,1937.0,2,0
+Carmen Jones,1955.0,2,0
+The World According to Garp,1983.0,2,0
+The Sea Inside,2005.0,2,1
+Carrie,1977.0,2,0
+Devil Take Us,1953.0,2,0
+A Very Long Engagement,2005.0,2,0
+A Tree Grows in Brooklyn,1946.0,2,1
+Destination Moon,1951.0,2,1
+Wings,1929.0,2,2
+A Thousand and One Nights,1946.0,2,0
+Ex Machina,2016.0,2,1
+The Savages,2008.0,2,0
+Carrie,1953.0,2,0
+Despicable Me 2,2014.0,2,0
+U-571,2001.0,2,1
+Extremely Loud & Incredibly Close,2012.0,2,0
+Closer,2005.0,2,0
+Farewell My Concubine,1994.0,2,0
+Can-Can,1961.0,2,0
+The Wind and the Lion,1976.0,2,0
+Bye Bye Birdie,1964.0,2,0
+Babes in Arms,1940.0,2,0
+Woman of the Year,1943.0,2,1
+Decision before Dawn,1952.0,2,0
+To Each His Own,1947.0,2,1
+A New Kind of Love,1964.0,2,0
+Butterfield 8,1961.0,2,1
+Twilight of Honor,1964.0,2,0
+A Medal for Benny,1946.0,2,0
+A Man Called Ove,2017.0,2,0
+Wag the Dog,1998.0,2,0
+Finian's Rainbow,1969.0,2,0
+Bite the Bullet,1976.0,2,0
+Waikiki Wedding,1938.0,2,1
+The Reivers,1970.0,2,0
+Babes in Toyland,1962.0,2,0
+Can't Help Singing,1946.0,2,0
+Fellini's Casanova,1977.0,2,1
+An Inconvenient Truth,2007.0,2,2
+A Serious Man,2010.0,2,0
+A Separation,2012.0,2,1
+Big,1989.0,2,0
+Camille Claudel,1990.0,2,0
+Titanic,1954.0,2,1
+Cocoon,1986.0,2,2
+The Spy Who Came In from the Cold,1966.0,2,0
+Collateral,2005.0,2,0
+Call Me Madam,1954.0,2,1
+Twister,1997.0,2,0
+Deepwater Horizon,2017.0,2,0
+Anastasia,1957.0,2,1
+Anastasia,1998.0,2,0
+Cars,2007.0,2,0
+American Gangster,2008.0,2,0
+Biutiful,2011.0,2,0
+The Subject Was Roses,1969.0,2,1
+The Slipper and the Rose--The Story of Cinderella,1978.0,2,0
+Up in Arms,1945.0,2,0
+The Slender Thread,1966.0,2,0
+The Sky's the Limit,1944.0,2,0
+The Sterile Cuckoo,1970.0,2,0
+White Nights,1986.0,2,1
+Easy Rider,1970.0,2,0
+Cimarron,1961.0,2,0
+Ed Wood,1995.0,2,2
+The Silver Chalice,1955.0,2,0
+Airport '77,1978.0,2,0
+Air Force One,1998.0,2,0
+This Sporting Life,1964.0,2,0
+White Wilderness,1959.0,2,1
+All-American Co-Ed,1942.0,2,0
+Alibi,1930.0,2,0
+Alice Adams,1936.0,2,0
+Thirty Seconds over Tokyo,1945.0,2,1
+The Solid Gold Cadillac,1957.0,2,1
+Alien,1980.0,2,1
+They Were Expendable,1946.0,2,0
+Beau Geste,1940.0,2,0
+Dragon Seed,1945.0,2,0
+Dragonslayer,1982.0,2,0
+Drums along the Mohawk,1940.0,2,0
+Duel in the Sun,1947.0,2,0
+All That Money Can Buy,1942.0,2,1
+Vertigo,1959.0,2,0
+Theodora Goes Wild,1937.0,2,0
+Dumbo,1942.0,2,1
+Batman Returns,1993.0,2,0
+The Snows of Kilimanjaro,1953.0,2,0
+Basic Instinct,1993.0,2,0
+When Worlds Collide,1952.0,2,1
+Aloma of the South Seas,1942.0,2,0
+Being There,1980.0,2,1
+Voice in the Wind,1945.0,2,0
+Wild,2015.0,2,0
+Above and Beyond,1954.0,2,0
+Vivacious Lady,1939.0,2,0
+The Seven-per-cent Solution,1977.0,2,0
+Cast Away,2001.0,2,0
+About Schmidt,2003.0,2,0
+Amarcord,1976.0,2,0
+Emma,1997.0,2,1
+Abe Lincoln in Illinois,1941.0,2,0
+The Wrestler,2009.0,2,0
+A.I. Artificial Intelligence,2002.0,2,0
+Willow,1989.0,2,0
+The Secret of Santa Vittoria,1970.0,2,0
+A Woman under the Influence,1975.0,2,0
+Catch Me If You Can,2003.0,2,0
+Dive Bomber,1942.0,2,0
+"Bell, Book and Candle",1959.0,2,0
+Central Station,1999.0,2,0
+United 93,2007.0,2,0
+Belle of the Yukon,1946.0,2,0
+The Shoes of the Fisherman,1969.0,2,0
+Affliction,1999.0,2,1
+Why Girls Leave Home,1946.0,2,0
+Do the Right Thing,1990.0,2,0
+Address Unknown,1945.0,2,0
+The Shanghai Gesture,1943.0,2,0
+Centennial Summer,1947.0,2,0
+Under the Volcano,1985.0,2,0
+Altered States,1981.0,2,0
+Elizabeth: The Golden Age,2008.0,2,1
+When My Baby Smiles at Me,1949.0,2,0
+Under Siege,1993.0,2,0
+Bitter Sweet,1941.0,2,0
+A Place to Stand,1968.0,2,1
+Ali,2002.0,2,0
+The Triplets of Belleville,2004.0,2,0
+The Trip to Bountiful,1986.0,2,1
+A Little Romance,1980.0,2,1
+The Princess and the Pirate,1945.0,2,0
+Conquest,1938.0,2,0
+You'll Never Get Rich,1942.0,2,0
+The Prisoner of Zenda,1938.0,2,0
+Frozen,2014.0,2,2
+David and Lisa,1963.0,2,0
+21 Grams,2004.0,2,0
+Blood and Sand,1942.0,2,1
+Bright Victory,1952.0,2,0
+Wanted,2009.0,2,0
+Broadway Danny Rose,1985.0,2,0
+Broadway Melody of 1936,1936.0,2,0
+The Private Life of Henry VIII,1934.0,2,1
+The Virgin Spring,1961.0,2,1
+Broken Lance,1955.0,2,1
+Blockade,1939.0,2,0
+Training Day,2002.0,2,1
+Topper,1938.0,2,0
+Born to Dance,1937.0,2,0
+August: Osage County,2014.0,2,0
+The Producers,1969.0,2,1
+A Civil Action,1999.0,2,0
+You Can Count on Me,2001.0,2,0
+Born Free,1967.0,2,2
+A Damsel in Distress,1938.0,2,1
+Zelig,1984.0,2,0
+The Well,1952.0,2,0
+Transamerica,2006.0,2,0
+The Prince of Egypt,1999.0,2,1
+42nd Street,1934.0,2,0
+Fried Green Tomatoes,1992.0,2,0
+55 Days at Peking,1964.0,2,0
+Freud,1963.0,2,0
+The Portrait of a Lady,1997.0,2,0
+Arizona,1941.0,2,0
+Boyz N the Hood,1992.0,2,0
+The Usual Suspects,1996.0,2,2
+Brazil,1986.0,2,0
+Toys,1993.0,2,0
+"Au Revoir Les Enfants (Goodbye, Children)",1988.0,2,0
+Tron,1983.0,2,0
+Boys Don't Cry,2000.0,2,1
+Frozen River,2009.0,2,0
+Young Frankenstein,1975.0,2,0
+The President's Lady,1954.0,2,0
+The Prestige,2007.0,2,0
+Blue Skies,1947.0,2,0
+Walter Wanger's Vogues of 1938,1938.0,2,0
+Young Bess,1954.0,2,0
+Breaking the Sound Barrier,1953.0,2,1
+Frances,1983.0,2,0
+Blow-Up,1967.0,2,0
+3:10 to Yuma,2008.0,2,0
+Bridesmaids,2012.0,2,0
+Four Weddings and a Funeral,1995.0,2,0
+The Prime of Miss Jean Brodie,1970.0,2,1
+The Proud and Profane,1957.0,2,0
+Topper Returns,1942.0,2,0
+Waterloo Bridge,1941.0,2,0
+Flirtation Walk,1935.0,2,0
+True Grit,1970.0,2,1
+Coming to America,1989.0,2,0
+Anna and the King,2000.0,2,0
+Away from Her,2008.0,2,0
+A Hard Day's Night,1965.0,2,0
+Genevieve,1955.0,2,0
+Cromwell,1971.0,2,1
+Tommy,1976.0,2,0
+Black Rain,1990.0,2,0
+Bulldog Drummond,1931.0,2,0
+Anna Christie,1931.0,2,0
+The Rainmaker,1957.0,2,0
+Flame of Barbary Coast,1946.0,2,0
+Flags of Our Fathers,2007.0,2,0
+The Wild Bunch,1970.0,2,0
+Come and Get It,1937.0,2,1
+A History of Violence,2006.0,2,0
+Five Fingers,1953.0,2,0
+Black Narcissus,1948.0,2,2
+Bullitt,1969.0,2,1
+Tom & Viv,1995.0,2,0
+The Three Caballeros,1946.0,2,0
+Bon Voyage!,1963.0,2,0
+'Round Midnight,1987.0,2,1
+A Little Night Music,1978.0,2,1
+The Thomas Crown Affair,1969.0,2,1
+A Little Princess,1996.0,2,0
+Flight,2013.0,2,0
+The Unbearable Lightness of Being,1989.0,2,0
+War and Peace,1969.0,2,1
+The White Ribbon,2010.0,2,0
+Buck Privates,1942.0,2,0
+Autumn Sonata,1979.0,2,0
+12 Monkeys,1996.0,2,0
+10,1980.0,2,0
+Con Air,1998.0,2,0
+The Valley of Decision,1946.0,2,0
+Footloose,1985.0,2,0
+...And Justice for All,1980.0,2,0
+A Foreign Affair,1949.0,2,0
+The White Parade,1935.0,2,0
+Tonight and Every Night,1946.0,2,0
+Boom Town,1941.0,2,0
+Florence Foster Jenkins,2017.0,2,0
+Flying with Music,1943.0,2,0
+Annie,1983.0,2,0
+Blade Runner,1983.0,2,0
+Task Force,1944.0,1,0
+"Teddy, the Rough Rider",1941.0,1,1
+Teenage Father,1979.0,1,1
+"Very Nice, Very Nice",1962.0,1,0
+Vesuvius Express,1954.0,1,0
+War Photographer,2002.0,1,0
+Tea for Two Hundred,1949.0,1,0
+The Alaskan Eskimo,1954.0,1,1
+The Amityville Horror,1980.0,1,0
+Ted,2013.0,1,0
+Victory through Air Power,1944.0,1,0
+War Clouds in the Pacific,1942.0,1,0
+Varsity Show,1938.0,1,0
+Virunga,2015.0,1,0
+The Amazing Mrs. Holliday,1944.0,1,0
+Taxi to the Dark Side,2008.0,1,1
+"Wanted, a Master",1937.0,1,0
+The Affairs of Susan,1946.0,1,0
+Velvet Goldmine,1999.0,1,0
+Violet,1982.0,1,1
+Venus,2007.0,1,0
+Victor,1999.0,1,0
+War Department Report,1944.0,1,0
+Vatel,2001.0,1,0
+Vicky Cristina Barcelona,2009.0,1,1
+Technological Threat,1989.0,1,0
+The American President,1996.0,1,0
+Wait until Dark,1968.0,1,0
+The Affair of the Necklace,2002.0,1,0
+That's Life,1987.0,1,0
+Walking,1970.0,1,0
+Walk on the Wild Side,1963.0,1,0
+"The 5,000 Fingers of Dr. T",1954.0,1,0
+The 400 Blows,1960.0,1,0
+Voyage to Next,1975.0,1,0
+The 100-Year-Old Man Who Climbed out the Window and Disappeared,2016.0,1,0
+That's Me,1964.0,1,0
+Testament,1984.0,1,0
+Waldo Salt: A Screenwriter's Journey,1991.0,1,0
+W.E.,2012.0,1,0
+Thank God It's Friday,1979.0,1,1
+Thank Your Lucky Stars,1944.0,1,0
+The 500 Hats of Bartholomew Cubbins,1944.0,1,0
+Thanks a Million,1936.0,1,0
+That Uncertain Feeling,1942.0,1,0
+Thar She Blows!,1953.0,1,0
+That Forsyte Woman,1951.0,1,0
+Wabash Avenue,1951.0,1,0
+That Thing You Do!,1997.0,1,0
+Waco: The Rules of Engagement,1998.0,1,0
+That Mothers Might Live,1939.0,1,1
+That Girl from Paris,1937.0,1,0
+That Man from Rio,1965.0,1,0
+That Lady in Ermine,1949.0,1,0
+Walky Talky Hawky,1947.0,1,0
+Wall Street,1988.0,1,1
+The Adventures of Tom Sawyer,1939.0,1,0
+Walls of Fire,1974.0,1,0
+The Adventures of Tintin,2012.0,1,0
+Visas and Virtue,1998.0,1,1
+"The Adventures of Priscilla, Queen of the Desert",1995.0,1,1
+Waltzing Regitze,1990.0,1,0
+Visit to a Small Planet,1961.0,1,0
+Waltz with Bashir,2009.0,1,0
+Vitelloni,1958.0,1,0
+Tell the Truth and Run: George Seldes and the American Press,1997.0,1,0
+Ten Gentlemen from West Point,1943.0,1,0
+Viva Italia!,1979.0,1,0
+Tender Is the Night,1963.0,1,0
+Tequila Sunrise,1989.0,1,0
+The 81st Blow,1975.0,1,0
+The Addams Family,1992.0,1,0
+The Actress,1954.0,1,0
+The Accused,1989.0,1,1
+Teresa,1952.0,1,0
+Volcano:  An Inquiry into the Life and Death of Malcolm Lowry,1977.0,1,0
+Volver a Empezar ('To Begin Again'),1983.0,1,1
+Wallace & Gromit in The Curse of the Were-Rabbit,2006.0,1,1
+Volver,2007.0,1,0
+Terminus,1964.0,1,0
+The Absent-Minded Waiter,1978.0,1,0
+Von Ryan's Express,1966.0,1,0
+The Act of Killing,2014.0,1,0
+The Battle of the Bulge...The Brave Rifles,1966.0,1,0
+Vanilla Sky,2002.0,1,0
+Tubby the Tuba,1948.0,1,0
+The Boxtrolls,2015.0,1,0
+The Box,1968.0,1,1
+Tulips Shall Grow,1943.0,1,0
+The Boy Friend,1972.0,1,0
+The Boy and the Eagle,1950.0,1,0
+Tuesday Morning Ride,1996.0,1,0
+The Boys of Paul Street,1969.0,1,0
+Tuba Atlantic,2012.0,1,0
+The Book Thief,2014.0,1,0
+Tsotsi,2006.0,1,1
+Trumbo,2016.0,1,0
+True Lies,1995.0,1,0
+The Bridge of San Luis Rey,1930.0,1,1
+The Bridge of San Luis Rey,1945.0,1,0
+Truant Officer Donald,1942.0,1,0
+The Bridges of Madison County,1996.0,1,0
+Tulsa,1950.0,1,0
+The Bolshoi Ballet,1959.0,1,0
+The Brink's Job,1979.0,1,0
+The Blue Lagoon,1981.0,1,0
+Twin Towers,2003.0,1,1
+Twin Sisters,2004.0,1,0
+Twin Sisters of Kyoto,1964.0,1,0
+The Blood of Yingzhou District,2007.0,1,1
+Twice in a Lifetime,1986.0,1,0
+Twenty-One Miles,1943.0,1,0
+The Blue Dahlia,1947.0,1,0
+Tweetie Pie,1948.0,1,1
+Tumbleweeds,2000.0,1,0
+Turkish Delight,1974.0,1,0
+The Boat Is Full,1982.0,1,0
+Turkey the Bridge,1967.0,1,0
+Tupac: Resurrection,2005.0,1,0
+The Bolero,1974.0,1,1
+Tup Tup,1973.0,1,0
+Tunes of Glory,1961.0,1,0
+The Bridge,1960.0,1,0
+Troy,2005.0,1,0
+Twist of Faith,2005.0,1,0
+The Cell,2001.0,1,0
+The Case of Sergeant Grischa,1931.0,1,0
+The Cat Came Back,1989.0,1,0
+The Cat Concerto,1947.0,1,1
+The Cathedral,2003.0,1,0
+Tristana,1971.0,1,0
+Trio,1951.0,1,0
+Tribute,1981.0,1,0
+The Chalk Garden,1965.0,1,0
+Trolls,2017.0,1,0
+Triangle,1995.0,1,0
+The Challenge...A Tribute to Modern Art,1975.0,1,0
+Trial,1956.0,1,0
+Trevor,1995.0,1,1
+Trees and Jamaica Daddy,1958.0,1,0
+The Champ,1980.0,1,0
+Treasure Planet,2003.0,1,0
+The Caretakers,1964.0,1,0
+The Captain's Paradise,1954.0,1,0
+The Broadcast Tapes of Dr. Peter,1994.0,1,0
+Trouble Indemnity,1951.0,1,0
+Troublesome Creek: A Midwestern,1996.0,1,0
+The Broken Circle Breakdown,2014.0,1,0
+The Brothers Karamazov,1959.0,1,0
+Trouble the Water,2009.0,1,0
+The Brothers Karamazov,1970.0,1,0
+The Buccaneer,1939.0,1,0
+The Buccaneer,1959.0,1,0
+Tropic Thunder,2009.0,1,0
+Tron: Legacy,2011.0,1,0
+The Caddy,1954.0,1,0
+The Cadillac,1963.0,1,0
+Tropic Holiday,1939.0,1,0
+The Calico Dragon,1936.0,1,0
+The California Reich,1976.0,1,0
+The Canterbury Tales,1999.0,1,0
+The Captain of Kopenick,1957.0,1,0
+The Black Rose,1951.0,1,0
+The Black Dahlia,2007.0,1,0
+The Anderson Platoon,1968.0,1,1
+Union Maids,1978.0,1,0
+The Bachelor and the Bobby-Soxer,1948.0,1,1
+Universe,1977.0,1,0
+Universe,1961.0,1,0
+United States Marine Band,1943.0,1,0
+The Balcony,1964.0,1,0
+The Barber of Birmingham: Foot Soldier of the Civil Rights Movement,2012.0,1,0
+Union Pacific,1940.0,1,0
+Unfinished Business,1986.0,1,0
+Unstrung Heroes,1996.0,1,0
+Unfaithful,2003.0,1,0
+The Barker,1930.0,1,0
+Underworld,1929.0,1,1
+The Barkleys of Broadway,1950.0,1,0
+Under the Sun,2000.0,1,0
+The Battle of Algiers,1967.0,1,0
+Under Western Stars,1939.0,1,0
+Unstoppable,2011.0,1,0
+The Bachelor Party,1958.0,1,0
+The Battle of Midway,1943.0,1,1
+Valiant Is the Word for Carrie,1937.0,1,0
+The Angry Silence,1961.0,1,0
+Van Gogh,1950.0,1,1
+The Apostle,1998.0,1,0
+The Appointments of Dennis Jennings,1989.0,1,1
+The Apprenticeship of Duddy Kravitz,1975.0,1,0
+Valmont,1990.0,1,0
+Valley of the Dolls,1968.0,1,0
+Vacation from Marriage,1947.0,1,1
+The Baby Maker,1971.0,1,0
+Urge to Build,1982.0,1,0
+Up,1985.0,1,1
+Up in Mabel's Room,1945.0,1,0
+The Assault,1987.0,1,1
+The Atomic City,1953.0,1,0
+Up Close and Personal,1997.0,1,0
+The Baader Meinhof Complex,2009.0,1,0
+Under Fire,1984.0,1,0
+The Battle of Neretva,1970.0,1,0
+The Birds,1964.0,1,0
+The Big Pond,1931.0,1,0
+Two-Minute Warning,1977.0,1,0
+The Big Carnival,1952.0,1,0
+Two for the Road,1968.0,1,0
+Two Women,1962.0,1,1
+Two Tickets to Broadway,1952.0,1,0
+Two Soldiers,2004.0,1,1
+Two Hands,2007.0,1,0
+Two Girls and a Sailor,1945.0,1,0
+The Bicycle Thief,1950.0,1,0
+"Two Days, One Night",2015.0,1,0
+The Big Snit,1986.0,1,0
+The Big Story,1995.0,1,0
+The Bigger Picture,2015.0,1,0
+"Two Cars, One Night",2005.0,1,0
+The Birdcage,1997.0,1,0
+Two Arabian Knights,1929.0,1,1
+The Big Broadcast of 1938,1939.0,1,1
+Typhoon,1941.0,1,0
+The Battle of Russia,1944.0,1,0
+The Best Little Whorehouse in Texas,1983.0,1,0
+Taras Bulba,1963.0,1,0
+Undefeated,2012.0,1,1
+The Battle over Citizen Kane,1996.0,1,0
+The Bead Game,1978.0,1,0
+The Bear,1990.0,1,0
+Unconquered,1948.0,1,0
+The Bespoke Overcoat,1957.0,1,1
+The Best Man,1965.0,1,0
+The Bible,1967.0,1,0
+The Best Things in Life Are Free,1957.0,1,0
+Unchained,1956.0,1,0
+Umberto D.,1957.0,1,0
+Ulysses,1968.0,1,0
+Ulee's Gold,1998.0,1,0
+Ugetsu,1956.0,1,0
+The Betrayal (Nerakhoon),2009.0,1,0
+Tarzan,2000.0,1,1
+The Perils of Pauline,1948.0,1,0
+War Witch,2013.0,1,0
+Wives and Lovers,1964.0,1,0
+Women at War,1944.0,1,0
+Something to Sing About,1938.0,1,0
+Woman of the Town,1945.0,1,0
+Something's Gotta Give,2004.0,1,0
+Woman in the Dunes,1966.0,1,0
+Woman in the Dunes,1965.0,1,0
+Somewhere in Time,1981.0,1,0
+Wolfgang,1998.0,1,0
+Son of Paleface,1953.0,1,0
+Women in War,1941.0,1,0
+Son of Saul,2016.0,1,1
+Son of the Bride,2002.0,1,0
+Song of the Flame,1931.0,1,0
+Witness to War: Dr. Charlie Clements,1986.0,1,1
+Song of the Sea,2015.0,1,0
+Witness to Apartheid,1987.0,1,0
+Song without End (The Story of Franz Liszt),1961.0,1,1
+Songwriter,1985.0,1,0
+Somebody Waiting,1972.0,1,0
+Women on the Verge of a Nervous Breakdown,1989.0,1,0
+Sons of Liberty,1940.0,1,1
+So You Think You're Not Guilty,1950.0,1,0
+So Dear to My Heart,1950.0,1,0
+So Ends Our Night,1942.0,1,0
+So Much for So Little,1950.0,1,1
+Wreck-It Ralph,2013.0,1,0
+So This Is Harris,1934.0,1,1
+World of Tomorrow,2016.0,1,0
+World of Kids,1952.0,1,1
+So This Is Washington,1944.0,1,0
+So You Want to Be in Pictures,1948.0,1,0
+"Women--for America, for the World",1987.0,1,1
+So You Want to Be on the Radio,1949.0,1,0
+Soldiers in Hiding,1986.0,1,0
+Soldiers of the Sky,1942.0,1,0
+Solly's Diner,1980.0,1,0
+Work Experience,1990.0,1,1
+Solomon and Gaenor,2000.0,1,0
+Solo,1973.0,1,0
+Wordless,1997.0,1,0
+With the Marines at Tarawa,1945.0,1,1
+Sophie Scholl - The Final Days,2006.0,1,0
+Tanna,2017.0,1,0
+Spills and Chills,1950.0,1,0
+Speedy Gonzales,1956.0,1,1
+Speedy,1929.0,1,0
+Winnie the Pooh and Tigger Too,1975.0,1,0
+Spellbound,2003.0,1,0
+Wings over Mt. Everest,1936.0,1,1
+Wings over Honolulu,1938.0,1,0
+Spielzeugland (Toyland),2009.0,1,1
+Wings Up,1944.0,1,0
+Spirit: Stallion of the Cimarron,2003.0,1,0
+Spectre,2016.0,1,1
+Spirited Away,2003.0,1,1
+Splash,1985.0,1,0
+Winged Migration,2003.0,1,0
+Wing and a Prayer,1945.0,1,0
+Split Cherry Tree,1983.0,1,0
+Windy Day,1969.0,1,0
+Willy Wonka and the Chocolate Factory,1972.0,1,0
+Squash,2004.0,1,0
+Speed for Thespians,2002.0,1,0
+Special Effects,1997.0,1,0
+With These Hands,1951.0,1,0
+"South Park: Bigger, Longer & Uncut",2000.0,1,0
+Sorcerer,1978.0,1,0
+Sorrell and Son,1929.0,1,0
+"Sorry, Wrong Number",1949.0,1,0
+Sound and Fury,2001.0,1,0
+With Byrd at the South Pole,1931.0,1,1
+Sound of Sunshine - Sound of Rain,1984.0,1,0
+With Babies and Banners: Story of the Women's Emergency Brigade,1979.0,1,0
+Wish 143,2011.0,1,0
+Space Cowboys,2001.0,1,0
+Special Delivery,1979.0,1,1
+Winter on Fire: Ukraine's Fight for Freedom,2016.0,1,0
+Spaceborne,1978.0,1,0
+Spaces: The Architecture of Paul Rudolph,1984.0,1,0
+Winter Paradise,1954.0,1,0
+Winning Your Wings,1943.0,1,0
+Speaking in Strings,2000.0,1,0
+Speaking of Animals and Their Families,1943.0,1,1
+Winnie the Pooh and the Blustery Day,1969.0,1,1
+Snow,1966.0,1,0
+Snows of Aorangi,1959.0,1,0
+Snow White and the Seven Dwarfs,1938.0,1,0
+Young Mr. Lincoln,1940.0,1,0
+Youth on Parade,1943.0,1,0
+Youth in Crisis,1944.0,1,0
+Silent Nights,2017.0,1,0
+Silent Village,1944.0,1,0
+Your National Gallery,1946.0,1,0
+Your Face,1988.0,1,0
+Young at Heart,1988.0,1,1
+Young Sherlock Holmes,1986.0,1,0
+Silver Streak,1977.0,1,0
+Siege,1941.0,1,0
+Silver into Gold,1988.0,1,0
+Young Guns II,1991.0,1,0
+Sinbad the Sailor,1937.0,1,0
+Sing Your Way Home,1946.0,1,0
+Sing!,2002.0,1,0
+"Sing, Baby, Sing",1937.0,1,0
+Young Americans,1969.0,1,0
+Singing Guns,1951.0,1,0
+Silence,2017.0,1,0
+Sidney's Family Tree,1959.0,1,0
+Wrestling Swordfish,1933.0,1,1
+the end,1996.0,1,0
+Ådalen '31,1970.0,1,0
+À Nous la Liberté,1933.0,1,0
+Shoe-Shine,1948.0,1,0
+Shoeshine,1988.0,1,0
+Shok,2016.0,1,0
+Short Cuts,1994.0,1,0
+Should Wives Work?,1938.0,1,0
+tom thumb,1959.0,1,1
+the accountant,2002.0,1,1
+Youth,2016.0,1,0
+"sex, lies, and videotape",1990.0,1,0
+images,1973.0,1,0
+Zus & Zo,2003.0,1,0
+Zootopia,2017.0,1,1
+Shut Up...I'm Crying,1971.0,1,0
+Siam,1955.0,1,0
+Sicko,2008.0,1,0
+Zelary,2004.0,1,0
+Sing,2017.0,1,1
+You're a Sweetheart,1938.0,1,0
+Sis Hopkins,1942.0,1,0
+Yankee Doodle Mouse,1944.0,1,1
+"Yes, Giorgio",1983.0,1,0
+Yeats Country,1966.0,1,0
+Small Talk,1994.0,1,0
+Small Town Girl,1954.0,1,0
+Smart Money,1932.0,1,0
+Smart as a Fox,1947.0,1,0
+Smile Pinki,2009.0,1,1
+Smilin' Through,1934.0,1,0
+Smokey and the Bandit,1978.0,1,0
+Sister Kenny,1947.0,1,0
+Yad Vashem: Preserving the Past to Ensure the Future,1990.0,1,0
+Y Tu Mamá También,2003.0,1,0
+Snow Capers,1949.0,1,0
+X-Men: Days of Future Past,2015.0,1,0
+Snow Carnival,1950.0,1,0
+Wyatt Earp,1995.0,1,0
+Snow Falling on Cedars,2000.0,1,0
+Wrong Way Butch,1951.0,1,0
+"Yesterday, Today and Tomorrow",1965.0,1,1
+Yesterday,2005.0,1,0
+Yojimbo,1962.0,1,0
+You Are Free  (Ihr Zent Frei),1984.0,1,0
+Sister Rose's Passion,2005.0,1,0
+Sisyphus,1976.0,1,0
+Sitting Pretty,1949.0,1,0
+You're a Big Boy Now,1967.0,1,0
+Six Degrees of Separation,1994.0,1,0
+Six Shooter,2006.0,1,1
+Six-Sided Triangle,1964.0,1,0
+Skaterdater,1966.0,1,0
+You'll Find Out,1941.0,1,0
+Sky over Holland,1968.0,1,0
+You Light Up My Life,1978.0,1,1
+Skylark,1942.0,1,0
+Skyscraper,1960.0,1,0
+Sleepers,1997.0,1,0
+You Don't Have to Die,1989.0,1,1
+You Can't Win,1949.0,1,0
+Sleeping Beauty,1960.0,1,0
+Squatter's Rights,1947.0,1,0
+Squires of San Quentin,1979.0,1,0
+Sredni Vashtar,1983.0,1,0
+West Bank Story,2007.0,1,1
+Superman Returns,2007.0,1,0
+Superman,1942.0,1,0
+Traveling Hopefully,1983.0,1,0
+Sure Cures,1947.0,1,0
+Surf's Up,2008.0,1,0
+Whale Rider,2004.0,1,0
+Survival City,1956.0,1,1
+Wet Blanket Policy,1949.0,1,0
+Suzanne Farrell: Elusive Muse,1997.0,1,0
+What Happened to Santiago,1990.0,1,0
+Suzy,1937.0,1,0
+Wells Fargo,1938.0,1,0
+Wee Willie Winkie,1938.0,1,0
+Wee Water Wonders,1954.0,1,0
+"We've Come a Long, Long Way",1944.0,1,0
+Swan Song,1993.0,1,0
+Swanee River,1940.0,1,0
+Swedes in America,1944.0,1,0
+Super Size Me,2005.0,1,0
+Super Chief: The Life and Legacy of Earl Warren,1990.0,1,0
+When Ladies Meet,1942.0,1,0
+What's the Matter with Helen?,1972.0,1,0
+Sunbonnet Sue,1946.0,1,0
+When Harry Met Sally...,1990.0,1,0
+When Father Was Away on Business,1986.0,1,0
+Sundae in New York,1984.0,1,1
+When Dinosaurs Ruled the Earth,1972.0,1,0
+When Abortion Was Illegal: Untold Stories,1993.0,1,0
+"What, No Men!",1935.0,1,0
+Sundays and Cybele,1963.0,1,1
+What's New Pussycat?,1966.0,1,0
+Sunset,1989.0,1,0
+Sunflower,1971.0,1,0
+Sunny,1942.0,1,0
+What's Eating Gilbert Grape,1994.0,1,0
+What on Earth!,1968.0,1,0
+Sunrise over Tiananmen Square,1999.0,1,0
+What Price Hollywood?,1933.0,1,0
+"What Next, Corporal Hargrove?",1946.0,1,0
+"What Happened, Miss Simone?",2016.0,1,0
+We Refuse to Die,1943.0,1,0
+We Can't Live without Cosmos,2016.0,1,0
+Way Out West,1938.0,1,0
+Tammy and the Bachelor,1958.0,1,0
+Watani: My Homeland,2017.0,1,0
+Wat's Pig,1997.0,1,0
+Tabu,1932.0,1,1
+Waste Land,2011.0,1,0
+Take the High Ground,1954.0,1,0
+Wasp,2005.0,1,1
+Tales of Meeting and Parting,1985.0,1,0
+"Tall, Dark and Handsome",1942.0,1,0
+Tangerines,2015.0,1,0
+Sweet Dreams,1986.0,1,0
+Tanghi Argentini,2008.0,1,0
+Tangled,2011.0,1,0
+Wartime Romance,1985.0,1,0
+Warrior,2012.0,1,0
+Tango,1983.0,1,1
+War/Dance,2008.0,1,0
+Tango,1999.0,1,0
+Tanks a Million,1942.0,1,0
+Tabasco Road,1958.0,1,0
+T-Men,1948.0,1,0
+T Is for Tumbleweed,1959.0,1,0
+Water Birds,1953.0,1,1
+Sweet and Low-Down,1945.0,1,0
+Sweethearts?,1998.0,1,0
+Way Down South,1940.0,1,0
+Water,2007.0,1,0
+Waterworld,1996.0,1,0
+Swing High,1933.0,1,0
+Swing Shift,1985.0,1,0
+Swingtime in the Movies,1939.0,1,0
+Swiss Family Robinson,1941.0,1,0
+Water--Friend or Enemy,1944.0,1,0
+Switzerland,1956.0,1,0
+Swooner Crooner,1945.0,1,0
+Sword Fishing,1940.0,1,0
+Symphony of a City,1949.0,1,1
+Symposium on Popular Songs,1963.0,1,0
+Water Trix,1950.0,1,0
+Syrup,1995.0,1,0
+When Ladies Meet,1934.0,1,0
+Sun Come Up,2011.0,1,0
+William Shakespeare's Romeo & Juliet,1997.0,1,0
+White Heat,1950.0,1,0
+Star Trek: First Contact,1997.0,1,0
+Who Are the DeBolts? And Where Did They Get Nineteen Kids?,1978.0,1,1
+Star Wars Episode II Attack of the Clones,2003.0,1,0
+Star Wars: Episode III Revenge of the Sith,2006.0,1,0
+White Shadows in the South Seas,1930.0,1,1
+White Rhapsody,1946.0,1,0
+Star in the Night,1946.0,1,1
+Starman,1985.0,1,0
+Starship Troopers,1998.0,1,0
+Star Trek Into Darkness,2014.0,1,0
+White Earth,2015.0,1,0
+White Eagle,1943.0,1,0
+Steel Magnolias,1990.0,1,0
+White Christmas,1955.0,1,0
+Step Lively,1945.0,1,0
+White Bim Black Ear,1979.0,1,0
+Sticky My Fingers...Fleet My Feet,1971.0,1,0
+White Banners,1939.0,1,0
+Who Is Harry Kellerman and Why Is He Saying Those Terrible Things about Me?,1972.0,1,0
+Who Killed Cock Robin?,1936.0,1,0
+When Life Departs,1999.0,1,0
+Wild Strawberries,1960.0,1,0
+Stagecoach to Fury,1957.0,1,0
+Wild in the Streets,1969.0,1,0
+Wild by Law,1992.0,1,0
+Wild at Heart,1991.0,1,0
+Stairway to Light,1946.0,1,1
+Wild Wings,1967.0,1,1
+Wild Tales,2015.0,1,0
+Stand By for Action,1944.0,1,0
+Wild Life,2012.0,1,0
+Who Killed Vincent Chin?,1989.0,1,0
+Why Man Creates,1969.0,1,1
+Stand and Deliver,1989.0,1,0
+Why Korea?,1951.0,1,1
+Stand by Me,1987.0,1,0
+Why Can't We Be a Family Again?,2003.0,1,0
+Star Trek Beyond,2017.0,1,0
+Whoopee!,1932.0,1,0
+Who's Who in Animal Land,1945.0,1,1
+Still Alice,2015.0,1,1
+Still Kicking: The Fabulous Palm Springs Follies,1998.0,1,0
+Stolen Kisses,1969.0,1,0
+When the Day Breaks,2000.0,1,0
+Which Way Home,2010.0,1,0
+Strikes and Spares,1935.0,1,0
+Strings,1992.0,1,0
+Stuart Little,2000.0,1,0
+Where Mountains Float,1957.0,1,0
+Stubble Trouble,2002.0,1,0
+Stutterer,2016.0,1,1
+Where Love Has Gone,1965.0,1,0
+Suicide Squad,2017.0,1,1
+Whistling Smith,1976.0,1,0
+When Willie Comes Marching Home,1951.0,1,0
+Sully,2017.0,1,0
+Summer Storm,1945.0,1,0
+When We Were Kings,1997.0,1,1
+When Tomorrow Comes,1940.0,1,1
+When Time Ran Out,1981.0,1,0
+When Marnie Was There,2016.0,1,0
+When Magoo Flew,1955.0,1,1
+Streetwise,1985.0,1,0
+Street of Chance,1931.0,1,0
+Whiffs,1976.0,1,0
+Street Smart,1988.0,1,0
+Stop the World--I Want to Get Off,1967.0,1,0
+"Stop, Look and Listen",1968.0,1,0
+Storm over Bengal,1939.0,1,0
+Story of a Dog,1946.0,1,0
+Stout Hearts and Willing Hands,1933.0,1,0
+Straight Outta Compton,2016.0,1,0
+Straight from the Heart,1995.0,1,0
+Strange Fruit,1979.0,1,0
+Strange Invaders,2002.0,1,0
+Strangers No More,2011.0,1,1
+Strangers on a Train,1952.0,1,0
+While I Run This Race,1968.0,1,0
+Strategic Air Command,1956.0,1,0
+Straw Dogs,1972.0,1,0
+Strawberry and Chocolate,1995.0,1,0
+Street Angel,1930.0,1,0
+Street Fight,2006.0,1,0
+The Chicken (Le Poulet),1966.0,1,1
+Too Many Husbands,1941.0,1,0
+The Chicken from Outer Space,1996.0,1,0
+The House That Jack Built,1969.0,1,0
+The Shop on Main Street,1966.0,1,1
+The Last Tycoon,1977.0,1,0
+The Shootist,1977.0,1,0
+The Last Voyage,1961.0,1,0
+The Last of Mrs. Cheyney,1930.0,1,0
+The Last of the Mohicans,1937.0,1,0
+The Last of the Mohicans,1993.0,1,1
+The Late Show,1978.0,1,0
+The Shetland Experience,1978.0,1,0
+The Legend of Jimmy Blue Eyes,1965.0,1,0
+The Legend of John Henry,1974.0,1,0
+The Shepherd,1971.0,1,0
+The Legend of Rock-a-bye Point,1956.0,1,0
+The Legendary Champions,1969.0,1,0
+The Lego Movie,2015.0,1,0
+The Leopard,1964.0,1,0
+The Sheepman,1959.0,1,0
+The Sheep Has Five Legs,1956.0,1,0
+The Letter,1930.0,1,0
+The Last Truck: Closing of a GM Plant,2010.0,1,0
+The Last Temptation of Christ,1989.0,1,0
+The Shop on Main Street,1967.0,1,0
+The Last Campaign of Governor Booth Gardner,2010.0,1,0
+The Lady Objects,1939.0,1,0
+The Lady and the Reaper (La Dama y la Muerte),2010.0,1,0
+The Lady in Number 6: Music Saved My Life,2014.0,1,1
+The Lady in Waiting,1993.0,1,0
+The Ladykillers,1957.0,1,0
+The Landlord,1971.0,1,0
+The Singing Nun,1967.0,1,0
+The Last Bomb,1946.0,1,0
+The Sin of Madelon Claudet,1933.0,1,1
+The Shore,2012.0,1,1
+The Last Days,1999.0,1,1
+The Silent World,1957.0,1,1
+The Silent Revolution,1973.0,1,0
+The Last Farm,2006.0,1,0
+The Last King of Scotland,2007.0,1,1
+The Last Metro,1981.0,1,0
+The Silence,1983.0,1,0
+The Sign of the Cross,1934.0,1,0
+The Life and Times of Judge Roy Bean,1973.0,1,0
+The Line King: The Al Hirschfeld Story,1997.0,1,0
+The Shadow of Hate,1996.0,1,0
+The Look of Silence,2016.0,1,0
+The Scoundrel,1936.0,1,1
+The Living Stone,1959.0,1,0
+The Lobster,2017.0,1,0
+The Scent of Green Papaya,1994.0,1,0
+The Saviour,2007.0,1,0
+The Long Way Home,1998.0,1,1
+The Longest Yard,1975.0,1,0
+The Sandpiper,1966.0,1,1
+The Sandman,1993.0,1,0
+The Screw (La Vis),1994.0,1,0
+The Sand Castle,1978.0,1,1
+The Salt of the Earth,2015.0,1,0
+The Salesman,2017.0,1,1
+"The Running, Jumping and Standing-Still Film",1960.0,1,0
+The Lost Patrol,1935.0,1,0
+The Lost Thing,2011.0,1,1
+The Ruling Class,1973.0,1,0
+The Lost World: Jurassic Park,1998.0,1,0
+The Living Sea,1996.0,1,0
+The Living Desert,1954.0,1,1
+The Seventh Veil,1947.0,1,1
+The Little Orphan,1949.0,1,1
+The Seventh Cross,1945.0,1,0
+The Seven Little Foys,1956.0,1,0
+The Sessions,2013.0,1,0
+The Little Ark,1973.0,1,0
+The Selfish Giant,1972.0,1,0
+The Little Match Girl,1938.0,1,0
+The Little Matchgirl,2007.0,1,0
+The Seeing Eye,1952.0,1,0
+The Secret of Kells,2010.0,1,0
+The Living City,1954.0,1,0
+The Secret in Their Eyes,2010.0,1,1
+The Secret Land,1949.0,1,1
+The Little Witch,1946.0,1,0
+The Sea,1934.0,1,0
+The Lively Set,1965.0,1,0
+The Lives of Others,2007.0,1,1
+The Sea around Us,1953.0,1,1
+The Sea Wolf,1942.0,1,0
+The Smiling Lieutenant,1933.0,1,0
+The Lady Eve,1942.0,1,0
+The Labor Front,1944.0,1,0
+The Stratton Story,1950.0,1,1
+The Impossible,2013.0,1,0
+The Incredible Machine,1976.0,1,0
+The Strip,1952.0,1,0
+The Stripper,1964.0,1,0
+The Street,1977.0,1,0
+The Strawberry Blonde,1942.0,1,0
+The Inn of the Sixth Happiness,1959.0,1,0
+The Strauss Fantasy,1955.0,1,0
+The Stratford Adventure,1955.0,1,0
+The Sullivans,1945.0,1,0
+The Stranger,1947.0,1,0
+The Invisible Man Returns,1941.0,1,0
+The Strange Love of Martha Ivers,1947.0,1,0
+The Straight Story,2000.0,1,0
+The Invisible War,2013.0,1,0
+The Invisible Woman,1942.0,1,0
+The Invisible Woman,2014.0,1,0
+The Island at the Top of the World,1975.0,1,0
+The Important Man,1962.0,1,0
+The Illusionist,2011.0,1,0
+The Janitor,1995.0,1,0
+The Taste of Others,2001.0,1,0
+The House of the Seven Gables,1941.0,1,0
+The House on 92nd Street,1946.0,1,1
+The House on Chelouche Street,1974.0,1,0
+The House without a Name,1957.0,1,0
+The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table,1988.0,1,1
+The Tempest,2011.0,1,0
+The Human Dutch,1965.0,1,0
+The Tell Tale Heart,1954.0,1,0
+The Hunchback of Notre Dame,1997.0,1,0
+The Illusionist,2007.0,1,0
+The Tanks Are Coming,1942.0,1,0
+The Hunting Ground,2016.0,1,0
+The Hunt,2014.0,1,0
+The Tale of the Princess Kaguya,2015.0,1,0
+The Sword in the Stone,1964.0,1,0
+The Hurricane,2000.0,1,0
+The Swarm,1979.0,1,0
+The Ides of March,2012.0,1,0
+The Story of the Weeping Camel,2005.0,1,0
+The Jaywalker,1957.0,1,0
+The L-Shaped Room,1964.0,1,0
+The Spanish Main,1946.0,1,0
+The Jury Goes Round 'N' Round,1946.0,1,0
+The Spoilers,1943.0,1,0
+The Spirit of St. Louis,1958.0,1,0
+The Kansan,1944.0,1,0
+The Spirit of America,1964.0,1,0
+The Karate Kid Part II,1987.0,1,0
+The Karate Kid,1985.0,1,0
+The Spiral Staircase,1947.0,1,0
+The Killing Ground,1980.0,1,0
+The Jungle Book,2017.0,1,1
+The Sorrow and the Pity,1972.0,1,0
+The Son of Monte Cristo,1942.0,1,0
+The Kiss,1959.0,1,0
+The Solar Film,1980.0,1,0
+The Kite Runner,2008.0,1,0
+The Klan: A Legacy of Hate in America,1983.0,1,0
+The Snowman,1983.0,1,0
+The Sniper,1953.0,1,0
+The Square,2014.0,1,0
+The Squid and the Whale,2006.0,1,0
+The Story of Time,1952.0,1,0
+The Stepmother,1973.0,1,0
+The Story of Three Loves,1954.0,1,0
+The Jazz Singer,1929.0,1,0
+The Jazz Singer,1953.0,1,0
+The Story of Dr. Wassell,1945.0,1,0
+The Story of Adele H.,1976.0,1,0
+The Stone Carvers,1985.0,1,1
+The Sting II,1984.0,1,0
+The John Glenn Story,1963.0,1,0
+The Johnstown Flood,1990.0,1,1
+The Stairs,1951.0,1,0
+The Statue of Liberty,1986.0,1,0
+The Joker Is Wild,1958.0,1,1
+The Star,1953.0,1,0
+The Star Witness,1933.0,1,0
+The Journey of Natty Gann,1986.0,1,0
+The Judge,2015.0,1,0
+The Jungle Book,1968.0,1,0
+The Star Maker,1996.0,1,0
+The Loud Mouth,1933.0,1,0
+The Royal Tenenbaums,2002.0,1,0
+The Royal Family of Broadway,1932.0,1,0
+The Navy Comes Through,1943.0,1,0
+The Private Life of Helen of Troy,1929.0,1,0
+The Mysterious Geographic Explorations of Jasper Morello,2006.0,1,0
+The Naked Eye,1957.0,1,0
+The Naked Prey,1967.0,1,0
+The Naked Spur,1954.0,1,0
+The Princess Bride,1988.0,1,0
+The Narrow Margin,1953.0,1,0
+The Nasty Girl,1991.0,1,0
+The Nest,1981.0,1,0
+The Music Box,1933.0,1,1
+The New Land,1973.0,1,0
+The Pride of St. Louis,1953.0,1,0
+The New Spirit,1943.0,1,0
+The New Tenants,2010.0,1,1
+The New World,2006.0,1,0
+The Night before Christmas,1942.0,1,0
+The Price of Victory,1943.0,1,0
+The Nightmare before Christmas,1994.0,1,0
+The Music Teacher,1989.0,1,0
+The Mushroom Club,2006.0,1,0
+The Ninth Circle,1961.0,1,0
+The Morning After,1987.0,1,0
+The Pumpkin Eater,1965.0,1,0
+The Public Pays,1937.0,1,1
+The Public Enemy,1932.0,1,0
+The Proud and the Beautiful,1957.0,1,0
+The Moon and Sixpence,1944.0,1,0
+The Moon and the Son: An Imagined Conversation,2006.0,1,1
+The Promoter,1953.0,1,0
+The Promise,1980.0,1,0
+The Profession of Arms,1984.0,1,0
+The Muppets,2012.0,1,1
+The Morning Spider,1977.0,1,0
+The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,2010.0,1,0
+The Prizefighter and the Lady,1934.0,1,0
+The Mudlark,1952.0,1,0
+The Mummy,2000.0,1,0
+The Private War of Major Benson,1956.0,1,0
+The Private Life of the Gannets,1938.0,1,1
+The Muppets Take Manhattan,1985.0,1,0
+The Nights of Cabiria,1958.0,1,1
+The Noose,1929.0,1,0
+The Monk and the Fish,1995.0,1,0
+The Pink Blueprint,1967.0,1,0
+The Panama Deception,1993.0,1,1
+The Pirate,1949.0,1,0
+The Paper,1995.0,1,0
+The Paradine Case,1948.0,1,0
+The Pirates! Band of Misfits,2013.0,1,0
+The Pink Phink,1965.0,1,1
+The Pink Panther,1965.0,1,0
+The Pink Panther Strikes Again,1977.0,1,0
+The Pig,2009.0,1,0
+The Painted Door,1985.0,1,0
+The Pigeon That Took Rome,1963.0,1,0
+The Pied Piper of Guadalupe,1962.0,1,0
+The Passover Plot,1977.0,1,0
+The Pickwick Papers,1956.0,1,0
+The Pawnbroker,1966.0,1,0
+The Pedestrian,1974.0,1,0
+The Phone Call,2015.0,1,1
+The Personals: Improvisations on Romance in the Golden Years,1999.0,1,1
+The Paleface,1949.0,1,1
+The Ox,1992.0,1,0
+The Preacher's Wife,1997.0,1,0
+The Pointer,1940.0,1,0
+The Numbers Start with the River,1972.0,1,0
+The Power and the Prize,1957.0,1,0
+The Nutty Professor,1997.0,1,1
+The Odds Against,1967.0,1,0
+The Pope of Greenwich Village,1985.0,1,0
+The Old Man and the Sea,2000.0,1,1
+The Policeman,1972.0,1,0
+The Old Mill,1938.0,1,1
+The Olympics in Mexico,1970.0,1,0
+The Ox-Bow Incident,1944.0,1,0
+The Poet and Peasant,1946.0,1,0
+The Organizer,1965.0,1,0
+The Pleasure Seekers,1966.0,1,0
+The Other Half of the Sky: A China Memoir,1976.0,1,0
+The Other Side of Midnight,1978.0,1,0
+The Other Side of Sunday,1997.0,1,0
+The Other Side of the Mountain,1976.0,1,0
+The Outlaw Josey Wales,1977.0,1,0
+The Purple Rose of Cairo,1986.0,1,0
+The Molly Maguires,1971.0,1,0
+The Rookie Bear,1942.0,1,0
+The Man Who Skied down Everest,1976.0,1,1
+The Richest Girl in the World,1935.0,1,0
+The Revolving Door,1969.0,1,0
+The Mambo Kings,1993.0,1,0
+The Man Who Knew Too Much,1957.0,1,1
+The Man Who Planted Trees,1988.0,1,1
+The Return of Martin Guerre,1984.0,1,0
+The Resurrection of Broncho Billy,1971.0,1,1
+The Man Who Shot Liberty Valance,1963.0,1,0
+The Man Who Walked Alone,1946.0,1,0
+The Right to Love,1932.0,1,0
+The Man Who Wasn't There,2002.0,1,0
+The Restless Conscience,1992.0,1,0
+The Rescuers,1978.0,1,0
+The Man in the Glass Booth,1976.0,1,0
+The Man in the Iron Mask,1940.0,1,0
+The Man in the White Suit,1953.0,1,0
+The Rehearsal,1972.0,1,0
+The Man on Lincoln's Nose,2001.0,1,0
+The Maids of Wilko,1980.0,1,0
+The Magnificent Seven,1961.0,1,0
+The Man without a Country,1938.0,1,0
+The Lunch Date,1991.0,1,1
+The Lovely Bones,2010.0,1,0
+The Lovers' Wind,1979.0,1,0
+The Lover,1993.0,1,0
+The Roman Spring of Mrs. Stone,1962.0,1,0
+The Rogue Song,1931.0,1,0
+The Loves of Carmen,1949.0,1,0
+The Luck of the Irish,1949.0,1,0
+The Luckiest Guy in the World,1947.0,1,0
+The Rock,1997.0,1,0
+The Rise and Fall of Legs Diamond,1961.0,1,0
+The Magic Fluke,1950.0,1,0
+The Magic Flute,1976.0,1,0
+The Road to the Wall,1963.0,1,0
+The Magic Pear Tree,1969.0,1,0
+The Magic of Lassie,1979.0,1,0
+The Road a Year Long,1959.0,1,0
+The Rising Tide,1950.0,1,0
+The Magnificent Brute,1937.0,1,0
+The Redwoods,1968.0,1,1
+The Man without a Past,2003.0,1,0
+The Model and the Marriage Broker,1952.0,1,0
+The Milk of Sorrow,2010.0,1,0
+The Rains of Ranchipur,1956.0,1,0
+The Merry Wives of Windsor Overture,1954.0,1,1
+The Racket,1929.0,1,0
+She,1936.0,1,0
+The Race for Space,1960.0,1,0
+The Mighty River,1994.0,1,0
+The Mikado,1940.0,1,0
+The Milagro Beanfield War,1989.0,1,1
+The Milky Way,1941.0,1,1
+The Merry Old Soul,1934.0,1,0
+The RA Expeditions,1972.0,1,0
+The Miracle of Morgan's Creek,1945.0,1,0
+The Quiet One,1950.0,1,0
+The Missing Picture,2014.0,1,0
+The Quiet One,1949.0,1,0
+The Quiet American,2003.0,1,0
+The Pursuit of Happyness,2007.0,1,0
+The Mississippi Gambler,1954.0,1,0
+The Merry Widow,1935.0,1,1
+The Merry Monahans,1945.0,1,0
+The Red Violin,2000.0,1,1
+The Masters of Disaster,1987.0,1,0
+The Mark of Zorro,1941.0,1,0
+The Mark of the Maker,1992.0,1,0
+The Mark,1962.0,1,0
+The Red Turtle,2017.0,1,0
+The Red Lanterns,1964.0,1,0
+The Red Danube,1951.0,1,0
+The Red Balloon,1957.0,1,1
+The Mask,1995.0,1,0
+The Rear Gunner,1944.0,1,0
+The Mermaid,1998.0,1,0
+The Mating Season,1952.0,1,0
+The Reaper (La Parka),2015.0,1,0
+The Mayor of 44th Street,1943.0,1,0
+The Medium,1953.0,1,0
+The Member of the Wedding,1953.0,1,0
+The Really Big Family,1967.0,1,0
+The Men in Her Life,1942.0,1,0
+The Men,1951.0,1,0
+The House of Rothschild,1935.0,1,0
+The Tender Tale of Cinderella Penguin,1982.0,1,0
+The Childeater,1990.0,1,0
+The House That Ananda Built,1969.0,1,0
+Thursday's Children,1955.0,1,1
+Thunderbolt,1930.0,1,0
+Thunderbolt and Lightfoot,1975.0,1,0
+The Dizzy Acrobat,1944.0,1,0
+Thunderball,1966.0,1,1
+The Dollar Bottom,1981.0,1,1
+The Dolly Sisters,1947.0,1,0
+Throw Momma from the Train,1988.0,1,0
+The Doonesbury Special,1978.0,1,0
+The Doorway to Hell,1932.0,1,0
+The Door,2010.0,1,0
+The Dot and the Line,1966.0,1,1
+The Dove;,1929.0,1,1
+The Dove,1969.0,1,0
+The Drag,1967.0,1,0
+Through a Glass Darkly,1963.0,1,0
+Through a Glass Darkly,1962.0,1,1
+Three,1967.0,1,0
+The Dutch Master,1994.0,1,0
+Tim Burton's Corpse Bride,2006.0,1,0
+Timber Toppers,1939.0,1,0
+Timbuktu,2015.0,1,0
+Tit for Tat,1936.0,1,0
+The Deluge,1975.0,1,0
+To Be Alive!,1966.0,1,1
+Tlayucan,1963.0,1,0
+Titus,2000.0,1,0
+The Desert Rats,1954.0,1,0
+The Desert Song,1945.0,1,0
+The Devil Came at Night,1958.0,1,0
+The Devil Dancer;,1929.0,1,0
+The Devil Pays Off,1942.0,1,0
+Time Freak,2012.0,1,0
+Tin Toy,1989.0,1,1
+The Devil's Holiday,1931.0,1,0
+Tin Pan Alley,1941.0,1,1
+Timecode,2017.0,1,0
+Time Stood Still,1957.0,1,0
+Time Piece,1966.0,1,0
+The Divided Trail: A Native American Odyssey,1979.0,1,0
+Time Is Running Out,1971.0,1,0
+The Dutch Tradition,1944.0,1,0
+Three Russian Girls,1945.0,1,0
+Three Orphan Kittens,1936.0,1,1
+This Charming Man (Der Er En Yndig Mand),2003.0,1,1
+The Enemy Below,1958.0,1,1
+This Mechanical Age,1955.0,1,1
+This Love of Ours,1946.0,1,0
+The Entertainer,1961.0,1,0
+The Eruption of Mount St. Helens,1981.0,1,0
+The Europeans,1980.0,1,0
+This Land Is Mine,1944.0,1,1
+This Is Cinerama,1954.0,1,0
+The Face of Genius,1967.0,1,0
+This Tiny World,1973.0,1,1
+The Face of Jesus,1962.0,1,0
+Thirty Million Letters,1964.0,1,0
+The Fall of the Roman Empire,1965.0,1,0
+Thirteen,2004.0,1,0
+The Fallen Sparrow,1944.0,1,0
+Thin Ice,1938.0,1,0
+The Family That Dwelt Apart,1975.0,1,0
+The Family,1988.0,1,0
+The End of the Road,1977.0,1,0
+The End of the Game,1976.0,1,1
+Three Men and a Cradle,1986.0,1,0
+The Elementary School,1992.0,1,0
+The Earrings of Madame de...,1955.0,1,0
+The Egg and I,1948.0,1,0
+Three Little Words,1951.0,1,0
+The Egyptian,1955.0,1,0
+The Eleanor Roosevelt Story,1966.0,1,1
+The Electric Horseman,1980.0,1,0
+Three Kisses,1956.0,1,0
+Three Is a Family,1946.0,1,0
+The Emigrants,1972.0,1,0
+This Way Up,2009.0,1,0
+Three Days of the Condor,1976.0,1,0
+Three Comrades,1939.0,1,0
+Three Brothers,1982.0,1,0
+The Emperor's New Groove,2001.0,1,0
+Thoth,2002.0,1,1
+Those Magnificent Men in Their Flying Machines,1966.0,1,0
+This Woman Is Mine,1942.0,1,0
+The Enchanted Cottage,1946.0,1,0
+To Be or Not to Be,1943.0,1,0
+To Be or Not to Be,1984.0,1,0
+The Deep,1978.0,1,0
+The Concert,1975.0,1,0
+Toward Independence,1949.0,1,1
+"Touché, Pussy Cat",1955.0,1,0
+The Colours of My Father: A Portrait of Sam Borenstein,1993.0,1,0
+The Commitments,1992.0,1,0
+Torture Money,1938.0,1,1
+Tortilla Flat,1943.0,1,0
+Torpedo Run,1959.0,1,0
+The Concert,1964.0,1,0
+The Confession,2011.0,1,0
+Toy Story 2,2000.0,1,0
+The Conformist,1972.0,1,0
+The Conquest of Everest,1954.0,1,0
+Torero!,1958.0,1,0
+The Conscience of Nhem En,2009.0,1,0
+Torch Song,1954.0,1,0
+The Constant Nymph,1944.0,1,0
+The Cooler,2004.0,1,0
+The Cop;,1930.0,1,0
+Town without Pity,1962.0,1,0
+The Collector of Bedford Street,2003.0,1,0
+The Corsican Brothers,1943.0,1,0
+Trail of the Lonesome Pine,1937.0,1,0
+The Children of Leningradsky,2005.0,1,0
+The Children of Soong Ching Ling,1985.0,1,0
+The Children of Theatre Street,1978.0,1,0
+Transformers: Revenge of the Fallen,2010.0,1,0
+Transatlantic,1933.0,1,1
+The Children's Storefront,1989.0,1,0
+Trainspotting,1997.0,1,0
+The ChubbChubbs!,2003.0,1,1
+Traffic with the Devil,1947.0,1,0
+Toy Tinkers,1950.0,1,0
+Trading Places,1984.0,1,0
+Trader Horn,1932.0,1,0
+The Clan of the Cave Bear,1987.0,1,0
+The Class,2009.0,1,0
+Toys in the Attic,1964.0,1,0
+The Client,1995.0,1,0
+The Cliff Dwellers (formerly titled 'One Plus One'),1963.0,1,0
+The Climax,1945.0,1,0
+Topper Takes a Trip,1940.0,1,0
+Topkapi,1965.0,1,1
+The Decline of the American Empire,1987.0,1,0
+To Live or Let Die,1983.0,1,0
+The Dam Keeper,2015.0,1,0
+The Damned,1970.0,1,0
+The Danish Poet,2007.0,1,1
+Tobruk,1968.0,1,0
+To the Shores of Tripoli,1943.0,1,0
+To the Shores of Iwo Jima,1946.0,1,0
+To the People of the United States,1944.0,1,0
+The Dark Mirror,1947.0,1,0
+To Live Again,1964.0,1,0
+"Tom, Dick and Harry",1942.0,1,0
+The Dark at the Top of the Stairs,1961.0,1,0
+To Forget Venice,1980.0,1,0
+The Dawn Patrol,1932.0,1,1
+The Dawns Here Are Quiet,1973.0,1,0
+The Day after Trinity,1981.0,1,0
+The Day of the Jackal,1974.0,1,0
+To Die in Madrid,1966.0,1,0
+The Death of Kevin Carter: Casualty of the Bang Bang Club,2006.0,1,0
+The Dam Busters,1956.0,1,0
+The Cry of Reason - Beyers Naudé: An Afrikaner Speaks Out,1989.0,1,0
+"Toot, Whistle, Plunk and Boom",1954.0,1,1
+The Creation of Woman,1961.0,1,0
+The Counterfeiters,2008.0,1,1
+The Country Cousin,1937.0,1,1
+Too Young to Kiss,1952.0,1,0
+The Courage to Care,1986.0,1,0
+The Court-Martial of Billy Mitchell,1956.0,1,0
+The Cove,2010.0,1,1
+The Periwig-Maker,2001.0,1,0
+The Cow,1990.0,1,0
+The Creation,1982.0,1,0
+The Crush,2011.0,1,0
+The Criminal Code,1932.0,1,0
+The Critic,1964.0,1,1
+The Croods,2014.0,1,0
+Toni Erdmann,2017.0,1,0
+Tomorrow We Fly,1944.0,1,0
+The Cruel Sea,1954.0,1,0
+The Crunch Bird,1972.0,1,1
+The Crusades,1936.0,1,0
+The Fantastic Flying Books of Mr. Morris Lessmore,2012.0,1,1
+"The Farm: Angola, U.S.A.",1999.0,1,0
+They're Always Caught,1939.0,1,0
+The Usual Unidentified Thieves,1959.0,1,0
+The Great Escape,1964.0,1,0
+The Valiant,1930.0,1,0
+The Great Heart,1939.0,1,0
+The Great Lie,1942.0,1,1
+The Great McGinty,1941.0,1,1
+The Great Muppet Caper,1982.0,1,0
+The Vagabond King,1931.0,1,0
+The V.I.P.s,1964.0,1,1
+The Great War,1960.0,1,0
+The Great Cognito,1983.0,1,0
+The Unseen,1946.0,1,0
+The Uninvited,1945.0,1,0
+The Umbrellas of Cherbourg,1965.0,1,0
+The Ugly Duckling,1940.0,1,1
+The Green Goddess,1931.0,1,0
+The Two Mouseketeers,1952.0,1,1
+The Twilight Samurai,2004.0,1,0
+The Tsunami and the Cherry Blossom,2012.0,1,0
+The Vanishing Prairie,1955.0,1,1
+The Great Beauty,2014.0,1,1
+The True Story of the Civil War,1957.0,1,1
+The Visitor,2009.0,1,0
+The War against Mrs. Hadley,1943.0,1,0
+The Good German,2007.0,1,0
+The War Room,1994.0,1,0
+The Good Shepherd,2007.0,1,0
+The War Game,1967.0,1,1
+The Voorman Problem,2014.0,1,0
+The Voice That Thrilled the World,1944.0,1,0
+The Visit,1965.0,1,0
+The Grain That Built a Hemisphere,1943.0,1,0
+The Great American Cowboy,1974.0,1,1
+The Virgin Queen,1956.0,1,0
+The Violin,1975.0,1,0
+The Violinist,1960.0,1,0
+The Village,2005.0,1,0
+The Grandfather,1999.0,1,0
+The Village,1994.0,1,0
+The Village on the River,1960.0,1,0
+The Grass Is Always Greener,1950.0,1,0
+The Truth about Mother Goose,1958.0,1,0
+The True Glory,1946.0,1,1
+The Warriors of Qiugang,2011.0,1,0
+The Thieving Magpie (La Gazza Ladra),1966.0,1,0
+The Hellstrom Chronicle,1972.0,1,1
+The Three Musketeers,1949.0,1,0
+The Three Little Pigs,1934.0,1,1
+The Hidden World,1959.0,1,0
+The Three Faces of Eve,1958.0,1,1
+The Hill Farm,1990.0,1,0
+The Hoaxters,1953.0,1,0
+The Hobbit: The Battle of the Five Armies,2015.0,1,0
+The Thief,1998.0,1,0
+The Time Machine,1961.0,1,1
+The Hole,1963.0,1,1
+The Horse Whisperer,1999.0,1,0
+The Horse with the Flying Tail,1961.0,1,1
+The Horse's Mouth,1959.0,1,0
+The Thief,1953.0,1,0
+The Texas Rangers,1937.0,1,0
+The Hot Rock,1973.0,1,0
+The Tender Trap,1956.0,1,0
+The Tide of Traffic,1973.0,1,0
+The Time Machine,2003.0,1,0
+The Truce,1975.0,1,0
+The Happiest Millionaire,1968.0,1,0
+The Gruffalo,2011.0,1,0
+The Trespasser,1931.0,1,0
+The Train,1966.0,1,0
+The Town,2011.0,1,0
+The Gunfighter,1951.0,1,0
+The Tortoise and the Hare,1935.0,1,1
+The Hairy Ape,1945.0,1,0
+The Hanging Tree,1960.0,1,0
+The Tonto Woman,2008.0,1,0
+The Hawaiians,1971.0,1,0
+The Toast of New Orleans,1951.0,1,0
+The Titan: Story of Michelangelo,1951.0,1,1
+The Harder They Fall,1957.0,1,0
+The Tin Star,1958.0,1,0
+The Hasty Heart,1950.0,1,0
+The Tin Drum,1980.0,1,1
+The Times of Harvey Milk,1985.0,1,1
+"The Time, the Place and the Girl",1948.0,1,0
+The War at Home,1980.0,1,0
+The Way Back,2011.0,1,0
+The Field,1991.0,1,0
+The Fly,1987.0,1,1
+The Yellow Star - The Persecution of the Jews in Europe 1933-45,1981.0,1,0
+The Year of Living Dangerously,1984.0,1,1
+The Flame of New Orleans,1942.0,1,0
+The Flight of the Eagle,1983.0,1,0
+The Yanks Are Coming,1964.0,1,0
+The Flight of the Gossamer Condor,1979.0,1,1
+The Wrong Trousers,1994.0,1,1
+The Fly,1981.0,1,1
+The Fog of War,2004.0,1,1
+The Young Girls of Rochefort,1969.0,1,0
+The Formula,1981.0,1,0
+The Forth Road Bridge,1966.0,1,0
+The Four Days of Naples,1963.0,1,0
+The Four Days of Naples,1964.0,1,0
+The Four Musketeers,1976.0,1,0
+The Four Poster,1954.0,1,0
+The Foxes of Harrow,1948.0,1,0
+The Fox,1969.0,1,0
+The Fixer,1969.0,1,0
+The Five Cities of June,1964.0,1,0
+The Word,1954.0,1,0
+The Fighting Seabees,1945.0,1,0
+The Fifth Element,1998.0,1,0
+The Fight for Life,1941.0,1,0
+The Fight: Science against Cancer,1951.0,1,0
+They Shall Have Music,1940.0,1,0
+They Planted a Stone,1954.0,1,0
+They Knew What They Wanted,1941.0,1,0
+The Fighting Lady,1945.0,1,1
+These Three,1937.0,1,0
+The Final Inch,2009.0,1,0
+The Young Land,1960.0,1,0
+There Goes My Heart,1939.0,1,0
+The Finest Hours,1965.0,1,0
+The Firemen's Ball,1969.0,1,0
+Them!,1955.0,1,0
+Their Own Desire,1931.0,1,0
+Theeb,2016.0,1,0
+The First Piano Quartette,1955.0,1,0
+The First Wives Club,1997.0,1,0
+The World Is Rich,1948.0,1,0
+The Woman in the Window,1946.0,1,0
+The Weather Underground,2004.0,1,0
+The Glass Cell,1979.0,1,0
+The Gazebo,1960.0,1,0
+The Ghost and Mrs. Muir,1948.0,1,0
+The Ghost and the Darkness,1997.0,1,1
+The Wild Bunch: An Album in Montage,1997.0,1,0
+The Gifts,1971.0,1,0
+The Girl Said No,1938.0,1,0
+The White Helmets,2017.0,1,1
+The Girl with the Pistol,1969.0,1,0
+The White Cliffs of Dover,1945.0,1,0
+The Wild Thornberrys Movie,2003.0,1,0
+The Go-Between,1972.0,1,0
+The Goddess,1959.0,1,0
+The Whisperers,1968.0,1,0
+The Whales of August,1988.0,1,0
+The Wetback Hound,1958.0,1,1
+The West Point Story,1951.0,1,0
+The Wedding Banquet,1994.0,1,0
+The Golden Fish,1960.0,1,1
+The Gay Parisian,1942.0,1,0
+The Gay Deception,1936.0,1,0
+"The Frog, the Dog and the Devil",1987.0,1,0
+The Further Adventures of Uncle Sam: Part Two,1971.0,1,0
+The Woman in Red,1985.0,1,1
+The Wolfman,2011.0,1,1
+The Wolf Men,1970.0,1,0
+The Wizard of the Strings,1986.0,1,0
+The Witness - From the Balcony of Room 306,2009.0,1,0
+The Front,1977.0,1,0
+The Furies,1951.0,1,0
+The Winning Strain,1967.0,1,0
+The Game (Igra),1964.0,1,0
+The Gatekeepers,2013.0,1,0
+The Window,1950.0,1,0
+The Gang's All Here,1944.0,1,0
+The Garden Spider (Epeira Diadema),1953.0,1,0
+The Wind Rises,2014.0,1,0
+The Garden of Eden,1985.0,1,0
+The Wildest Show in the South: The Angola Prison Rodeo,2000.0,1,0
+The Garden,2009.0,1,0
+The Wild and the Brave,1975.0,1,0
+"$1,000 a Minute",1936.0,1,0
+On Any Sunday,1972.0,1,0
+Shenandoah,1966.0,1,0
+"Dog, Cat and Canary",1945.0,1,0
+Dillinger,1946.0,1,0
+Dimanche/Sunday,2012.0,1,0
+Diner,1983.0,1,0
+Dirty Dancing,1988.0,1,1
+Dirty Pretty Things,2004.0,1,0
+Dirty Wars,2014.0,1,0
+Dive-Hi Champs,1947.0,1,0
+Divided We Fall,2001.0,1,0
+Divorce American Style,1968.0,1,0
+Doctor De Soto,1985.0,1,0
+Doctor Strange,2017.0,1,0
+Dodes'ka-Den,1972.0,1,0
+Dogtooth,2011.0,1,0
+Diary of a Mad Housewife,1971.0,1,0
+Doing Time: Life inside the Big House,1992.0,1,0
+Dolphins,2001.0,1,0
+Don Juan DeMarco,1996.0,1,0
+Don't Mess with Bill,1981.0,1,0
+Don't Talk,1943.0,1,0
+Don't Tell,2006.0,1,0
+Don't,1975.0,1,1
+Donald in Mathmagic Land,1960.0,1,0
+Donald's Crime,1946.0,1,0
+Donnie Brasco,1998.0,1,0
+Double Feature,1985.0,1,0
+Double or Nothing,1937.0,1,0
+Die Rote Jacke (The Red Jacket),2004.0,1,0
+Diamonds Are Forever,1972.0,1,0
+Down and Out in America,1987.0,1,1
+Defiance,2009.0,1,0
+Death in Venice,1972.0,1,0
+Death of a Shadow (Dood van een Schaduw),2013.0,1,0
+Death on the Job,1992.0,1,0
+Death on the Nile,1979.0,1,1
+Debonair Dancers,1987.0,1,0
+December 7th,1944.0,1,1
+Declaration of Independence,1939.0,1,1
+Deconstructing Harry,1998.0,1,0
+Dedalo,1977.0,1,0
+Deep South,1938.0,1,0
+Deep Waters,1949.0,1,0
+Defending Our Lives,1994.0,1,1
+Deliver Us from Evil,2007.0,1,0
+Detouring America,1940.0,1,0
+Departures,2009.0,1,1
+Der Fuehrer's Face,1943.0,1,1
+Dersu Uzala,1976.0,1,1
+Desert Killer,1953.0,1,0
+Desert Victory,1944.0,1,1
+Desert Wonderland,1943.0,1,0
+Design for Death,1948.0,1,1
+Designing Woman,1958.0,1,1
+Desire under the Elms,1959.0,1,0
+Desperate Journey,1943.0,1,0
+Destination Tokyo,1944.0,1,0
+Destino,2004.0,1,0
+Doubletalk,1976.0,1,0
+Down on the Farm,1942.0,1,0
+Everybody Famous!,2001.0,1,0
+Endless Love,1982.0,1,0
+El Crimen del Padre Amaro,2003.0,1,0
+El Norte,1985.0,1,0
+El Salvador: Another Vietnam,1982.0,1,0
+Election Night (Valgaften),1999.0,1,1
+Election,2000.0,1,0
+Electra,1963.0,1,0
+Elle,2017.0,1,0
+Elling,2002.0,1,0
+Embrace of the Serpent,2016.0,1,0
+Emma,1933.0,1,0
+Employees Only,1959.0,1,0
+Encounters at the End of the World,2009.0,1,0
+Ennemis Intérieurs,2017.0,1,0
+Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott,1982.0,1,0
+Enron: The Smartest Guys in the Room,2006.0,1,0
+Entre Nous,1984.0,1,0
+Eraser,1997.0,1,0
+Ernest & Celestine,2014.0,1,0
+Ernst & Lyset,1997.0,1,0
+Ersatz (The Substitute),1962.0,1,1
+Escape Me Never,1936.0,1,0
+Eskimo,1935.0,1,1
+Esposados,1997.0,1,0
+Eternally Yours,1940.0,1,0
+Europa Europa,1992.0,1,0
+Every Child,1980.0,1,1
+El Amor Brujo,1968.0,1,0
+"Edward, My Son",1950.0,1,0
+Down on the Waterfront,1994.0,1,0
+Dune,1985.0,1,0
+Downfall,2005.0,1,0
+Dr. Cyclops,1941.0,1,0
+Dr. Ehrlich's Magic Bullet,1941.0,1,0
+Dr. Jekyll and Mr. Mouse,1948.0,1,0
+Drag;,1930.0,1,0
+Dragonheart,1997.0,1,0
+Dream Doll,1980.0,1,0
+Dream Wife,1954.0,1,0
+Drive,2012.0,1,0
+Drunk Driving,1940.0,1,0
+Duke of Groove,1996.0,1,0
+Dummy Ache,1937.0,1,0
+Duo,1969.0,1,0
+Edward Scissorhands,1991.0,1,0
+Dust of Life,1996.0,1,0
+Dylan Thomas,1963.0,1,1
+Dynamite,1930.0,1,0
+Earl Carroll Vanities,1946.0,1,0
+East Lynne,1932.0,1,0
+East-West,2000.0,1,0
+Easter Parade,1949.0,1,1
+Eastern Promises,2008.0,1,0
+Eat Drink Man Woman,1995.0,1,0
+"Edison, the Man",1941.0,1,0
+Educated Fish,1938.0,1,0
+Educating Peter,1993.0,1,1
+Death Becomes Her,1993.0,1,1
+Dear Rosie,1991.0,1,0
+Dear John,1966.0,1,0
+Coney Island,1944.0,1,0
+Code Gray: Ethical Dilemmas in Nursing,1985.0,1,0
+College Queen,1947.0,1,0
+Colonel Redl,1986.0,1,0
+Colors Straight Up,1998.0,1,0
+Combat Report,1943.0,1,0
+Come Blow Your Horn,1964.0,1,0
+Come Fill the Cup,1952.0,1,0
+Comes a Horseman,1979.0,1,0
+Commandos Strike at Dawn,1944.0,1,0
+Common Threads: Stories from the Quilt,1990.0,1,1
+Complaints of a Dutiful Daughter,1995.0,1,0
+Comrade X,1941.0,1,0
+Confidence,1981.0,1,0
+Closely Watched Trains,1968.0,1,1
+Conquer by the Clock,1943.0,1,0
+Conquest of Light,1976.0,1,0
+Contact,1993.0,1,0
+Contact,1998.0,1,0
+Copy Shop,2002.0,1,0
+Coquette,1930.0,1,1
+Coraline,2010.0,1,0
+Corvette K-225,1944.0,1,0
+Cosmic Voyage,1997.0,1,0
+Country Strong,2011.0,1,0
+Country,1985.0,1,0
+Coup de Torchon ('Clean Slate'),1983.0,1,0
+Coco before Chanel,2010.0,1,0
+Closed Mondays,1975.0,1,1
+Dear Heart,1965.0,1,0
+CitizenFour,2015.0,1,1
+Chitty Chitty Bang Bang,1969.0,1,0
+Chopin's Musical Moments,1947.0,1,0
+Christ among the Primitives,1954.0,1,0
+Christmas Cracker,1965.0,1,0
+Christmas Holiday,1945.0,1,0
+Christmas under Fire,1942.0,1,0
+Christo's Valley Curtain,1974.0,1,0
+Christopher Crumpet,1954.0,1,0
+Churchill's Island,1942.0,1,1
+Cinderella Horse,1949.0,1,0
+Cinderella,2016.0,1,0
+Cinema Paradiso,1990.0,1,1
+City Out of Wilderness,1975.0,1,0
+Close to Eden,1993.0,1,0
+City Slickers,1992.0,1,1
+City of Gold,1958.0,1,0
+City of Wax,1935.0,1,1
+Claude Lanzmann: Spectres of the Shoah,2016.0,1,0
+Claudelle Inglish,1962.0,1,0
+Claudine,1975.0,1,0
+Clay or The Origin of Species,1966.0,1,0
+Click,2007.0,1,0
+Climbing the Matterhorn,1948.0,1,1
+Climb,1975.0,1,0
+Clockmaker,1974.0,1,0
+Close Harmony,1982.0,1,1
+Couples and Robbers,1982.0,1,0
+Course Completed,1988.0,1,0
+Cow Dog,1957.0,1,0
+Day & Night,2011.0,1,0
+Dancing Pirate,1937.0,1,0
+Danger under the Sea,1952.0,1,0
+Dangerous Moves,1985.0,1,1
+Dangerous,1936.0,1,1
+Dark Eyes,1988.0,1,0
+Darwin's Nightmare,2006.0,1,0
+Das Rad,2003.0,1,0
+Daughter from Danang,2003.0,1,0
+Daughter of the Bride,1998.0,1,0
+Dave,1994.0,1,0
+Dawn Flight,1976.0,1,0
+Dawn of the Planet of the Apes,2015.0,1,0
+Day One,2016.0,1,0
+Cowboy,1959.0,1,0
+Day for Night,1974.0,1,1
+Day of Battle,1944.0,1,0
+Day of the Painter,1961.0,1,1
+Daybreak in Udi,1950.0,1,1
+Daylight,1997.0,1,0
+Days of Glory (Indigènes),2007.0,1,0
+Days of Glory,1945.0,1,0
+Days of Thunder,1991.0,1,0
+Days of Waiting,1991.0,1,1
+"De Tripas, Corazon",1997.0,1,0
+"Deadly Deception: General Electric, Nuclear Weapons and Our Environment",1992.0,1,1
+Dear Diary,1997.0,1,1
+Dancer in the Dark,2001.0,1,0
+Dancemaker,1999.0,1,0
+Dance Lexie Dance,1998.0,1,0
+Damn Yankees,1959.0,1,0
+Cowboy,1967.0,1,0
+Crack USA: County under Siege,1990.0,1,0
+Crac,1982.0,1,1
+Cradle of Genius,1962.0,1,0
+Crash Dive,1944.0,1,1
+Crashing the Water Barrier,1957.0,1,1
+Crazy Mixed Up Pup,1955.0,1,0
+Crazylegs,1954.0,1,0
+Creature Comforts,1991.0,1,1
+Creed,2016.0,1,0
+Crisis Hotline: Veterans Press 1,2015.0,1,1
+Cruise Control,1993.0,1,0
+Culture,1999.0,1,0
+Curfew,2013.0,1,1
+Curse of the Golden Flower,2007.0,1,0
+Curtain Call,2001.0,1,0
+Cutie and the Boxer,2014.0,1,0
+Cyrano de Bergerac,1951.0,1,1
+Czechoslovakia 1968,1970.0,1,1
+D-Day Remembered,1995.0,1,0
+Dad,1990.0,1,0
+Daens,1993.0,1,0
+Dae,1980.0,1,0
+Daisy Miller,1975.0,1,0
+Damage,1993.0,1,0
+Every Day's a Holiday,1938.0,1,0
+Everything Will Be Okay (Alles Wird Gut),2016.0,1,0
+China's Unnatural Disaster: The Tears of Sichuan Province,2010.0,1,0
+Gone Girl,2015.0,1,0
+Going Places,1939.0,1,0
+Going the Distance,1980.0,1,0
+Going to Blazes,1949.0,1,0
+Gold Diggers of 1933,1934.0,1,0
+Gold Diggers of 1937,1937.0,1,0
+Golden Boy,1940.0,1,0
+Golden Girl,1952.0,1,0
+Golden Horses,1947.0,1,0
+Goldfinger,1965.0,1,1
+Gold,1975.0,1,0
+Goliath II,1961.0,1,0
+Gone Baby Gone,2008.0,1,0
+Gone Nutty,2004.0,1,0
+God of Love,2011.0,1,1
+"Good Morning, Vietnam",1988.0,1,0
+Good Morning,1972.0,1,0
+Good News,1948.0,1,0
+Good Scouts,1939.0,1,0
+Good Will to Men,1956.0,1,0
+Good-bye Miss Turlock,1948.0,1,1
+"Goodbye, Columbus",1970.0,1,0
+Goodie-Two-Shoes,1984.0,1,0
+Goodnight Miss Ann,1979.0,1,0
+Gopher Broke,2005.0,1,0
+Graffiti,1986.0,1,0
+Grand Canyon,1959.0,1,1
+Gods of Metal,1983.0,1,0
+God Sleeps in Rwanda,2006.0,1,0
+Grand Hotel,1933.0,1,1
+"Girl, Interrupted",2000.0,1,1
+George Washington Slept Here,1943.0,1,0
+George and Rosemary,1988.0,1,0
+Georgia,1996.0,1,0
+Gerald McBoing-Boing on Planet Moo,1957.0,1,0
+Gerald McBoing-Boing,1951.0,1,1
+Geri's Game,1998.0,1,1
+Geronimo: An American Legend,1994.0,1,0
+Gervaise,1957.0,1,0
+Get Out Your Handkerchiefs,1979.0,1,1
+Get a Horse!,2014.0,1,0
+Ghost World,2002.0,1,0
+Gigot,1963.0,1,0
+Girls' School,1939.0,1,0
+God Is the Bigger Elvis,2012.0,1,0
+Giuseppina,1961.0,1,1
+"Give 'em Hell, Harry!",1976.0,1,0
+Give Me Liberty,1937.0,1,1
+Give Up Yer Aul Sins,2002.0,1,0
+Give Us the Earth,1948.0,1,0
+Glass,1960.0,1,1
+Glen Campbell...I'll Be Me,2015.0,1,0
+Glengarry Glen Ross,1993.0,1,0
+Gloria,1981.0,1,0
+Glorious Betsy,1929.0,1,0
+Go for Broke!,1952.0,1,0
+Go into Your Dance;,1936.0,1,0
+Grand Canyon,1992.0,1,0
+Grand Illusion,1939.0,1,0
+Everything in This Country Must,2005.0,1,0
+Heartbeeps,1982.0,1,0
+Harry Potter and the Half-Blood Prince,2010.0,1,0
+Harry and the Butler,1962.0,1,0
+Harry and the Hendersons,1988.0,1,1
+Harvest,1968.0,1,0
+Harvie Krumpet,2004.0,1,1
+Hatari!,1963.0,1,0
+Hatch Up Your Troubles,1950.0,1,0
+Havana,1991.0,1,0
+He Makes Me Feel Like Dancin',1984.0,1,1
+Head over Heels,2013.0,1,0
+Heart Like a Wheel,1984.0,1,0
+Heart to Heart,1949.0,1,0
+Heartbreak Ridge,1956.0,1,0
+Harp of Burma,1957.0,1,0
+Heartbreak Ridge,1987.0,1,0
+Hearts and Minds,1975.0,1,1
+Heaven's Gate,1982.0,1,0
+Heavenly Creatures,1995.0,1,0
+Heavenly Music,1944.0,1,1
+Hedd Wyn,1994.0,1,0
+Hedda,1976.0,1,0
+Helen Keller in Her Story,1956.0,1,1
+Helicopter Canada,1967.0,1,0
+Helium,2014.0,1,1
+Hell and Back Again,2012.0,1,0
+Hell and High Water,1955.0,1,0
+Harry Potter and the Goblet of Fire,2006.0,1,0
+Harlem Nights,1990.0,1,0
+Grandad of Races,1951.0,1,1
+Guest in the House,1946.0,1,0
+Grandma Moses,1951.0,1,0
+Granny O'Grimm's Sleeping Beauty,2010.0,1,0
+Grasshoppers (Cavallette),1991.0,1,0
+Gravity Is My Enemy,1978.0,1,1
+Grease,1979.0,1,0
+Great,1976.0,1,1
+Green Card,1991.0,1,0
+Green Grass of Wyoming,1949.0,1,0
+Greetings Bait!,1944.0,1,0
+Gregor's Greatest Invention,2002.0,1,0
+Guard Dog,2005.0,1,0
+Guest Wife,1946.0,1,0
+Gullah Tales,1989.0,1,0
+"Harlan County, U.S.A.",1977.0,1,1
+Gunga Din,1940.0,1,0
+Hail the Conquering Hero,1945.0,1,0
+"Hail, Caesar!",2017.0,1,0
+Half Nelson,2007.0,1,0
+Half a House,1977.0,1,0
+Hallelujah,1931.0,1,0
+Hank Aaron: Chasing the Dream,1996.0,1,0
+Hanussen,1989.0,1,0
+Happy Feet,2007.0,1,1
+Happy New Year,1988.0,1,0
+Happy-Go-Lucky,2009.0,1,0
+Hardwood,2005.0,1,0
+George Grosz' Interregnum,1961.0,1,0
+Genocide,1982.0,1,1
+Genghis Blues,2000.0,1,0
+First Contact,1984.0,1,0
+Festival,1968.0,1,0
+Fiddlefest--Roberta Tzavaras and Her East Harlem Violin Program,1996.0,1,0
+Fiesta,1948.0,1,0
+Fifty Percent Grey,2002.0,1,0
+Fifty Shades of Grey,2016.0,1,0
+Fight Club,2000.0,1,0
+Fight of the Wild Stallions,1948.0,1,0
+Fighting for Our Lives,1976.0,1,0
+Finding Vivian Maier,2015.0,1,0
+"Fine Food, Fine Pastries, Open 6 to 9",1990.0,1,0
+Fire at Sea,2017.0,1,0
+Fires of Kuwait,1993.0,1,0
+First Edition,1978.0,1,0
+Ferdinand the Bull,1939.0,1,1
+First Love,1971.0,1,0
+First Steps,1948.0,1,1
+First Winter,1982.0,1,0
+Fish Fry,1945.0,1,0
+Five Star Final,1933.0,1,0
+Five Times Five,1940.0,1,0
+Flamenco at 5:15,1984.0,1,1
+Flat Top,1953.0,1,0
+Flatliners,1991.0,1,0
+Flight Command,1942.0,1,0
+Flight for Freedom,1944.0,1,0
+Floating Free,1978.0,1,0
+Ferry Tales,2004.0,1,0
+Feral,2014.0,1,0
+Generation on the Wind,1980.0,1,0
+Facing Fear,2014.0,1,0
+Evil,2004.0,1,0
+Evolution,1972.0,1,0
+Excalibur,1982.0,1,0
+Exit through the Gift Shop,2011.0,1,0
+Exit,1987.0,1,0
+Experiment Perilous,1946.0,1,0
+Exploratorium,1975.0,1,0
+Extremis,2017.0,1,0
+Eyes of the Navy,1941.0,1,0
+Eyes on the Prize: America's Civil Rights Years/Bridge to Freedom 1965,1988.0,1,0
+Eyewitness,2000.0,1,0
+Face/Off,1998.0,1,0
+Facing Your Danger,1947.0,1,1
+Fellini Satyricon,1971.0,1,0
+Fait D'Hiver,2003.0,1,0
+Fall Line,1981.0,1,0
+Family Gathering,1989.0,1,0
+Famous Fred,1998.0,1,0
+Far from the Madding Crowd,1968.0,1,0
+"Farewell, My Lovely",1976.0,1,0
+Farinelli: Il Castrato,1995.0,1,0
+Fat City,1973.0,1,0
+Fate Is the Hunter,1965.0,1,0
+Father and Daughter,2001.0,1,1
+Fearless,1994.0,1,0
+Feast,2015.0,1,1
+Flowers and Trees,1933.0,1,1
+Fly Away Home,1997.0,1,0
+Flying Down to Rio,1935.0,1,0
+Full Metal Jacket,1988.0,1,0
+Franz Kafka's It's a Wonderful Life,1995.0,1,1
+Freedom on My Mind,1995.0,1,0
+Freeheld,2008.0,1,1
+French Roast,2010.0,1,0
+Frenchman's Creek,1946.0,1,1
+Fresh Guacamole,2013.0,1,0
+Friendly Enemies,1943.0,1,0
+Frog Story,1973.0,1,0
+From A to Z-Z-Z-Z,1954.0,1,0
+From Generation to Generation,1960.0,1,0
+From Mao to Mozart: Isaac Stern in China,1981.0,1,1
+Front Line,1981.0,1,0
+Fury,1937.0,1,0
+Follow the Boys,1945.0,1,0
+G-Men,1936.0,1,0
+G. I. Honeymoon,1946.0,1,0
+Gaby - A True Story,1988.0,1,0
+Gadgets Galore,1956.0,1,0
+Gagarin,1996.0,1,0
+Gang Cops,1989.0,1,0
+Gasland,2011.0,1,0
+Gate of Hell,1955.0,1,1
+Gates of Paris,1958.0,1,0
+Gattaca,1998.0,1,0
+General Della Rovere,1962.0,1,0
+General Spanky,1937.0,1,0
+Frankenweenie,2013.0,1,0
+Frank Film,1974.0,1,1
+Frances Steloff: Memoirs of a Bookseller,1988.0,1,0
+Fourteen Hours,1952.0,1,0
+"Food, Inc.",2010.0,1,0
+Foothold on Antarctica,1958.0,1,0
+Footnote,2012.0,1,0
+For All Mankind,1990.0,1,0
+For Better or for Worse,1994.0,1,0
+For God and Country,1944.0,1,0
+For Love of Ivy,1969.0,1,0
+For Me and My Gal,1943.0,1,0
+For Scent-Imental Reasons,1950.0,1,1
+For Your Eyes Only,1982.0,1,0
+For the Birds,2002.0,1,1
+For the Boys,1992.0,1,0
+Forbidden Games,1955.0,1,0
+Forbidden Passage,1942.0,1,0
+Forbidden Planet,1957.0,1,0
+Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade,1991.0,1,0
+Forever Amber,1948.0,1,0
+Fortress of Peace,1966.0,1,0
+Forty Boys and a Song,1942.0,1,0
+Foul Play,1979.0,1,0
+Four Days in November,1965.0,1,0
+Four Days in September,1998.0,1,0
+Four Devils;,1930.0,1,0
+Four Feathers,1940.0,1,0
+Four Stones for Kanemitsu,1974.0,1,0
+Chip An' Dale,1948.0,1,0
+Chimps: So Like Us,1991.0,1,0
+She Wore a Yellow Ribbon,1950.0,1,1
+An American Tail,1987.0,1,0
+Amarcord,1975.0,1,1
+Amazon Diary,1990.0,1,0
+Amazon,1998.0,1,0
+American Dream,1991.0,1,1
+American History X,1999.0,1,0
+American Shoeshine,1977.0,1,0
+American Splendor,2004.0,1,0
+Americas in Transition,1982.0,1,0
+Amores Perros,2001.0,1,0
+Amphibious Fighters,1944.0,1,1
+Amy,2016.0,1,1
+An American Dream,1967.0,1,0
+An American Werewolf in London,1982.0,1,1
+Always in My Heart,1943.0,1,0
+An Encounter with Faces,1979.0,1,0
+An Essay on Matisse,1997.0,1,0
+An Impression of John Steinbeck: Writer,1970.0,1,0
+An Occurrence at Owl Creek Bridge,1964.0,1,1
+And Now My Love,1976.0,1,0
+And to Think I Saw It on Mulberry Street,1945.0,1,0
+Angel and Big Joe,1976.0,1,1
+Angela's Ashes,2000.0,1,0
+Angels and Insects,1997.0,1,0
+Angels over Broadway,1941.0,1,0
+Angry Harvest,1986.0,1,0
+Animal Kingdom,2011.0,1,0
+Ama Girls,1959.0,1,1
+Always a New Beginning,1974.0,1,0
+Anna Christie;,1931.0,1,0
+Alice's Restaurant,1970.0,1,0
+Against All Odds,1985.0,1,0
+Against Wind and Tide: A Cuban Odyssey,1982.0,1,0
+Agatha,1980.0,1,0
+Agee,1981.0,1,0
+"Agueda Martinez: Our People, Our Country",1978.0,1,0
+Ajami,2010.0,1,0
+Alaska Wilderness Lake,1972.0,1,0
+Alaska: Spirit of the Wild,1998.0,1,0
+Albert Schweitzer,1958.0,1,1
+Ali Baba Goes to Town,1938.0,1,0
+Alibi;,1930.0,1,0
+Alice in Wonderland,1952.0,1,0
+Alice,1991.0,1,0
+Alvorada (Brazil's Changing Face),1963.0,1,0
+Alien 3,1993.0,1,0
+Alive in the Deep,1942.0,1,0
+All Is Lost,2014.0,1,0
+All Nothing,1981.0,1,0
+All Out for 'V',1943.0,1,0
+All Things Fair,1996.0,1,0
+All about My Mother,2000.0,1,1
+All the Brothers Were Valiant,1954.0,1,0
+Allied,2017.0,1,0
+Alone Yet Not Alone,2014.0,1,0
+Along the Rainbow Trail,1946.0,1,0
+Alsino and the Condor,1983.0,1,0
+Anna & Bella,1986.0,1,1
+Anna,1988.0,1,0
+Ballon Vole (Play Ball!),1962.0,1,0
+Babe: Pig in the City,1999.0,1,0
+Auf der Strecke (On the Line),2009.0,1,0
+August Rush,2008.0,1,0
+Ausreisser (The Runaway),2006.0,1,0
+Austin Powers: The Spy Who Shagged Me,2000.0,1,0
+Australia,2009.0,1,0
+Autism Is a World,2005.0,1,0
+Automania 2000,1964.0,1,0
+Avant Que De Tout Perdre (Just before Losing Everything),2014.0,1,0
+Ave Maria,2016.0,1,0
+Aya,2015.0,1,0
+Ayn Rand: A Sense of Life,1998.0,1,0
+B. F.'s Daughter,1949.0,1,0
+Babes on Broadway,1943.0,1,0
+Atomic Power,1947.0,1,0
+Babette's Feast,1988.0,1,1
+Bachelor Mother,1940.0,1,0
+Bachelor in Paradise,1962.0,1,0
+Back Street,1942.0,1,0
+Back Street,1962.0,1,0
+Back to the Future Part II,1990.0,1,0
+Background,1974.0,1,0
+Badgered,2006.0,1,0
+Bagdad Cafe,1989.0,1,0
+Balalaika,1940.0,1,0
+Balance,1990.0,1,1
+Ballad of a Soldier,1962.0,1,0
+Audioscopiks,1936.0,1,0
+Athletes of the Saddle,1953.0,1,0
+Anne Frank Remembered,1996.0,1,1
+Aquel No Era Yo (That Wasn't Me),2014.0,1,0
+Annie Was a Wonder,1949.0,1,0
+Anomalisa,2016.0,1,0
+Anonymous,2012.0,1,0
+Another Year,2011.0,1,0
+Antarctic Crossing,1959.0,1,0
+Antonia's Line,1996.0,1,1
+Antonia: A Portrait of the Woman,1975.0,1,0
+Ape and Super-Ape,1973.0,1,0
+Appointment for Love,1942.0,1,0
+April Love,1958.0,1,0
+Aquamania,1962.0,1,0
+Aquatic House-Party,1950.0,1,1
+Arms and the Man,1959.0,1,0
+At the Edge of Conquest: The Journey of Chief Wai-Wai,1993.0,1,0
+Army Champions,1942.0,1,0
+Art Is...,1972.0,1,0
+Arthur Rubinstein - The Love of Life,1970.0,1,1
+Arthur and Lillie,1976.0,1,0
+Artie Shaw: Time Is All You've Got,1987.0,1,1
+Artists and Models,1938.0,1,0
+Artists and Orphans: A True Drama,2002.0,1,0
+Arturo Toscanini,1945.0,1,0
+As It Is in Heaven,2005.0,1,0
+Asad,2013.0,1,0
+Asylum,2004.0,1,0
+At Night,2008.0,1,0
+Afterglow,1998.0,1,0
+After the Wedding,2007.0,1,0
+After the Thin Man,1937.0,1,0
+A Farewell to Arms,1958.0,1,0
+A Chairy Tale,1958.0,1,0
+A Chance to Live,1950.0,1,1
+A Chef in Love,1997.0,1,0
+A Christmas Carol,1973.0,1,1
+A City Called Copenhagen,1961.0,1,0
+A City Decides,1957.0,1,0
+A Close Shave,1996.0,1,1
+A Cry in the Dark,1989.0,1,0
+A Day at the Races,1938.0,1,0
+A Day in the Life of Bonnie Consolo,1976.0,1,0
+A Different Approach,1979.0,1,0
+A Dry White Season,1990.0,1,0
+A Few Notes on Our Food Problem,1969.0,1,0
+A Cage of Nightingales,1948.0,1,0
+A Funny Thing Happened on the Way to the Forum,1967.0,1,1
+A Gathering of Eagles,1964.0,1,0
+A Girl in the River: The Price of Forgiveness,2016.0,1,1
+A Grand Day Out,1991.0,1,0
+A Great Day in Harlem,1995.0,1,0
+A Greek Tragedy,1987.0,1,1
+A Gun in His Hand,1946.0,1,0
+A Guy Named Joe,1945.0,1,0
+A Handful of Dust,1989.0,1,0
+A Hatful of Rain,1958.0,1,0
+A Hole in the Head,1960.0,1,1
+A House Is Not a Home,1965.0,1,0
+A Cat in Paris,2012.0,1,0
+A Bug's Life,1999.0,1,0
+After the Axe,1983.0,1,0
+24-Hour Alert,1956.0,1,0
+'Crocodile' Dundee,1987.0,1,0
+(A) Torzija [(A) Torsion],2004.0,1,0
+102 Dalmatians,2001.0,1,0
+12:01 PM,1991.0,1,0
+12,2008.0,1,0
+13 Hours: The Secret Soldiers of Benghazi,2017.0,1,0
+13th,2017.0,1,0
+140 Days under the World,1965.0,1,0
+1776,1973.0,1,0
+1848,1950.0,1,0
+20 Feet from Stardom,2014.0,1,1
+20th Century Women,2017.0,1,0
+3 Misses,2000.0,1,0
+A Boy and His Dog,1947.0,1,1
+3rd Ave. El,1956.0,1,0
+4 Little Girls,1998.0,1,0
+4.1 Miles,2017.0,1,0
+45 Years,2016.0,1,0
+5 Broken Cameras,2013.0,1,0
+7 Faces of Dr. Lao,1965.0,1,0
+7:35 in the Morning (7:35 de la Mañana),2005.0,1,0
+8 Mile,2003.0,1,1
+89mm od Europy (89mm from Europe),1995.0,1,0
+9,2006.0,1,0
+A Better Life,2012.0,1,0
+A Boy Named Charlie Brown,1971.0,1,0
+A Jury of Her Peers,1981.0,1,0
+A King's Story,1968.0,1,0
+A Little Vicious,1992.0,1,0
+About a Boy,2003.0,1,0
+A Story of Healing,1998.0,1,1
+A Time Out of War,1955.0,1,1
+A Time for Burning,1968.0,1,0
+A Time for Justice,1995.0,1,1
+A Time to Love and a Time to Die,1959.0,1,0
+A Voice Is Born: The Story of Niklos Gafni,1948.0,1,0
+A War,2016.0,1,0
+A Way Out of the Wilderness,1969.0,1,0
+A Wild Hare,1941.0,1,0
+A Woman of Affairs;,1930.0,1,0
+A Yank in the R.A.F.,1942.0,1,0
+A Year toward Tomorrow,1967.0,1,1
+Across the Universe,2008.0,1,0
+A Long Way from Nowhere,1971.0,1,0
+Action in the North Atlantic,1944.0,1,0
+Adam Clayton Powell,1990.0,1,0
+Adam and Dog,2013.0,1,0
+Adam's Rib,1951.0,1,0
+Adam,1993.0,1,0
+Addams Family Values,1994.0,1,0
+Adolescence,1967.0,1,0
+Adventure in the Bronx,1942.0,1,0
+Adventures in Perception,1972.0,1,0
+Adventures of Robinson Crusoe,1955.0,1,0
+Affair in Trinidad,1953.0,1,0
+"Africa, Prelude to Victory",1943.0,1,0
+A Stolen Life,1947.0,1,0
+A Stitch for Time,1988.0,1,0
+A Sport Is Born,1961.0,1,0
+A Space to Grow,1969.0,1,0
+A Majority of One,1962.0,1,0
+A Man Called Peter,1956.0,1,0
+A Man Thing (Meska Sprawa),2002.0,1,0
+A Matter of Loaf and Death,2010.0,1,0
+A Mighty Wind,2004.0,1,0
+A Morning Stroll,2012.0,1,0
+A Night at the Movies,1938.0,1,0
+A Note of Triumph: The Golden Age of Norman Corwin,2006.0,1,1
+A Place in the Land,1999.0,1,0
+A Place in the Sun,1961.0,1,0
+A Place in the World,1993.0,1,0
+A Place to Live,1942.0,1,0
+A Portrait of Giselle,1983.0,1,0
+A Preferred List,1934.0,1,0
+A Prophet,2010.0,1,0
+A Queen Is Crowned,1954.0,1,0
+A Rage to Live,1966.0,1,0
+A Royal Affair,2013.0,1,0
+A Ship Comes In,1929.0,1,0
+A Ship Is Born,1943.0,1,0
+A Shocking Accident,1983.0,1,1
+A Simple Story,1980.0,1,0
+A Single Life,2015.0,1,0
+A Single Man,2010.0,1,0
+A Soccer Story (Uma Historia de Futebol),2001.0,1,0
+Ballet Robotique,1983.0,1,0
+Balseros,2004.0,1,0
+Chile: Hasta Cuando?,1987.0,1,0
+Burnt by the Sun,1995.0,1,1
+Brubaker,1981.0,1,0
+Buena Vista Social Club,2000.0,1,0
+Bugsy Malone,1977.0,1,0
+Building Bombs,1991.0,1,0
+Building a Building,1934.0,1,0
+Bull Durham,1989.0,1,0
+Bullfighter and the Lady,1952.0,1,0
+Bullhead,2012.0,1,0
+Bulworth,1999.0,1,0
+Bunny,1999.0,1,1
+Burma VJ,2010.0,1,0
+Burning Down Tomorrow,1991.0,1,0
+Bus Stop,1957.0,1,0
+Brother Bear,2004.0,1,0
+Buster,1989.0,1,0
+Busy Little Bears,1940.0,1,1
+Butch and Sundance: The Early Days,1980.0,1,0
+Butter Lamp (La Lampe Au Beurre De Yak),2015.0,1,0
+Buzkashi Boys,2013.0,1,0
+By Courier,2001.0,1,0
+Cabin in the Sky,1944.0,1,0
+Cactus Flower,1970.0,1,1
+Cadillac Dreams,1989.0,1,0
+Caesar and Cleopatra,1947.0,1,0
+Cain and Mabel,1937.0,1,0
+Calgary Stampede,1949.0,1,0
+Brother Sun Sister Moon,1974.0,1,0
+"Bror, Min Bror (Teis and Nico)",2000.0,1,0
+Camila,1985.0,1,0
+Breaking the Ice,1939.0,1,0
+Bosom Friends,1935.0,1,0
+Boundin',2004.0,1,0
+Bowling for Columbine,2003.0,1,1
+Boy and the World,2016.0,1,0
+Boy on a Dolphin,1958.0,1,0
+Boys and Girls,1984.0,1,1
+Brave Little Tailor,1939.0,1,0
+Bravery in the Field,1980.0,1,0
+Brave,2013.0,1,1
+"Bread, Love and Dreams",1955.0,1,0
+Breaker Morant,1981.0,1,0
+Breaking the Habit,1965.0,1,0
+Breaking the Language Barrier,1962.0,1,0
+Brooms,1996.0,1,0
+Breaking the Waves,1997.0,1,0
+Breathing Lessons: The Life and Work of Mark O'Brien,1997.0,1,1
+Brewster's Millions,1946.0,1,0
+Bride of Frankenstein,1936.0,1,0
+Bridge of Time,1953.0,1,0
+Bridget Jones's Diary,2002.0,1,0
+Bright Star,2010.0,1,0
+Broadway Melody of 1936;,1936.0,1,1
+Broken Rainbow,1986.0,1,1
+Bronx Cheers,1991.0,1,0
+Brooklyn Bridge,1982.0,1,0
+"Brooklyn, U.S.A.",1948.0,1,0
+Camera Thrills,1936.0,1,0
+Camille,1938.0,1,0
+Balzac,1952.0,1,0
+Cheers for Miss Bishop,1942.0,1,0
+Chang,1929.0,1,0
+Chapter Two,1980.0,1,0
+Character,1998.0,1,1
+Charade,1964.0,1,0
+Charade,1985.0,1,1
+Chariots of the Gods,1971.0,1,0
+Charlie Wilson's War,2008.0,1,0
+Charlie and the Chocolate Factory,2006.0,1,0
+Charly,1969.0,1,1
+Chase of Death,1950.0,1,0
+Chasing Ice,2013.0,1,0
+"Chau, beyond the Lines",2016.0,1,0
+Chernobyl Heart,2004.0,1,1
+Chances Are,1990.0,1,0
+Cheyenne Autumn,1965.0,1,0
+Chicks in White Satin,1994.0,1,0
+Chico & Rita,2012.0,1,0
+Children Underground,2002.0,1,0
+Children Without,1965.0,1,0
+Children at Work (Paisti Ag Obair),1974.0,1,0
+Children of Darkness,1984.0,1,0
+Children of Fate,1994.0,1,0
+Children of Heaven,1999.0,1,0
+Children of Mars,1944.0,1,0
+Children of Nature,1992.0,1,0
+Children of Paradise,1947.0,1,0
+Changing Our Minds: The Story of Dr. Evelyn Hooker,1993.0,1,0
+Champions Carry On,1944.0,1,0
+Canary Row,1950.0,1,0
+Caravan,2000.0,1,0
+Canhead,1997.0,1,0
+Canyon Passage,1947.0,1,0
+Captain America: The Winter Soldier,2015.0,1,0
+"Captain Carey, U.S.A.",1951.0,1,1
+Captain Caution,1941.0,1,0
+Captain Eddie,1946.0,1,0
+Captain Fantastic,2017.0,1,0
+Captain Fury,1940.0,1,0
+Captain Kidd,1946.0,1,0
+Captain from Castile,1948.0,1,0
+Capturing the Friedmans,2004.0,1,0
+Caravans,1979.0,1,0
+Carmen,1984.0,1,0
+Champagne for Two,1948.0,1,0
+Carnal Knowledge,1972.0,1,0
+Cartel Land,2016.0,1,0
+Casals Conducts: 1964,1965.0,1,1
+Casanova '70,1966.0,1,0
+Casbah,1949.0,1,0
+Cashback,2006.0,1,0
+Casino Royale,1968.0,1,0
+Casino,1996.0,1,0
+Cats' Play,1975.0,1,0
+Cavalcade of Dance with Veloz and Yolanda,1944.0,1,0
+CaveDigger,2014.0,1,0
+Chagall,1964.0,1,1
+Borrowed Time,2017.0,1,0
+Born into Brothels,2005.0,1,1
+Bored of Education,1937.0,1,1
+Berkeley in the Sixties,1991.0,1,0
+Behind the News,1941.0,1,0
+Being Julia,2005.0,1,0
+Belle Epoque,1994.0,1,1
+Bells Are Ringing,1961.0,1,0
+Beloved,1999.0,1,0
+Ben and Me,1954.0,1,0
+Ben's Mill,1983.0,1,0
+Beneath the 12-Mile Reef,1954.0,1,0
+Benji,1975.0,1,0
+Benjy,1952.0,1,1
+Ben,1973.0,1,0
+Berkeley Square,1934.0,1,0
+Best Boy,1980.0,1,1
+Begin Again,2015.0,1,0
+Best Friends,1983.0,1,0
+Betrayal,1984.0,1,0
+Betty Blue,1987.0,1,0
+Between Heaven and Hell,1957.0,1,0
+Between the Tides,1960.0,1,0
+Beverly Hills Cop II,1988.0,1,0
+Beverly Hills Cop,1985.0,1,0
+Beyond Imagining: Margaret Anderson and the 'Little Review',1993.0,1,0
+Beyond Silence,1961.0,1,0
+Beyond Silence,1998.0,1,0
+Beyond the Forest,1950.0,1,0
+Beyond the Lights,2015.0,1,0
+Beginners,2012.0,1,1
+Before the Rain,1995.0,1,0
+Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2007.0,1,0
+Beaches,1989.0,1,0
+Bang the Drum Slowly,1974.0,1,0
+Banjo on My Knee,1937.0,1,0
+Banning,1968.0,1,0
+Baptism of Fire,1944.0,1,0
+Barbary Coast,1936.0,1,0
+Barefoot in the Park,1968.0,1,0
+Barney's Version,2011.0,1,0
+Batman Begins,2006.0,1,0
+Batman,1990.0,1,1
+Battle Cry,1956.0,1,0
+Battle of Berlin,1974.0,1,0
+Beach Red,1968.0,1,0
+Bear Country,1954.0,1,1
+Before the Mountain Was Moved,1970.0,1,0
+Bear Story,2016.0,1,1
+Beaufort,2008.0,1,0
+Beauty and the Beach,1942.0,1,0
+Beauty and the Bull,1955.0,1,0
+Because You're Mine,1953.0,1,0
+Becky Sharp,1936.0,1,0
+Beep Prepared,1962.0,1,0
+Beethoven's 2nd,1994.0,1,0
+Beetlejuice,1989.0,1,1
+Before Midnight,2014.0,1,0
+Before Night Falls,2001.0,1,0
+Before Sunset,2005.0,1,0
+Beyond the Line of Duty,1943.0,1,1
+Beyond the Walls,1985.0,1,0
+Bicentennial Man,2000.0,1,0
+Blue Valentine,2011.0,1,0
+Blind Vaysha,2017.0,1,0
+Blindscape,1994.0,1,0
+Blithe Spirit,1947.0,1,1
+Blitz Wolf,1943.0,1,0
+Block-Heads,1939.0,1,0
+Blood Ties: The Life and Work of Sally Mann,1994.0,1,0
+Blood on the Land,1966.0,1,0
+Blood on the Sun,1946.0,1,1
+Bloodbrothers,1979.0,1,0
+Blue Grass Gentlemen,1945.0,1,0
+Blue Sky,1995.0,1,1
+Blue Thunder,1984.0,1,0
+Blue Velvet,1987.0,1,0
+Big Broadcast of 1936;,1936.0,1,0
+Blues Highway,1995.0,1,0
+Blues in the Night,1942.0,1,0
+Board and Care,1980.0,1,1
+Bob's Birthday,1995.0,1,1
+Body Team 12,2016.0,1,0
+Bolt,2009.0,1,0
+Bombalera,1945.0,1,0
+Bombardier,1944.0,1,0
+Bomber,1942.0,1,0
+Boogaloo and Graham,2015.0,1,0
+Boogie Woogie Bugle Boy of Company B,1942.0,1,0
+Boomerang!,1948.0,1,0
+Bless the Beasts & Children,1972.0,1,0
+Blaze,1990.0,1,0
+Blaze Busters,1951.0,1,0
+Blake,1970.0,1,0
+Big City Blues,1963.0,1,0
+Big Fish,2004.0,1,0
+Big Hero 6,2015.0,1,1
+Big Mama,2001.0,1,1
+Billy Budd,1963.0,1,0
+Billy Rose's Jumbo,1963.0,1,0
+Billy the Kid,1942.0,1,0
+Binta and the Great Idea (Binta Y La Gran Idea),2007.0,1,0
+Birch Street Gym,1992.0,1,0
+Birdnesters of Thailand (aka 'Shadow Hunters'),1992.0,1,0
+Birds Anonymous,1958.0,1,1
+"Birds Do It, Bees Do It",1976.0,1,0
+Bird,1989.0,1,1
+Birth of the Blues,1942.0,1,0
+Birthday Boy,2005.0,1,0
+Bismarck Convoy Smashed,1944.0,1,0
+Bitter Rice,1951.0,1,0
+Black Fox,1963.0,1,1
+Black Fury,1936.0,1,0
+Black Legion,1938.0,1,0
+Black Orpheus,1960.0,1,1
+Black Rider (Schwarzfahrer),1994.0,1,1
+Black and White in Color,1977.0,1,1
+Blackfly,1992.0,1,0
+Blackwood,1977.0,1,0
+Hell's Angels,1931.0,1,0
+Hellboy II: The Golden Army,2009.0,1,0
+Hellfire: A Journey from Hiroshima,1988.0,1,0
+One Day in September,2000.0,1,1
+Omnibus,1993.0,1,1
+'38',1987.0,1,0
+On Hope,1995.0,1,0
+On Tiptoe: Gentle Steps to Freedom,2001.0,1,0
+On the Bowery,1958.0,1,0
+On the Ropes,2000.0,1,0
+On the Town,1950.0,1,1
+On the Twelfth Day...,1956.0,1,0
+"Once More, My Darling",1950.0,1,0
+Once upon a Honeymoon,1943.0,1,0
+Once,2008.0,1,1
+One Day Crossing,2001.0,1,0
+One Droopy Knight,1958.0,1,0
+Old Mill Pond,1937.0,1,0
+One Fine Day,1997.0,1,0
+One Foot in Heaven,1942.0,1,0
+One Hour with You,1933.0,1,0
+One Man Band,2006.0,1,0
+"One Potato, Two Potato",1965.0,1,0
+One Survivor Remembers,1996.0,1,1
+One True Thing,1999.0,1,0
+One Way Passage,1934.0,1,1
+One Who Came Back,1952.0,1,0
+One from the Heart,1983.0,1,0
+One in a Million,1937.0,1,0
+"One, Two, Three",1962.0,1,0
+Omar,2014.0,1,0
+Oktapodi,2009.0,1,0
+One-Eyed Men Are Kings,1975.0,1,1
+O Quatrilho,1996.0,1,0
+Northwest Passage,1941.0,1,0
+Norway in Revolt,1942.0,1,0
+Not as a Stranger,1956.0,1,0
+Notes on the Popular Arts,1978.0,1,0
+Now Hear This,1963.0,1,0
+Now You See It,1948.0,1,0
+Nowhere in Africa,2003.0,1,1
+No,2013.0,1,0
+Nudnik #2,1965.0,1,0
+Number One,1977.0,1,0
+Number Our Days,1977.0,1,1
+Nurse Edith Cavell,1940.0,1,0
+O.J.: Made in America,2017.0,1,1
+Oisin,1971.0,1,0
+Obsession,1977.0,1,0
+Odd Man Out,1948.0,1,0
+Of Human Bondage,1935.0,1,0
+Of Human Hearts,1939.0,1,0
+Of Men and Demons,1970.0,1,0
+Of Pups and Puzzles,1942.0,1,1
+"Of Time, Tombs and Treasure",1978.0,1,0
+Off the Edge,1977.0,1,0
+"Oh Brother, My Brother",1980.0,1,0
+Oh My Darling,1979.0,1,0
+"Oh, God!",1978.0,1,0
+"Oh, My Nerves",1936.0,1,0
+One-Eyed Jacks,1962.0,1,0
+Open City,1947.0,1,0
+Norbit,2008.0,1,0
+Pat and Mike,1953.0,1,0
+ParaNorman,2013.0,1,0
+Paradise Lost 3: Purgatory,2012.0,1,0
+Paradise Now,2006.0,1,0
+Paradise,1985.0,1,0
+Paramount News Issue #37 (Twentieth Anniversary Issue!  1927.....1947),1947.0,1,0
+Paris 36,2010.0,1,0
+Paris Blues,1962.0,1,0
+Paris--Underground,1946.0,1,0
+Partners,1994.0,1,0
+Parvaneh,2015.0,1,0
+Passport to Nowhere,1948.0,1,0
+Passport to Pimlico,1950.0,1,0
+Patch Adams,1999.0,1,0
+Paperman,2013.0,1,1
+Pathfinder,1988.0,1,0
+Paul Bunyan,1959.0,1,0
+Paul Robeson: Tribute to an Artist,1980.0,1,1
+Paw,1960.0,1,0
+Peace on Earth,1940.0,1,0
+Pear Cider and Cigarettes,2017.0,1,0
+Pearl,2017.0,1,0
+Pennies from Heaven,1937.0,1,0
+Penny Serenade,1942.0,1,0
+Penny Wisdom,1938.0,1,1
+Pentecost,2012.0,1,0
+People Soup,1970.0,1,0
+Papillon,1974.0,1,0
+Papa's Delicate Condition,1964.0,1,1
+Open Doors,1991.0,1,0
+Our Time Is Up,2006.0,1,0
+Open Heart,2013.0,1,0
+Operation Blue Jay,1954.0,1,0
+Operation Homecoming: Writing the Wartime Experience,2008.0,1,0
+Operation Petticoat,1960.0,1,0
+Operation Thunderbolt,1978.0,1,0
+Operation Vittles,1949.0,1,0
+Operator 13,1935.0,1,0
+Orchestra Wives,1943.0,1,0
+Oscar and Lucinda,1998.0,1,0
+Otello,1987.0,1,0
+Other Voices,1969.0,1,0
+Our Curse,2015.0,1,0
+Our Very Own,1951.0,1,0
+Pan,1963.0,1,0
+Outland,1982.0,1,0
+Outside the Law (Hors-la-loi),2011.0,1,0
+Ouverture,1966.0,1,0
+"Over There, 1914-18",1965.0,1,0
+Overnight Sensation,1984.0,1,0
+Overture,1959.0,1,0
+Pacific Liner,1939.0,1,0
+Paddle to the Sea,1968.0,1,0
+Paint Your Wagon,1970.0,1,0
+Paisan,1950.0,1,0
+Paix Sur Les Champs,1971.0,1,0
+Panic in the Streets,1951.0,1,1
+Norman Rockwell's World...An American Dream,1973.0,1,1
+None Shall Escape,1945.0,1,0
+Hellzapoppin',1943.0,1,0
+Mulholland Drive,2002.0,1,0
+Mr. & Mrs. Bridge,1991.0,1,0
+Mr. Blabbermouth!,1943.0,1,0
+Mr. Dodd Takes the Air,1938.0,1,0
+Mr. Gardenia Jones,1943.0,1,0
+Mr. Holland's Opus,1996.0,1,0
+Mr. Hublot,2014.0,1,1
+Mr. Hulot's Holiday,1956.0,1,0
+Mr. Saturday Night,1993.0,1,0
+Mrs. Doubtfire,1994.0,1,1
+Mt. Head,2003.0,1,0
+Muddy River,1982.0,1,0
+Mulan,1999.0,1,0
+Munro,1961.0,1,1
+Mouse and Garden,1961.0,1,0
+Mural on Our Street,1966.0,1,0
+Murder on a Sunday Morning,2002.0,1,1
+"Murder, Inc.",1961.0,1,0
+Murderball,2006.0,1,0
+Murmur of the Heart,1973.0,1,0
+Music Box,1990.0,1,0
+Music by Prudence,2010.0,1,1
+Music for Millions,1946.0,1,0
+Music for the Movies: Bernard Herrmann,1993.0,1,0
+Music in Manhattan,1945.0,1,0
+Music in My Heart,1941.0,1,0
+Mustang,2016.0,1,0
+Movie Pests,1945.0,1,0
+Mouse Wreckers,1949.0,1,0
+My Beautiful Laundrette,1987.0,1,0
+Moonraker,1980.0,1,0
+Mona Lisa,1987.0,1,0
+Mondays at Racine,2013.0,1,0
+Mondo Cane,1964.0,1,0
+Mongol,2008.0,1,0
+Monsieur Lazhar,2012.0,1,0
+Monsieur Pointu,1976.0,1,0
+Monsieur Verdoux,1948.0,1,0
+Monster House,2007.0,1,0
+Monster,2004.0,1,1
+Monument to the Dream,1968.0,1,0
+Moon Rockets,1948.0,1,0
+Moonbird,1960.0,1,1
+Moonrise Kingdom,2013.0,1,0
+Mouse Trouble,1945.0,1,1
+Moonrise,1949.0,1,0
+Moontide,1943.0,1,0
+More about Nostradamus,1941.0,1,0
+More,1999.0,1,0
+Morning Glory,1934.0,1,1
+Moscow Does Not Believe in Tears,1981.0,1,1
+Moscow Moods,1937.0,1,0
+Moscow Strikes Back,1943.0,1,1
+Most (The Bridge),2004.0,1,0
+Mother Goose Goes Hollywood,1939.0,1,0
+Mother India,1958.0,1,0
+Mother Is a Freshman,1950.0,1,0
+My Architect,2004.0,1,0
+My Best Friend's Wedding,1998.0,1,0
+Nocturnal Animals,2017.0,1,0
+Nightcrawler,2015.0,1,0
+Nature's Half Acre,1952.0,1,1
+Nelly's Folly,1962.0,1,0
+Nell,1995.0,1,0
+Neptune's Daughter,1950.0,1,1
+Never Cry Wolf,1984.0,1,0
+Never Give Up: The 20th Century Odyssey of Herbert Zipper,1996.0,1,0
+New Americans,1945.0,1,0
+New Boy,2009.0,1,0
+Nibbles,2004.0,1,0
+Night People,1955.0,1,0
+Night Train,1942.0,1,0
+Night and Day,1947.0,1,0
+Nightlife,1977.0,1,0
+Naked Yoga,1975.0,1,0
+Nights and Days,1977.0,1,0
+Nine Lives,1958.0,1,0
+Nine from Little Rock,1965.0,1,1
+Nine to Five,1981.0,1,0
+No End in Sight,2008.0,1,0
+No Hunting,1956.0,1,0
+No Man's Land,2002.0,1,1
+No Sad Songs for Me,1951.0,1,0
+No Time for Love,1945.0,1,0
+No Time for Nuts,2007.0,1,0
+No Way Out,1951.0,1,0
+Noah's Ark,1960.0,1,0
+Napoleon and Samantha,1973.0,1,0
+Nails,1980.0,1,0
+My Big Fat Greek Wedding,2003.0,1,0
+My Love (Moya Lyubov),2008.0,1,0
+My Boy Johnny,1945.0,1,0
+My Brilliant Career,1981.0,1,0
+My Country 'Tis of Thee,1951.0,1,0
+"My Country, My Country",2007.0,1,0
+My Cousin Vinny,1993.0,1,1
+My Dearest Señorita,1973.0,1,0
+"My Family, Mi Familia",1996.0,1,0
+My Favorite Year,1983.0,1,0
+My Financial Career,1964.0,1,0
+My Geisha,1963.0,1,0
+My Grandmother Ironed the King's Shirts,2000.0,1,0
+My Life as a Zucchini,2017.0,1,0
+My Mother Dreams the Satan's Disciples in New York,2000.0,1,1
+Na Wewe,2011.0,1,0
+My Night at Maud's,1970.0,1,0
+My Night at Maud's,1971.0,1,0
+My Sister Eileen,1943.0,1,0
+My Son John,1953.0,1,0
+"My Son, My Son!",1941.0,1,0
+My Sweet Little Village,1987.0,1,0
+My Uncle,1959.0,1,1
+My Wild Irish Rose,1948.0,1,0
+Mysteries of the Deep,1960.0,1,0
+Mysterious Castles of Clay,1979.0,1,0
+Mystery Street,1951.0,1,0
+Même les Pigeons Vont au Paradis (Even Pigeons Go to Heaven),2008.0,1,0
+People of the Wind,1977.0,1,0
+Period of Adjustment,1963.0,1,0
+Perri,1958.0,1,0
+Sadie Thompson,1929.0,1,0
+Rooftops of New York,1962.0,1,0
+Room on the Broom,2014.0,1,0
+Roommates,1996.0,1,0
+Rooty Toot Toot,1952.0,1,0
+Rose Kennedy: A Life to Remember,1991.0,1,0
+Royal Scotland,1953.0,1,0
+Royal Wedding,1952.0,1,0
+Rugged Bear,1954.0,1,0
+Ruggles of Red Gap,1936.0,1,0
+Runaway Brain,1996.0,1,0
+Russian Soil,1942.0,1,0
+Ryan,2005.0,1,1
+Sagebrush and Silver,1942.0,1,0
+Romance of Transportation,1953.0,1,0
+Saint Matthew Passion,1967.0,1,0
+Salaam Bombay!,1989.0,1,0
+Salim Baba,2008.0,1,0
+Sallah,1965.0,1,0
+Sally,1931.0,1,0
+Salty O'Rourke,1946.0,1,0
+Salt,2011.0,1,0
+Samba-Mania,1949.0,1,0
+Samoa,1957.0,1,0
+Sam,1987.0,1,0
+Sandakan No. 8,1976.0,1,0
+Sandy Claws,1955.0,1,0
+Romancing the Stone,1985.0,1,0
+Romance of Radium,1938.0,1,0
+Sanjay's Super Team,2016.0,1,0
+Rip Van Winkle,1979.0,1,0
+Revanche,2009.0,1,0
+Rhapsody in Rivets,1942.0,1,0
+Rhythm in the Ranks,1942.0,1,0
+Rhythm on the River,1941.0,1,0
+"Rich, Young and Pretty",1952.0,1,0
+Richard III,1957.0,1,0
+Ride the Pink Horse,1948.0,1,0
+Ridicule,1997.0,1,0
+Ridin' on a Rainbow,1942.0,1,0
+Ridin' the Rails,1952.0,1,0
+Riding High,1944.0,1,0
+Rio,2012.0,1,0
+Rippling Romance,1946.0,1,0
+Roller Derby Girl,1950.0,1,0
+Rise of the Planet of the Apes,2012.0,1,0
+Road to Rio,1948.0,1,0
+Road to Utopia,1947.0,1,0
+Rob Roy,1996.0,1,0
+Robert Frost: A Lover's Quarrel with the World,1964.0,1,1
+Robert Kennedy Remembered,1969.0,1,1
+Roberta,1936.0,1,0
+Robin Hood: Prince of Thieves,1992.0,1,0
+Robin Hoodlum,1949.0,1,0
+Robin Hood,1974.0,1,0
+Rocky III,1983.0,1,0
+Rogue Cop,1955.0,1,0
+Sand,1950.0,1,0
+Saraband,1950.0,1,0
+Persepolis,2008.0,1,0
+Seven Days to Noon,1952.0,1,1
+Seeds of Destiny,1947.0,1,1
+Seeing Hands,1944.0,1,0
+Seeing Red,1984.0,1,0
+Self Defense--For Cowards,1963.0,1,0
+Selling Out,1973.0,1,0
+Sensations of 1945,1945.0,1,0
+Senzeni Na? (What Have We Done?),1991.0,1,0
+Seraglio,2001.0,1,0
+Serengeti Shall Not Die,1960.0,1,1
+Servant of a Nation,1944.0,1,0
+Service with the Colors,1941.0,1,0
+Session Man,1992.0,1,1
+Seven Thieves,1961.0,1,0
+See What I Say,1982.0,1,0
+Seven,1996.0,1,0
+Sewing Woman,1984.0,1,0
+Sexy Beast,2002.0,1,0
+Shadow of a Doubt,1944.0,1,0
+Shall We Dance,1938.0,1,0
+Shanghai Triad,1996.0,1,0
+Shanks,1975.0,1,0
+Shark Tale,2005.0,1,0
+Shaun the Sheep Movie,2016.0,1,0
+She Done Him Wrong,1934.0,1,0
+She Loves Me Not,1935.0,1,0
+She Married a Cop,1940.0,1,0
+See You at the Pillar,1968.0,1,0
+Secrets of the Heart,1998.0,1,0
+Sarah and Son,1931.0,1,0
+Scratch-As-Catch-Can,1933.0,1,0
+Saratoga Trunk,1947.0,1,0
+Sari's Mother,2008.0,1,0
+Saturday Night Fever,1978.0,1,0
+Saving Face,2012.0,1,1
+Saving Mr. Banks,2014.0,1,0
+Say Goodbye,1971.0,1,0
+Say One for Me,1960.0,1,0
+Scared Straight!,1979.0,1,1
+School in the Mailbox,1948.0,1,0
+School of Assassins,1995.0,1,0
+Schtonk!,1993.0,1,0
+Scottsboro: An American Tragedy,2001.0,1,0
+Screen Play,1993.0,1,0
+Secret Command,1945.0,1,0
+Screen Snapshots' 25th Anniversary,1946.0,1,0
+Screen Snapshots' 50th Anniversary of Motion Pictures,1945.0,1,0
+Screen Souvenirs,1933.0,1,0
+Scrooged,1989.0,1,0
+Seal Island,1949.0,1,1
+Seance on a Wet Afternoon,1965.0,1,0
+Searching for Bobby Fischer,1994.0,1,0
+Searching for Sugar Man,2013.0,1,1
+Seawards the Great Ships,1962.0,1,1
+Second Class Mail,1986.0,1,0
+Second Fiddle,1940.0,1,0
+Seconds,1967.0,1,0
+Reunion in Vienna,1934.0,1,0
+Return to Oz,1986.0,1,0
+Return to Glennascaul,1954.0,1,0
+Pretty Woman,1991.0,1,0
+Portrait of Imogen,1989.0,1,0
+Portugal,1958.0,1,0
+Poseidon,2007.0,1,0
+Possessed,1948.0,1,0
+Possessions,2014.0,1,0
+Poster Girl,2011.0,1,0
+Precious Images,1987.0,1,1
+Predator,1988.0,1,0
+Prelude to War,1943.0,1,1
+Prelude,1969.0,1,0
+Presto,2009.0,1,0
+Pretty Baby,1979.0,1,0
+Pride and Prejudice,1941.0,1,1
+Portia on Trial,1938.0,1,0
+Pride of the Marines,1946.0,1,0
+Primal Fear,1997.0,1,0
+Primrose Path,1941.0,1,0
+Prince of the City,1982.0,1,0
+Princess O'Rourke,1944.0,1,1
+Princeton: A Search for Answers,1974.0,1,1
+Prison Terminal: The Last Days of Private Jack Hall,2014.0,1,0
+Prisoner of Paradise,2003.0,1,0
+Prisoner of the Mountains,1997.0,1,0
+Prisoners,2014.0,1,0
+Private Life,1983.0,1,0
+Private Smith of the U.S.A.,1943.0,1,0
+Portrait of Chieko,1968.0,1,0
+Popular Science J-7-1,1938.0,1,0
+Return of the Seven,1967.0,1,0
+Pigskin Parade,1937.0,1,0
+Pete Kelly's Blues,1956.0,1,0
+Peter & the Wolf,2008.0,1,1
+Peter Ibbetson,1936.0,1,0
+Phaedra,1963.0,1,0
+Phantom of the Paradise,1975.0,1,0
+Pharaoh,1967.0,1,0
+Pianissimo,1964.0,1,0
+Pickup on South Street,1954.0,1,0
+Pieces of April,2004.0,1,0
+Pieces of Dreams,1971.0,1,0
+Pigs Is Pigs,1955.0,1,0
+Pigs in a Polka,1943.0,1,0
+Pina,2012.0,1,0
+Popular Science J-6-2,1937.0,1,0
+Pink and Blue Blues,1953.0,1,0
+Piper,2017.0,1,1
+Pirates,1987.0,1,0
+Pitääkö Mun Kaikki Hoitaa? (Do I Have to Take Care of Everything?),2014.0,1,0
+Placido,1962.0,1,0
+Plan for Destruction,1944.0,1,0
+Planet Ocean,1975.0,1,0
+Pluto's Blue Note,1948.0,1,0
+Plymouth Adventure,1953.0,1,1
+Poetic Justice,1994.0,1,0
+Point of View,1966.0,1,0
+Poltergeist II: The Other Side,1987.0,1,0
+Private Worlds,1936.0,1,0
+Probes in Space,1976.0,1,0
+Project Hope,1962.0,1,1
+Red Garters,1955.0,1,0
+Raoni,1979.0,1,0
+Rashomon,1953.0,1,0
+Rasputin and the Empress,1934.0,1,0
+Raven's End,1965.0,1,0
+Ray's Male Heterosexual Dance Hall,1988.0,1,1
+"Ready, Willing and Able",1938.0,1,0
+Real Steel,2012.0,1,0
+Reason and Emotion,1944.0,1,0
+Rebel in Paradise,1961.0,1,0
+"Reci, Reci, Reci... (Words, Words, Words)",1993.0,1,0
+Recollections of Pavlovsk,1985.0,1,0
+Recycled Life,2007.0,1,0
+Red Grooms: Sunflower in a Hothouse,1987.0,1,0
+Prologue,2016.0,1,0
+Redemption,2013.0,1,0
+Redux Riding Hood,1998.0,1,0
+Regret to Inform,1999.0,1,0
+Rehearsing a Dream,2007.0,1,0
+Rejected,2001.0,1,0
+Rembrandt: A Self-Portrait,1955.0,1,0
+Remember Me,1980.0,1,0
+Remo Williams: The Adventure Begins,1986.0,1,0
+Report from the Aleutians,1944.0,1,0
+Requiem for a Dream,2001.0,1,0
+Resisting Enemy Interrogation,1945.0,1,0
+Restrepo,2011.0,1,0
+Rango,2012.0,1,1
+Rambo: First Blood Part II,1986.0,1,0
+Raju,2012.0,1,0
+Raise the Red Lantern,1992.0,1,0
+Prometheus,2013.0,1,0
+Promises to Keep,1989.0,1,0
+Promises,2002.0,1,0
+Prophet without Honor,1940.0,1,0
+Psychiatric Nursing,1959.0,1,0
+Pulcinella,1974.0,1,0
+Purple Rain,1985.0,1,1
+Puss Gets the Boot,1941.0,1,0
+Puss in Boots,2012.0,1,0
+Qivitoq,1957.0,1,0
+Quality Street,1938.0,1,0
+Queen Margot,1995.0,1,0
+Quest for Camelot,1999.0,1,0
+Quest for Fire,1983.0,1,1
+Quest,1997.0,1,1
+Quicker 'N a Wink,1941.0,1,1
+Quiero Ser (I want to be...),2001.0,1,1
+Quiet Please!,1946.0,1,1
+Rabbit Hole,2011.0,1,0
+Rabbit à la Berlin,2010.0,1,0
+Rachel Getting Married,2009.0,1,0
+Racing Extinction,2016.0,1,0
+Radio Bikini,1988.0,1,0
+Raffles,1931.0,1,0
+Rainbow War,1986.0,1,0
+Mona Lisa Descending a Staircase,1993.0,1,1
+Mon Oncle D'Amerique,1981.0,1,0
+Molly's Pilgrim,1986.0,1,1
+Jammin' the Blues,1945.0,1,0
+It's Tough to Be a Bird,1970.0,1,1
+It's a Great Feeling,1950.0,1,0
+It's the Same World,1981.0,1,0
+Jack Johnson,1971.0,1,0
+Jack London,1945.0,1,0
+Jackass Presents: Bad Grandpa,2014.0,1,0
+Jackie Brown,1998.0,1,0
+"Jacob, the Liar",1977.0,1,0
+Jacqueline Susann's Once Is Not Enough,1976.0,1,0
+Jacques-Yves Cousteau's World without Sun,1965.0,1,1
+Jagged Edge,1986.0,1,0
+James and the Giant Peach,1997.0,1,0
+Jane Eyre,2012.0,1,0
+It's Got Me Again,1933.0,1,0
+Janie,1945.0,1,0
+Jasper and the Beanstalk,1946.0,1,0
+Jenny Is a Good Thing,1970.0,1,0
+Jerry's Cousin,1951.0,1,0
+Jesus Camp,2007.0,1,0
+Jesus Christ Superstar,1974.0,1,0
+Jesus of Montreal,1990.0,1,0
+Jim Dine: A Self-Portrait on the Walls,1996.0,1,0
+Jim: The James Foley Story,2017.0,1,0
+Jimmy Neutron: Boy Genius,2002.0,1,0
+Jimmy the C,1978.0,1,0
+Joan of Paris,1943.0,1,0
+It's So Nice to Have a Wolf around the House,1980.0,1,0
+It's Good to Talk,1998.0,1,0
+Job's Revolt,1984.0,1,0
+Irene,1941.0,1,0
+Inocente,2013.0,1,1
+Inside Fighting China,1943.0,1,0
+Inside Job,2011.0,1,1
+Inside Moves,1981.0,1,0
+Instead of Abracadabra,2010.0,1,0
+Interviews with My Lai Veterans,1971.0,1,1
+Into the Arms of Strangers: Stories of the Kindertransport,2001.0,1,1
+Investigation of a Citizen above Suspicion,1971.0,1,1
+Investigation of a Citizen above Suspicion,1972.0,1,0
+Invisible Agent,1943.0,1,0
+Iphigenia,1978.0,1,0
+Iraq in Fragments,2007.0,1,0
+Irish Eyes Are Smiling,1945.0,1,0
+It's Everybody's War,1943.0,1,0
+Iron Man 2,2011.0,1,0
+Iron Man 3,2014.0,1,0
+Is It Always Right to Be Right?,1971.0,1,1
+Isaac in America: A Journey with Isaac Bashevis Singer,1987.0,1,0
+Isadora,1969.0,1,0
+Islands in the Stream,1978.0,1,0
+Islands of the Sea,1961.0,1,0
+It Happened on Fifth Avenue,1948.0,1,0
+It Happens Every Spring,1950.0,1,0
+It Should Happen to You,1955.0,1,0
+It Started in Naples,1961.0,1,0
+It Started with Eve,1943.0,1,0
+Joanna,2015.0,1,0
+Joe's Violin,2017.0,1,0
+Mohammad - Messenger of God,1978.0,1,0
+Khartoum,1967.0,1,0
+Kapo,1961.0,1,0
+Karama Has No Walls,2014.0,1,0
+Karl Hess: Toward Liberty,1981.0,1,1
+Kate & Leopold,2002.0,1,0
+Katyn,2008.0,1,0
+Kavi,2010.0,1,0
+Keats and His Nightingale: A Blind Date,1986.0,1,0
+Keeper of Promises (The Given Word),1963.0,1,0
+Kenji Comes Home,1950.0,1,0
+Kenojuak,1965.0,1,0
+Kentucky,1939.0,1,1
+Key Largo,1949.0,1,1
+Khovanshchina,1962.0,1,0
+Kama Sutra Rides Again,1973.0,1,0
+Kick Me,1976.0,1,0
+Kill or Be Killed,1944.0,1,0
+Killing Joe,2000.0,1,0
+Killing in the Name,2011.0,1,0
+Kind Lady,1952.0,1,0
+King Gimp,2000.0,1,1
+King of Burlesque,1936.0,1,0
+King of Jazz,1931.0,1,1
+King of the Zombies,1942.0,1,0
+King: A Filmed Record...Montgomery to Memphis,1971.0,1,0
+Kings Point,2013.0,1,0
+Kings of the Turf,1942.0,1,0
+Kangaroo Court,1995.0,1,0
+Kahl,1962.0,1,0
+Joe,1971.0,1,0
+Journey into Self,1969.0,1,1
+Johann Mouse,1953.0,1,1
+John Henry and the Inky Poo,1947.0,1,0
+John Muir's High Sierra,1975.0,1,0
+Johnny Come Lately,1944.0,1,0
+Johnny Doughboy,1943.0,1,0
+Johnny Eager,1943.0,1,1
+Johnny Flynton,2003.0,1,0
+Jolly Little Elves,1935.0,1,0
+Jolly Roger,1999.0,1,0
+Journey for Survival,1982.0,1,0
+Journey into Life: The World of the Unborn,1991.0,1,0
+Journey into Medicine,1948.0,1,0
+Journey of Hope,1991.0,1,1
+K-Z,1973.0,1,0
+Journey to the Outer Limits,1974.0,1,0
+Joy of Living,1954.0,1,0
+Joyeux Noël,2006.0,1,0
+Joy,2016.0,1,0
+Ju Dou,1991.0,1,0
+Juke Box Jamboree,1943.0,1,0
+Julie & Julia,2010.0,1,0
+Junebug,2006.0,1,0
+Junior,1995.0,1,0
+Just Another Missing Kid,1983.0,1,1
+Just Imagine,1932.0,1,0
+Just for You,1953.0,1,0
+Innerspace,1988.0,1,1
+Inja (Dog),2003.0,1,0
+Information Please,1940.0,1,0
+Home in Indiana,1945.0,1,0
+Hitler Lives?,1946.0,1,1
+Hitting a New High,1938.0,1,0
+Hoa-Binh,1971.0,1,0
+Holiday Land,1935.0,1,0
+Holiday Romance,1999.0,1,0
+Holiday,1939.0,1,0
+Hollow Man,2001.0,1,0
+Hollywood Revue,1930.0,1,0
+Hollywood in Uniform,1944.0,1,0
+Hollywood on Trial,1977.0,1,0
+Holy Matrimony,1944.0,1,0
+Homage to Chagall--The Colours of Love,1978.0,1,0
+Home-Made Car,1964.0,1,0
+Hitchcock,2013.0,1,0
+Honeysuckle Rose,1981.0,1,0
+Hoop Dreams,1995.0,1,0
+Hooper,1979.0,1,0
+Hot Millions,1969.0,1,0
+Hotel Terminus: The Life and Times of Klaus Barbie,1989.0,1,1
+House of Flying Daggers,2005.0,1,0
+House on Telegraph Hill,1952.0,1,0
+How War Came,1942.0,1,0
+How to Avoid Friendship,1965.0,1,0
+How to Marry a Millionaire,1954.0,1,0
+How to Play Football,1945.0,1,0
+How to Sleep,1936.0,1,1
+Hitchhike to Happiness,1946.0,1,0
+History of the World in Three Minutes Flat,1981.0,1,0
+Indiscretion of an American Wife,1955.0,1,0
+Hers to Hold,1944.0,1,0
+Helmer & Son,2007.0,1,0
+Help! My Snowman's Burning Down,1965.0,1,0
+Henry & June,1991.0,1,0
+"Henry Browne, Farmer",1943.0,1,0
+Henry,2013.0,1,0
+Herb Alpert and the Tijuana Brass Double Feature,1967.0,1,1
+Hercules,1998.0,1,0
+Here Come the Waves,1946.0,1,0
+Here Comes the Navy,1935.0,1,0
+Hereafter,2011.0,1,0
+Hero,2003.0,1,0
+Herring Hunt,1954.0,1,0
+Hester Street,1976.0,1,0
+Hiss and Yell,1947.0,1,0
+Heureux Anniversaire (Happy Anniversary),1963.0,1,1
+Hi Diddle Diddle,1944.0,1,0
+Hiawatha's Rabbit Hunt,1942.0,1,0
+Hide-Out,1935.0,1,0
+High Grass Circus,1978.0,1,0
+High Note,1961.0,1,0
+High Schools,1985.0,1,0
+High Stakes in the East,1943.0,1,0
+High Time,1961.0,1,0
+High over the Borders,1943.0,1,0
+"Hiroshima, Mon Amour",1961.0,1,0
+His Butler's Sister,1945.0,1,0
+How to Survive a Plague,2013.0,1,0
+How to Train Your Dragon 2,2015.0,1,0
+Howl's Moving Castle,2006.0,1,0
+In Old Arizona;,1930.0,1,0
+Ice-Capades,1942.0,1,0
+If You Love This Planet,1983.0,1,1
+If a Tree Falls: A Story of the Earth Liberation Front,2012.0,1,0
+Il Divo,2010.0,1,0
+Il Supplente (The Substitute),2008.0,1,0
+Imagination,1944.0,1,0
+Immortal Love,1962.0,1,0
+In & Out,1998.0,1,0
+In Beaver Valley,1951.0,1,1
+In Bruges,2009.0,1,0
+In Darkness,2012.0,1,0
+In Harm's Way,1966.0,1,0
+In Our Water,1983.0,1,0
+Humdrum,2000.0,1,0
+In a Better World,2011.0,1,1
+In the Loop,2010.0,1,0
+In the Name of the People,1985.0,1,0
+In the Nuclear Shadow: What Can the Children Tell Us?,1984.0,1,0
+In the Region of Ice,1977.0,1,1
+In the Shadow of the Stars,1992.0,1,1
+In the Valley of Elah,2008.0,1,0
+In the Wee Wee Hours...,1988.0,1,0
+In the Year of the Pig,1970.0,1,0
+Incendiary Blonde,1946.0,1,0
+Incendies,2011.0,1,0
+Incident in New Baghdad,2012.0,1,0
+Ice Castles,1980.0,1,0
+Ice Age,2003.0,1,0
+Icarus Montgolfier Wright,1963.0,1,0
+"I, Robot",2005.0,1,0
+Humoresque,1947.0,1,0
+Hundertwasser's Rainy Day,1973.0,1,0
+Hungarians,1979.0,1,0
+Hunger,1975.0,1,0
+Hunky and Spunky,1939.0,1,0
+Hypothese Beta,1968.0,1,0
+I Am Love,2011.0,1,0
+I Am Not Your Negro,2017.0,1,0
+I Am Sam,2002.0,1,0
+I Am a Promise: The Children of Stanton Elementary School,1994.0,1,1
+I Dream Too Much,1936.0,1,0
+I Even Met Happy Gypsies,1968.0,1,0
+I Love You Rosa,1973.0,1,0
+I Married a Witch,1943.0,1,0
+I Met the Walrus,2008.0,1,0
+I Never Forget a Face,1957.0,1,0
+I Never Promised You a Rose Garden,1978.0,1,0
+I Want You,1952.0,1,0
+I Wanted Wings,1942.0,1,1
+I Was a Communist for the F.B.I.,1952.0,1,0
+I Won't Play,1945.0,1,1
+I'll Find a Way,1978.0,1,1
+I'll Get By,1951.0,1,0
+I'll Wait for the Next One... (J'Attendrai Le Suivant...),2003.0,1,0
+I'm Not There,2008.0,1,0
+Kinsey,2005.0,1,0
+Kiss Me Kate,1954.0,1,0
+Kisses for My President,1965.0,1,0
+Man on Wire,2009.0,1,1
+Major and Minor Miracles,2000.0,1,0
+Make a Wish,1938.0,1,0
+Making Overtures--The Story of a Community Orchestra,1986.0,1,0
+Making Waves,1988.0,1,0
+Malcolm X,1973.0,1,0
+Maleficent,2015.0,1,0
+Mama Turns a Hundred,1980.0,1,0
+Man Alive!,1953.0,1,0
+Man in Space,1957.0,1,0
+Man of Iron,1982.0,1,0
+Man of La Mancha,1973.0,1,0
+Man of a Thousand Faces,1958.0,1,0
+Mandela: Long Walk to Freedom,2014.0,1,0
+Main Street Today,1945.0,1,0
+Mandela,1997.0,1,0
+Mandragola,1967.0,1,0
+Mandy's Grandmother,1979.0,1,0
+Manhattan Melodrama,1935.0,1,1
+Manhattan Merry-Go-Round,1938.0,1,0
+Manipulation,1992.0,1,1
+Mannequin,1939.0,1,0
+Mannequin,1988.0,1,0
+Manon on the Asphalt,2009.0,1,0
+Manson,1973.0,1,0
+Marathon Man,1977.0,1,0
+March of the Penguins,2006.0,1,1
+Main Street on the March!,1942.0,1,1
+Mahogany,1976.0,1,0
+Mardi Gras,1959.0,1,0
+Ludwig,1974.0,1,0
+Longtime Companion,1991.0,1,0
+Look for the Silver Lining,1950.0,1,0
+Lorenzo,2005.0,1,0
+Los Tarantos,1964.0,1,0
+Louisa,1951.0,1,0
+Louisiana Story,1949.0,1,0
+Love Field,1993.0,1,0
+Love Me Forever,1936.0,1,0
+Love Struck,1987.0,1,0
+Lover Come Back,1962.0,1,0
+Loves of a Blonde,1967.0,1,0
+Loving,2017.0,1,0
+Luther Metke at 94,1981.0,1,0
+Magnificent Obsession,1955.0,1,0
+Luxo Jr.,1987.0,1,0
+Lydia,1942.0,1,0
+Macario,1961.0,1,0
+"Madagascar, carnet de voyage (Madagascar, a Journey Diary)",2011.0,1,0
+Madame Bovary,1950.0,1,0
+Madame Bovary,1992.0,1,0
+Madame Rosa,1978.0,1,1
+Madame Tutli-Putli,2008.0,1,0
+Madeline,1953.0,1,0
+Madron,1971.0,1,0
+Maestro,2007.0,1,0
+"Maggie Simpson in ""The Longest Daycare""",2013.0,1,0
+Mardi Gras,1944.0,1,0
+Margin Call,2012.0,1,0
+Kitty,1947.0,1,0
+Mike's New Car,2003.0,1,0
+Meteor,1980.0,1,0
+Metropolitan,1991.0,1,0
+Mexicali Shmoes,1960.0,1,0
+Mickey and the Seal,1949.0,1,0
+Mickey's Christmas Carol,1984.0,1,0
+Mickey's Orphans,1933.0,1,0
+Midnight Lace,1961.0,1,0
+Mighty Joe Young,1950.0,1,1
+Mighty Joe Young,1999.0,1,0
+Mighty Mouse in Gypsy Life,1946.0,1,0
+Mighty Times: The Children's March,2005.0,1,1
+Mighty Times: The Legacy of Rosa Parks,2003.0,1,0
+Million Dollar Mermaid,1953.0,1,0
+Mephisto,1982.0,1,1
+Millions of Years Ahead of Man,1976.0,1,0
+Min and Bill,1932.0,1,1
+Minority Report,2003.0,1,0
+Miracle Fish,2010.0,1,0
+Miracle of Fatima,1953.0,1,0
+Mirror Mirror,2013.0,1,0
+Misery,1991.0,1,1
+Miss Sadie Thompson,1954.0,1,0
+Mission to Moscow,1944.0,1,0
+Mister 880,1951.0,1,0
+Mister Magoo's Puddle Jumper,1957.0,1,1
+Mister Mugg,1934.0,1,0
+Mercy Island,1942.0,1,0
+Menu,1934.0,1,0
+Maria Full of Grace,2005.0,1,0
+Mask,1986.0,1,1
+Marie Antoinette,2007.0,1,1
+Marie-Louise,1946.0,1,1
+Marines in the Making,1943.0,1,0
+Marjoe,1973.0,1,1
+Marjorie Morningstar,1959.0,1,0
+Marlene,1985.0,1,0
+Marriage Italian Style,1965.0,1,0
+Marriage Italian Style,1966.0,1,0
+Married to the Mob,1989.0,1,0
+Marvel's The Avengers,2013.0,1,0
+Marvin's Room,1997.0,1,0
+Mary Shelley's Frankenstein,1995.0,1,0
+Match Point,2006.0,1,0
+Men in Black,1935.0,1,0
+Matewan,1988.0,1,0
+Maurice,1988.0,1,0
+Maverick,1995.0,1,0
+Maya Lin: A Strong Clear Vision,1995.0,1,1
+McCabe & Mrs. Miller,1972.0,1,0
+Me and My Moulton,2015.0,1,0
+Mediterraneo,1992.0,1,1
+Meet John Doe,1942.0,1,0
+Meet Me in Las Vegas,1957.0,1,0
+Meet the Parents,2001.0,1,0
+Memorial: Letters from American Soldiers,1992.0,1,0
+Men against the Arctic,1956.0,1,1
+Long Night's Journey into Day,2001.0,1,0
+Long Day's Journey into Night,1963.0,1,0
+Lonelyhearts,1959.0,1,0
+Land of Mine,2017.0,1,0
+La Venganza,1959.0,1,0
+La Vieille Dame et les Pigeons (The Old Lady and the Pigeons),1998.0,1,0
+La Vérité,1961.0,1,0
+LaLee's Kin: The Legacy of Cotton,2002.0,1,0
+"Lacombe, Lucien",1975.0,1,0
+Lady Be Good,1942.0,1,1
+Lady and Gent,1933.0,1,0
+Lady of Burlesque,1944.0,1,0
+Lady of the Tropics,1940.0,1,0
+Lady on a Train,1946.0,1,0
+Lagaan,2002.0,1,0
+"Lambert, the Sheepish Lion",1952.0,1,0
+Land of My Mother,1944.0,1,0
+Lone Star,1997.0,1,0
+Land of Promise,1976.0,1,0
+Language Says It All,1988.0,1,0
+Lars and the Real Girl,2008.0,1,0
+Las Madres--The Mothers of Plaza de Mayo,1986.0,1,0
+Las Vegas Nights,1942.0,1,0
+Lassie Come Home,1944.0,1,0
+Last Breeze of Summer,1992.0,1,0
+Last Day of Freedom,2016.0,1,0
+Last Days in Vietnam,2015.0,1,0
+Last Summer,1970.0,1,0
+Last Year at Marienbad,1963.0,1,0
+Laughter,1932.0,1,0
+La Salla,1997.0,1,0
+La Maison en Petits Cubes,2009.0,1,1
+La Luna,2012.0,1,0
+La Guerre Est Finie,1968.0,1,0
+Kleingeld (Small Change),2000.0,1,0
+Klondike Fury,1943.0,1,0
+Knickerbocker Holiday,1945.0,1,0
+Knife in the Water,1964.0,1,0
+Knighty Knight Bugs,1959.0,1,1
+Knock on Wood,1955.0,1,0
+Kokoda Front Line!,1943.0,1,1
+Kolya,1997.0,1,1
+Kon-Tiki,1952.0,1,1
+Kon-Tiki,2013.0,1,0
+Koryo Celadon,1980.0,1,0
+"Krakatoa, East of Java",1970.0,1,0
+Krakatoa,1934.0,1,1
+Kudzu,1977.0,1,0
+Kung Fu Panda 2,2012.0,1,0
+Kung Fu Panda,2009.0,1,0
+Kwaidan,1966.0,1,0
+L'Invitation,1974.0,1,0
+L'Uomo in Grigio (The Man in Gray),1962.0,1,0
+La Carte Postale (The Postcard),1999.0,1,0
+La Corona (The Crown),2008.0,1,0
+La Cucaracha,1935.0,1,1
+La Femme et le TGV,2017.0,1,0
+La Fiesta de Santa Barbara,1937.0,1,0
+La Grande Olimpiade (Olympic Games 1960),1962.0,1,0
+Lavatory - Lovestory,2009.0,1,0
+Le Bal,1984.0,1,0
+Le Ciel et la Boue (Sky Above and Mud Beneath),1962.0,1,1
+Little Belgium,1943.0,1,0
+Life Times Nine,1974.0,1,0
+Life at the Zoo,1947.0,1,0
+Life of a Thoroughbred,1942.0,1,0
+Life with Feathers,1946.0,1,0
+"Life, Animated",2017.0,1,0
+Life,2000.0,1,0
+Lifted,2007.0,1,0
+Light in the Window: The Art of Vermeer,1953.0,1,1
+Lillian Russell,1941.0,1,0
+Lilo & Stitch,2003.0,1,0
+Limelight,1973.0,1,1
+Listen to Britain,1943.0,1,0
+Little Big Man,1971.0,1,0
+Le Maillon et la Chaine (The Link and the Chain),1964.0,1,0
+Little Caesar,1932.0,1,0
+Little Fugitive,1954.0,1,0
+Little Isles of Freedom,1943.0,1,0
+Little Johnny Jet,1953.0,1,0
+Little Surprises,1996.0,1,0
+Little Terrorist,2005.0,1,0
+Little Voice,1999.0,1,0
+Live and Let Die,1974.0,1,0
+Live for Life,1968.0,1,0
+Logorama,2010.0,1,1
+Lolita,1963.0,1,0
+London Can Take It,1941.0,1,0
+Life Line,1944.0,1,0
+Lies My Father Told Me,1976.0,1,0
+Lieberman in Love,1996.0,1,1
+Let's Make Love,1961.0,1,0
+Le Mozart des Pickpockets (The Mozart of Pickpockets),2008.0,1,1
+Le Plaisir,1955.0,1,0
+Le Volcan Interdit (The Forbidden Volcano),1967.0,1,0
+Legacy,2001.0,1,0
+Legend,1987.0,1,0
+Leisure,1977.0,1,1
+Lend a Paw,1942.0,1,1
+Lenny Bruce: Swear to Tell the Truth,1999.0,1,0
+Leo Beuerman,1970.0,1,0
+Let It Be,1971.0,1,1
+Let My People Go,1966.0,1,0
+Let's Get Lost,1989.0,1,0
+Let's Pollute,2011.0,1,0
+Library of Congress,1946.0,1,0
+Lethal Weapon 2,1990.0,1,0
+Lethal Weapon,1988.0,1,0
+Letter from Home,1942.0,1,0
+Letter from Livingston,1944.0,1,0
+Letter to a Hero,1944.0,1,0
+Letters from Marusia,1976.0,1,0
+Leviathan,2015.0,1,0
+Li'l Abner,1960.0,1,0
+Libel!,1960.0,1,0
+Libeled Lady,1937.0,1,0
+Liberators: Fighting on Two Fronts in World War II,1993.0,1,0
+Éramos Pocos (One Too Many),2007.0,1,0
